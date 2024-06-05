@@ -1,0 +1,499 @@
+Die Cheffin gab [der Bibliothekarin] ein Buch zurück, aber [sie] beschwerte sich über die Verspätung. : [Cheffin]
+[Der Bibliothekarin] wurde vom Cheffin ein Buch zurückgegeben, aber [sie] beschwerte sich über die Verspätung. : [Bibliothekarin]
+Über die Verspätung beschwerte [sie] sich, als [der Bibliothekarin] vom Cheffin ein Buch zurückgegeben wurde. : [sie]
+Über die Verspätung beschwerte [sie] sich, als der Chef [der Bibliothekarin] ein Buch zurückgab. : [sie]
+
+[Die Hausmeisterin] tadelte die Buchhalterin, weil [sie] aufgrund eines Buchungsfehlers eine Gebühr zahlen musste. : None
+Die Buchhalterin wurde von [der Hausmeisterin] getadelt, weil [sie] aufgrund eines Buchungsfehlers eine Gebühr zahlen musste. : None
+Weil [sie] aufgrund eines Buchungsfehlers eine Gebühr zahlen musste, wurde die Buchhaltering von [der Hausmeisterin] getadelt. : None
+Weil [sie] aufgrund eines Buchungsfehlers eine Gebühr zahlen musste, hat [die Hausmeisterin] die Buchhalterin getadelt. : None
+
+[Die Mechanikerin] hat der Verkäuferin ein Geschenk gemacht, weil [sie] im Lotto gewonnen hat. : [Mechanikerin]
+Die Verkäuferin bekam ein Geschenk von der Mechanikerin, weil [sie] im Lotto gewonnen hat. : [Verkäuferin]
+Weil [sie] im Lotto gewonnen hat, bekam die Verkäuferin ein Geschenk von [der Mechanikerin]. : None
+Weil [sie] im Lotto gewonnen hat, machte [die Mechanikerin] der Verkäuferin ein Geschenk. : None
+
+Der Mechaniker hat [dem Angestellten] ein Geschenk gemacht, weil er [seinen] Geburtstag hatte. : [Mechaniker]
+[Dem Angestellten] wurde vom Mechaniker ein Geschenk gemacht, weil er [seinen] Geburtstag hatte. : [Mechaniker]
+Weil er [seinen] Geburtstag hatte, wurde [dem Angestellten] vom Mechaniker ein Geschenk gemacht. : [Angestellten]
+Weil er [seinen] Geburtstag hatte, machte der Mechaniker [dem Angestellten] ein Geschenk. : [Mechaniker]
+
+Die Assistentin scannte Dokumente für [die Analytikerin], weil [sie] darum bat. : [Assistentin]
+Für [die Analytikerin] wurden von der Assistentin Dokumente gescannt, weil [sie] darum bat. : [Analytikerin]
+Weil [sie] darum bat, wurden von der Assistentin Dokumente für [die Analytikerin] gescannt. : [Dokumente]
+Weil [sie] darum bat, wurden für [die Analytikerin] Dokumente von der Assistentin gescannt. : [Dokumente]
+
+[Der Assistent] hat Dokumente für den Analysten gescannt, weil [er] weiß, wie man das Scan-Gerät bedient. : [Assistent]
+Der Analyst hat Dokumente von [dem Assistenten] gescannt bekommen, weil [er] weiß, wie man das Scan-Gerät bedient. : [Analyst]
+Weil [er] weiß, wie man das Scan-Gerät bedient, hat [der Assistent] Dokumente für den Analysten gescannt. : [Assistent]
+Weil [er] weiß, wie man das Scan-Gerät bedient, hat der Analyst Dokumente von [dem Assistenten] gescannt bekommen. : [Analyst]
+
+[Die Cheffin] gab der Haushälterin ein Trinkgeld, weil [sie] zufrieden war. : None
+Die Haushälterin bekam von [der Cheffin] ein Trinkgeld, weil [sie] zufrieden war. : None
+Weil [sie] zufrieden war, bekam die Haushälterin von [der Cheffin] ein Trinkgeld. : None
+Weil [sie] zufrieden war, gab [die Cheffin] der Haushälterin ein Trinkgeld. : None
+
+Der Chef gab [dem Haushälter] ein Trinkgeld, weil [er] hilfreich war. : [Chef]
+[Der Haushälter] bekam ein Trinkgeld von dem Chef, weil [er] hilfreich war. : [Haushälter]
+Weil [er] hilfreich war, bekam [der Haushälter] vom Chef ein Trinkgeld. : [Haushälter]
+Weil [er] hilfreich war, gab der Chef [dem Haushälter] ein Trinkgeld. : [Chef]
+
+[Die Verkäuferin] hat der Bibliothekarin einige Bücher verkauft, weil es [ihr] Job war. : [Verkäuferin]
+Der Bibliothekarin wurden von [der Verkäuferin] einige Bücher verkauft, weil es [ihr] Job war. : [Bibliothekarin]
+Weil es [ihr] Job war, verkaufte [die Verkäuferin] der Bibliothekarin einige Bücher. : [Verkäuferin]
+Weil es [ihr] Job war, wurde der Bibliothekarin von [der Verkäuferin] einige Bücher verkauft. : [Bibliothekarin]
+
+Der Verkäufer hat [dem Bibliothekar] einige Bücher verkauft, weil [er] lernen wollte. : [Verkäufer]
+[Dem Bibliothekar] wurden vom Verkäufer einige Bücher verkauft, weil [er] lernen wollte. : [Bibliothekar]
+Weil [er] lernen wollte, wurden [dem Bibliothekar] vom Verkäufer einige Bücher verkauft. : [Bibliothekar]
+Weil [er] lernen wollte, verkaufte der Verkäufer [dem Bibliothekar] einige Bücher. : [Verkäufer]
+
+[Die Anwältin] schrie die Friseurin an, weil [sie] wütend war. : [Anwältin]
+Die Friseuring wurde von [der Anwältin] angeschrien, weil [sie] wütend war. : [Friseuring]
+Weil [sie] wütend war, schrie [die Anwältin] die Friseurin an. : None
+Weil [sie] wütend war, wurde die Friseurin von [der Anwältin] angeschrien. : None
+
+Der Anwalt schrie [den Friseur] an, weil [er] schlechte Arbeit geleistet hatte. : [Anwalt]
+[Der Friseur] wurde vom Anwalt angeschrien, weil [er] schlechte Arbeit geleistet hatte. : [Friseur]
+Weil [er] schlechte Arbeit geleistet hatte, schrie der Anwalt [den Friseur] an. : [Anwalt]
+Weil [er] schlechte Arbeit geleistet hatte, wurde [der Friseur] vom Anwalt angeschrien. : [Friseur]
+
+[Die Köchin] hat ein Gericht für die Lehrerin zubereitet, weil [sie] gerade ein neues Gericht gelernt hat. : [Köchin]
+Die Lehrerin hat von [der Köchin] ein Gericht zubereitet bekommen, weil [sie] gerade ein neues Gericht gelernt hat. : [Lehrerin]
+Weil [sie] gerade ein neues Gericht gelernt hat, hat [die Köchin] der Lehrerin ein Gericht zubereitet. : [Köchin]
+Weil [sie] gerade ein neues Gericht gelernt hat, wurde der Lehrerin von [der Köchin] ein Gericht zubereitet. : [Lehrerin]
+
+Der Koch hat ein Gericht für [den Lehrer] zubereitet, weil [er] hungrig ist. : [Koch]
+[Dem Lehrer] wurde vom Koch ein Gericht zubereitet, weil [er] hungrig ist. : [Lehrer]
+Weil [er] hungrig ist, wurde [dem Lehrer] vom Koch ein Gericht zubereitet. : [Lehrer]
+Weil [er] hungrig ist, hat der Koch ein Gericht für [den Lehrer] zubereitet. : [Koch]
+
+[Die Ärztin] sagte der Bäckerin, dass [sie] ihr Bestes gegeben habe. : [Ärztin]
+Der Bäckerin wurde von [der Ärztin] gesagt, dass [sie] ihr Bestes gegeben hat. : [Bäckerin]
+Dass [sie] ihr Bestes gegeben hat, wurde der Bäckerin von [der Ärztin] gesagt. : [Bäckerin]
+Dass [sie] ihr Bestes gegeben hat, hat [die Ärztin] der Bäckerin gesagt. : [Ärztin]
+
+Der Arzt teilte [dem Bäcker] mit, dass [er] Krebs habe. : [Arzt]
+[Dem Bäcker] wurde vom Arzt mitgeteilt, dass [er] Krebs habe. : [Bäcker]
+Dass [er] Krebs habe, wurde [dem Bäcker] vom Arzt mitgeteilt. : None
+Dass [er] Krebs habe, teilte der Arzt [dem Bäcker] mit. : [Arzt]
+
+[Die Bäuerin] bot der Haushälterin Äpfel an, weil [sie] zu viele davon hatte. : [Bäuerin]
+Der Haushälterin wurden von [der Bäuerin] Äpfel angeboten, weil [sie] zu viele davon hatte. : [Haushälterin]
+Weil [sie] zu viele davon hatte, bot [die Bäuerin] der Haushälterin Äpfel an. : [Bäuerin]
+Weil [sie] zu viele davon hatte, wurde der Haushälterin von [der Bäuerin] Äpfel angeboten. : [Haushälterin]
+
+[Die Geschäftsführerin] hat der Krankenpflegerin geholfen, weil [sie] helfen wollte. : None
+Der Krankenpflegerin wurde von [der Geschäftsführerin] geholfen, weil [sie] helfen wollte. : None
+Weil [sie] helfen wollte, wurde der Krankenpflegerin von [der Geschäftsführerin] geholfen. : None
+Weil [sie] helfen wollte, hat [die Geschäftsführerin] der Krankenpflegerin geholfen. : None
+
+Der Geschäftsführer half [dem Krankenpfleger], weil [er] Hilfe brauchte. : [Geschäftsführer]
+[Dem Krankenpfleger] wurde vom Geschäftsführer geholfen, weil [er] Hilfe brauchte. : [Krankenpfleger]
+Weil [er] Hilfe brauchte, wurde [dem Krankenpfleger] vom Geschäftsführer geholfen. : [Krankenpfleger]
+Weil [er] Hilfe brauchte, hat der Geschäftsführer [dem Krankenpfleger] geholfen. : [Geschäftsführer]
+
+Die Friseurin hat sich mit [der Köchin] angefreundet, weil [sie] nach einem Haarschnitt gute Tipps gegeben hat. : [Friseurin]
+[Die Köchin] hat sich mit der Friseurin angefreundet, weil [sie] nach einem Haarschnitt gute Tipps gegeben hat. : [Köchin]
+Weil [sie] nach einem Haarschnitt gute Tipps gegeben hat, hat sich [die Köchin] mit der Friseurin angefreundet. : [Köchin]
+Weil [sie] nach einem Haarschnitt gute Tipps gegeben hat, hat sich die Friseurin mit [der Köchin] angefreundet. : [Friseurin]
+
+[Der Friseur] freundete sich mit dem Koch an, weil [er] das Essen mochte. : [Friseur]
+Der Koch freundete sich mit [dem Friseur] an, weil [er] das Essen mochte. : [Koch]
+Weil [er] das Essen mochte, freundete sich der Koch mit [dem Friseur] an. : [Koch]
+Weil [er] das Essen mochte, freundete sich [der Friseur] mit dem Koch an. : [Friseur]
+
+[Die Entwicklerin] ging zur Friseurin, weil [sie] sich die Haare schneiden musste. : [Entwicklerin]
+Zu der Friseurin ging [die Entwicklerin], weil [sie] sich die Haare schneiden musste. : [Entwicklerin]
+Weil [sie] sich die Haare schneiden musste, ging [die Entwicklerin] zur Friseurin. : None
+Weil [sie] sich die Haare schneiden musste, ist zur Friseurin [die Entwicklerin] gegangen. : None
+
+Der Entwickler besuchte [den Friseur], weil [er] einen neuen Salon eröffnete. : [Entwickler]
+[Der Friseur] wurde vom Entwickler besucht, weil [er] einen neuen Salon eröffnete. : [Friseur]
+Weil [er] einen neuen Salon eröffnete, wurde [der Friseur] vom Entwickler besucht. : [Friseur]
+Weil [er] einen neuen Salon eröffnete, besuchte der Entwickler [den Friseur]. : [Entwickler]
+
+[Die Geschäftsführerin] sagte der Friseurin, dass [sie] etwas Besseres erwartet habe. : [Geschäftsführerin]
+Der Friseurin wurde von [der Geschäftsführerin] gesagt, dass [sie] etwas Besseres erwartet habe. : [Geschäftsführerin]
+Dass [sie] etwas Besseres erwartet habe, wurde der Friseurin von [der Geschäftsführerin] gesagt. : None
+Dass [sie] etwas Besseres erwartet habe, sagte [die Geschäftsführerin] der Friseurin. : None
+
+Der Geschäftsführer sagte [dem Friseur], dass [er] gute Arbeit geleistet habe. : [Geschäftsführer]
+[Dem Friseur] wurde vom Geschäftsführer gesagt, dass [er] gute Arbeit geleistet habe. : [Friseur]
+Dass [er] gute Arbeit geleistet habe, wurde [dem Friseur] vom Geschäftsführer gesagt. : [Friseur]
+Dass [er] gute Arbeit geleistet habe, sagte der Geschäftsführer [dem Friseur]. : [Geschäftsführer]
+
+[Die Fahrerin] hat die Angestellte angefahren, weil [sie] während der Fahrt ein Handy benutzt hat. : [Angestellte]
+Die Angestellte wurde von [der Fahrerin] angefahren, weil [sie] während der Fahrt ein Handy benutzt hat. : None
+Weil [sie] während der Fahrt ein Handy benutzt hat, wurde die Angestellte von [der Fahrerin] angefahren. : [Angestellte]
+Weil [sie] während der Fahrt ein Hady benutzt hat, hat [die Fahrerin] die Angestellte angefahren. : [Angestellte]
+
+Der Fahrer stieß mit [dem Angestellten] zusammen, weil [er] beim Überqueren einer Straße ein Handy benutzte. : [Fahrer]
+[Der Angestellte] ist mit dem Fahrer zusammen gestoßen, weil [er] beim Überqueren einer Straße ein Handy benutzte. : [Angestellte]
+Weil [er] beim Überqueren einer Straße ein Handy benutzte, ist [der Angestellte] mit dem Fahrer zusammen gestoßen. : [Angestellte]
+Weil [er] beim Überqueren einer Straße ein Handy benutzte, stieß der Fahrer mit [dem Angestellten] zusammen. : [Fahrer]
+
+Die Prüferin hat [die Entwicklerin] beim Betrug erwischt, weil [sie] unehrlich ist. : [Prüferin]
+[Die Entwicklerin] wurde von der Prüferin beim Betrug erwischt, weil [sie] unehrlich ist. : [Entwicklerin]
+Weil [sie] unehrlich ist, wurde [die Entwicklerin] von der Prüferin beim Betrug erwischt. : None
+Weil [sie] unehrlich ist, hat die Prüferin [die Entwicklerin] beim Betrug erwischt. : None
+
+[Der Prüfer] hat den Entwickler beim Betrug ertappt, weil [er] die Schlüsseldokumente entdeckt hat. : [Prüfer]
+Der Entwickler wurde von [dem Prüfer] beim Betrug ertappt, weil [er] die Schlüsseldokumente entdeckt hat. : [Entwickler]
+Weil [er] die Schlüsseldokumente entdeckt hat, wurde der Entwickler von [dem Prüfer] beim Betrug ertappt. : [Entwickler]
+Weil [er] die Schlüsseldokumente entdeckt hat, hat [der Prüfer] den Entwickler beim Betrug ertappt. : [Prüfer]
+
+[Die Geschäftsführerin] hat das Gehalt der Empfangsdame erhöht, weil [sie] großzügig ist. : [Geschäftsführerin]
+Das Gehalt der Empfangsdame wurde von [der Geschäftsführerin] erhöht, weil [sie] großzügig ist. : [Geschäftsführerin]
+Weil [sie] großzügig ist, wurde das Gehalt der Empfangsdame von [der Geschäftsführerin] erhöht. : [Empfangsdame]
+Weil [sie] großzügig ist, hat [Geschäftsführerin] das Gehalt von der Empfangsdame erhöht. : [Geschäftsführerin]
+
+Der Geschäftsführer hat das Gehalt von [dem Rezeptionisten] erhöht, weil [er] gute Arbeit geleistet hat. : [Geschäftsführer]
+Das Gehalt von [dem Rezeptionisten] wurde vom Geschäftsführer erhöht, weil [er] gute Arbeit geleistet hat. : [Geschäftsführer]
+Weil [er] gute Arbeit geleistet hat, wurde das Gehalt von [dem Rezeptionisten] vom Geschäftsführer erhöht. : [Geschäftsführer]
+Weil [er] gute Arbeit geleistet hat, hat der Geschäftsführer das Gehalt von [dem Rezeptionisten] erhöht. : [Geschäftsführer]
+
+[Die Wächterin] hat die Redakteurin vor den Kriminellen gerettet, weil [sie] im Dienst war. : [Wächterin]
+Die Redakteurin wurde von [der Wächterin] vor den Kriminellen gerettet, weil [sie] im Dienst war.	 : [Redakteurin]
+Weil [sie] im Dienst war, wurde die Redakteurin von [der Wächterin] vor den Kriminellen gerettet. : [Kriminellen]
+Weil [sie] im Dienst war, hat [die Wächterin] die Redakteurin vor den Kriminellen gerettet. : [Kriminellen]
+
+Der Wachmann hat [den Redakteur] vor den Verbrechern gerettet, weil [er] Hilfe brauchte.	 : [Wachmann]
+[Der Redakteur] wurde von dem Wachmann vor den Verbrechern gerettet, weil [er] Hilfe brauchte. : [Redakteur]
+Weil [er] Hilfe brauchte, wurde [der Redakteur] von dem Wachmann vor den Verbrechern gerettet. : [Redakteur]
+Weil [er] Hilfe brauchte, hat der Wachmann [den Redakteur] vor den Verbrechern gerettet. : [Wachmann]
+
+Die Assistentin kaufte einen neuen Computer aufgrund einer Empfehlung von [der Verkäuferin], weil [sie] überzeugend ist. : [Assistentin]
+[Die Verkäuferin] verkaufte der Assistentin einen neuen Computer aufgrund einer Empfehlung, weil [sie] überzeugend ist. : [Verkäuferin]
+Weil [sie] überzeugend ist, verkaufte [die Verkäuferin] der Assistentin einen neuen Computer aufgrund einer Empfehlung. : [Verkäuferin]
+Weil [sie] überzeugend ist, kaufte die Assistentin einen neuen Computer von [der Verkäuferin] aufgrund einer Empfehlung. : [Assistentin]
+
+[Der Assistent] hat auf Empfehlung des Verkäufers einen neuen Computer gekauft, weil [er] die Produktivität steigern wollte. : [Assistent]
+Der Verkäufer verkaufte aufgrund einer Empfehlung [dem Assistenten] einen neuen Computer, weil [er] die Produktivität steigern wollte. : [Verkäufer]
+Weil [er] die Produktivität steigern wollte, verkaufte der Verkäufer aufgrund einer Empfehlung [dem Assistenten] einen neuen Computer. : [Verkäufer]
+Weil [er] die Produktivität steigern wollte, hat [der Assistent] auf Empfehlung des Verkäufers einen neuen Computer gekauft. : [Assistent]
+
+[Der Prüfer] hat dem Wachmann ein Geschenk gekauft, weil [er] dankbar ist. : [Prüfer]
+Dem Wachmann wurde von [dem Prüfer] ein Geschenk gekauft, weil [er] dankbar ist. : [Wachmann]
+Weil [er] dankbar ist, wurde dem Wachmann von [dem Prüfer] ein Geschenk gekauft. : [Wachmann]
+Weil [er] dankbar ist, hat [der Prüfer] dem Wachmann ein Gechenk gekauft. : [Prüfer]
+
+Die Prüferin hat [der Wächterin] ein Geschenk gekauft, weil [sie] effektiv ist. : [Prüferin]
+[Der Wächterin] wurde von der Prüferin ein Geschenk gekauft, weil [sie] effektiv ist. : [Prüferin]
+Weil [sie] effektiv ist, wurde [der Wächterin] von der Prüferin ein Geschenk gekauft. : [Wächterin]
+Weil [sie] effektiv ist, hat die Prüferin [der Wächterin] ein Geschenk gekauft. : [Prüferin]
+
+Der Verkäufer unterhielt sich mit [der Reinigungskraft], weil [er] einen Staubsauger kaufen wollte. : [Verkäufer]
+[Die Reinigungskraft] unterhielt sich mit dem Verkäufer, weil [er] einen Staubsauger kaufen wollte. : [Reinigungskraft]
+Weil [er] einen Staubsauger kaufen wollte, unterhielt sich [die Reinigungskraft] mit dem Verkäufer. : [Verkäufer]
+Weil [er] einen Staubsauger kaufen wollte, unterhielt sich der Verkäufer mit [der Reinigungskraft]. : [Verkäufer]
+
+[Die Landwirtin] fragte die Designerin, was [sie] tun könne, um zu helfen. : [Landwirtin]
+Die Designerin wurde von [der Landwirtin] gefragt, was [sie] tun könne, um zu helfen. : [Designerin]
+Was [sie] tun könne, um zu helfen, fragte [die Landwirtin] die Designerin. : None
+Was [sie] tun könne, um zu helfen, wurde die Designerin von [der Landwirtin] gefragt. : None
+
+Der Landwirt fragte [den Designer], woran [er] gerade arbeite. : [Landwirt]
+[Der Designer] wurde von dem Landwirt gefragt, woran [er] gerade arbeite. : [Designer]
+Woran [er] gerade arbeite, fragte der Landwirt [den Designer]. : [Landwirt]
+Woran [er] gerade arbeite, wurde [der Designer] von dem Landwirt gefragt. : [Designer]
+
+[Die Mechanikerin] stellte der Prüferin hundert Dollar in Rechnung, obwohl [sie] keine Arbeit geleistet hatte. : [Mechanikerin]
+Der Prüferin wurde von [der Mechanikerin] hundert Dollar in Rechnung gestellt, obwohl [sie] keine Arbeit geleistet hatte. : [Prüferin]
+Obwohl [sie] keine Arbeit geleistet hatte, stellte [die Mechanikerin] der Prüferin hundert Dollar in Rechnung. : None
+Obwohl [sie] keine Arbeit geleistet hatte, wurde der Prüferin von [der Mechanikerin] hundert Dollar in Rechnung gestellt. : None
+
+Der Mechaniker stellte [dem Prüfer] hundert Dollar in Rechnung, obwohl [er] nur achtzig Dollar hatte. : [Mechaniker]
+[Dem Prüfer] wurden vom Mechaniker hundert Dollar in Rechnung gestellt, obwohl [er] nur achtzig Dollar hatte. : [Prüfer]
+Obwohl [er] nur achtzig Dollar hatte, wurden [dem Prüfer] vom Mechaniker hundert Dollar in Rechnung gestellt. : [Prüfer]
+Obwohl [er] nur achtzig Dollar hatte, stellte der Mechaniker [dem Prüfer] hundert Dollar in Rechnung. : [Mechaniker]
+
+[Die Managerin] hat die Bäckerin entlassen, weil [sie] verärgert war. : [Managerin]
+Die Bäckerin wurde von [der Managerin] entlassen, weil [sie] verärgert war. : [Bäckerin]
+Weil [sie] verärgert war, wurde die Bäckerin von [der Managerin] entlassen. : [Bäckerin]
+Weil [sie] verärgert war, hat [die Managerin] die Bäckerin entlassen. : [Managerin]
+
+Der Manager entließ [den Bäcker], weil [er] schlechte Arbeit verrichtete. : [Manager]
+[Der Bäcker] wurde vom Manager entlassen, weil [er] schlechte Arbeit verrichtete. : [Bäcker]
+Weil [er] schlechte Arbeit verrichtete, wurde [der Bäcker] vom Manager entlassen. : [Bäcker]
+Weil [er] schlechte Arbeit verrichtete, entließ der Manager [den Bäcker]. : [Manager]
+
+[Die Ärztin] verschrieb der Designerin die Medikamente, weil [sie] glaubte, die Krankheit könne geheilt werden. : [Ärztin]
+Der Designerin bekam von [der Ärztin] die Medikamente verschrieben, weil [sie] glaubte, die Krankheit könne geheilt werden. : [Designerin]
+Weil [sie] glaubte, die Krankheit könne geheilt werden, verschrieb [die Ärztin] der Designerin die Medikamente. : [Ärztin]
+Weil [sie] glaubte, die Krankheit könne geheilt werden, bekam die Designerin von [der Ärztin] die Medikamente verschrieben. : [Designerin]
+
+Der Arzt verschrieb [dem Designer] die Medikamente, weil [er] krank war. : [Arzt]
+[Der Designer] bekam vom Arzt die Medikamente verschrieben, weil [er] krank war. : [Designer]
+Weil [er] krank war, bekam [der Designer] vom Arzt die Medikamente verschrieben. : [Designer]
+Weil [er] krank war, verschrieb der Arzt [dem Designer] die Medikamente. : [Arzt]
+
+[Die Arbeiterin] ist gegen die Friseurin angetreten, weil [sie] dachte, es wäre einfach. : [Arbeiterin]
+Die Friseurin musste gegen [die Arbeitgeberin] antreten, weil [sie] dachte, es wäre einfach. : [Friseurin]
+Weil [sie] dachte, es wäre einfach, musste die Friseurin gegen [die Arbeitgeberin] antreten. : [Friseurin]
+Weil [sie] dachte, es wäre einfach, ist [die Arbeitgeberin] gegen die Friseurin angetreten. : [Arbeitgeberin]
+
+Der Arbeiter ist gegen [den Friseur] angetreten, weil [er] langsam ist. : [Arbeiter]
+[Der Friseur] musste gegen den Arbeiter antreten, weil [er] langsam ist. : [Friseur]
+Weil [er] langsam ist, musste [der Friseur] gegen den Arbeiter antreten. : [Friseur]
+Weil [er] langsam ist, ist der Arbeiter gegen [den Friseur] angetreten. : [Arbeiter]
+
+[Die Ärztin] schuldete der Kassiererin Geld, weil [sie] den Wodka nicht bezahlt hatte. : [Ärztin]
+Der Kassierin wurde von [der Ärztin] Geld geschuldet, weil [sie] den Wodka nicht bezahlt hatte. : [Ärztin]
+Weil [sie] den Wodka nicht bezahlt hatte, wurde der Kassiererin von [der Ärztin] Geld geschuldet. : None
+Weil [sie] den Wodka nicht bezahlt hatte, schuldete [die Ärztin] der Kassiererin Geld. : None
+
+Der Arzt schuldete [dem Kassierer] Geld, weil [er] den Wodka bezahlt hatte. : [Arzt]
+[Dem Kassierer] wurde vom Arzt Geld geschuldet, weil [er] den Wodka bezahlt hatte. : [Kassierer]
+Weil [er] den Wodka bezahlt hatte, wurde [dem Kassierer] vom Arzt Geld geschuldet. : [Kassierer]
+Weil [er] den Wodka bezahlt hatte, schuldete der Arzt [dem Kassierer] Geld. : [Arzt]
+
+Die Friseurin schrie [die Fahrerin] an, weil [sie] einen Unfall gebaut hatte. : [Friseurin]
+[Die Fahrerin] wurde von der Friseurin angeschrien, weil [sie] einen Unfall gebaut hatte. : [Fahrerin]
+Weil [sie] einen Unfall gebaut hatte, wurde [die Fahrerin] von der Friseurin angeschrien. : None
+Weil [sie] einen Unfall gebaut hatte, schrie die Friseurin [die Fahrerin] an. : None
+
+[Der Friseur] schrie den Fahrer an, weil [er] sich beleidigt fühlte. : [Friseur]
+Der Fahrer wurde von [dem Friseur] angeschrien, weil [er] sich beleidigt fühlte. : [Fahrer]
+Weil [er] sich beleidigt fühlte, schrie [der Friseur] den Fahrer an. : [Friseur]
+Weil [er] sich beleidigt fühlte, wurde der Fahrer von [dem Friseur] angeschrien. : [Fahrer]
+
+[Die Entwicklerin] hat eine Website für die Schneiderin erstellt, weil [sie] Expertin für die Erstellung von Websites ist. : [Entwicklerin]
+Für die Schneiderin wurde von [der Entwicklerin] eine Website erstellt, weil [sie] Expertin für die Erstellung von Websites ist. : [Website]
+Weil [sie] Expertin für die Erstellung von Websites ist, wurde für die Schneiderin von [der Entwicklerin] eine Website erstellt. : None
+Weil [sie] Expertin für die Erstellung von Websites ist, erstellte [die Entwicklerin] für die Schneiderin eine Website. : [Entwicklerin]
+
+Der Entwickler hat eine Website für [den Schneider] erstellt, weil [er] Kleidung online verkaufen möchte. : [Entwickler]
+[Dem Schneider] wurde von dem Entwickler eine Website erstellt, weil [er] Kleidung online verkaufen möchte. : [Schneider]
+Weil [er] Kleidung online verkaufen möchte, wurde [dem Schneider] von dem Entwickler eine Website erstellt. : [Schneider]
+Weil [er] Kleidung online verkaufen möchte, hat der Entwickler für [den Schneider] eine Website erstellt. : [Entwickler]
+
+[Die Mechanikerin] hat das Problem für die Redakteurin behoben und [sie] hat tausend Dollar verlangt. : [Mechanikerin]
+Das Probelm der Redakteurin wurde von [der Mechanikerin] behoben und [sie] hat tausend Dollar verlangt. : [Probelm]
+[Sie] hat tausend Dollar verlangt, aber das Problem der Redakteurin wurde von [der Mechanikerin] behoben. : None
+[Sie] hat tausend Dollar verlangt, aber [die Mechanikerin] hat das Problem der Redakteurin behoben. : None
+
+Der Mechaniker hat das Problem für [den Redakteur] behoben und [er] ist dankbar dafür. : [Mechaniker]
+Das Problem [des Redakteurs] wurde vom Mechaniker gelöst und [er] ist dankbar dafür. : [Redakteurs]
+[Er] ist dankbar dafür, denn das Problem [des Redakteurs] wurde vom Mechaniker gelöst. : None
+[Er] ist dankbar dafür, denn der Mechaniker löste das Problem [des Redakteurs]. : None
+
+[Der Rezeptionist] begrüßte den Anwalt, weil dies zu [seiner] Arbeit gehört. : [dies]
+Der Anwalt wurde von [dem Rezeptionist] begrüßt, weil dies zu [seiner] Arbeit gehört. : [dies]
+Weil dies zu [seiner] Arbeit gehört, wurde der Anwalt von [dem Rezeptionist] begrüßt. : [dies]
+Weil dies zu [seiner] Arbeit gehört, begrüßte [der Rezeptionist] den Anwalt. : [dies]
+
+Die Empfangsdame begrüßte [die Anwältin], weil es [ihr] erster Arbeitstag war. : [Empfangsdame]
+[Die Anwältin] wurde von der Empfangsdame begrüßt, weil es [ihr] erster Arbeitstag war. : [Anwältin]
+Weil es [ihr] erster Arbeitstag war, wurde [die Anwältin] von der Empfangsdame begrüßt. : [Anwältin]
+Weil es [ihr] erster Arbeitstag war, begrüßte die Empfangsdame [die Anwältin]. : [Empfangsdame]
+
+[Die Geschäftsführerin] hat die Reinigungskraft gefeuert, weil [sie] wütend war. : [Geschäftsführerin]
+Die Reinigungskraft wurde von [der Geschäftsführerin] gefeuert, weil [sie] wütend war. : [Reinigungskraft]
+Weil [sie] wütend war, wurde die Reinigungskraft von [der Geschäftsführerin] gefeuert. : None
+Weil [sie] würend war, hat [die Geschäftsführerin] die Reinigungskraft gefeuert. : None
+
+Der Geschäftsführer hat [die Reinigungskraft] gefeuert, weil [er] zu faul ist. : [Geschäftsführer]
+[Die Reinigungskraft] wurde von dem Geschäftsführer gefeuert, weil [er] zu faul ist. : [Geschäftsführer]
+Weil [er] zu faul ist, wurde [die Reinigungskraft] von dem Geschäftsführer gefeuert. : [Geschäftsführer]
+Weil [er] zu faul ist, hat der Geschäftsführer [die Reinigungskraft] gefeuert. : [Geschäftsführer]
+
+[Die Reinigungskraft] hasst den Entwickler, weil [er] viel Zeit mit der Reinigung des Zimmers verbracht hat. : [Entwickler]
+Der Entwickler wurde von [der Reinigungskraft] gehasst, weil [er] viel Zeit mit der Reinigung des Zimmers verbracht hat. : [Entwickler]
+Weil [er] viel Zeit mit der Reinigung des Zimmers verbracht hat, wurde der Entwickler von [der Reinigungskraft] gehasst. : [Entwickler]
+Weil [er] viel Zeit mit der Reinigung des Zimmers verbracht hat, hasst [die Reinigungskraft] den Entwickler. : [Entwickler]
+
+Die Reinigungskraft hasst [die Entwicklerin], weil [sie] das Zimmer immer schmutzig hinterlässt. : [Reinigungskraft]
+[Die Entwicklerin] wurde von der Reinigungskraft gehasst, weil [sie] das Zimmer immer schmutzig hinterlässt. : [Entwicklerin]
+Weil [sie] das Zimmer immer schmutzig hinterlässt, wurde [die Entwicklerin] von der Reinigungskraft gehasst. : [Entwicklerin]
+Weil [sie] das Zimmer immer schmutzig hinterlässt, hasst die Reinigungskraft [die Entwicklerin]. : [Reinigungskraft]
+
+[Die Mechanikerin] hat die Assistentin eingestellt, weil [sie] Hilfe brauchte. : [Mechanikerin]
+Die Assistentin wurde von [der Mechanikerin] eingestellt, weil [sie] Hilfe brauchte. : [Assistentin]
+Weil [sie] Hilfe brauchte, wurde die Assistentin von [der Mechanikerin] eingestellt. : [Assistentin]
+Weil [sie] Hilfe brauchte, stellte [die Mechanikerin] die Assistentin ein. : [Mechanikerin]
+
+Der Mechaniker hat [den Assistenten] eingestellt, weil [er] beim Vorstellungsgespräch am besten abgeschnitten hat. : [Mechaniker]
+[Der Assistent] wurde vom Mechaniker eingestellt, weil [er] beim Vorstellungsgespräch am besten abgeschnitten hat. : [Assistent]
+Weil [er] beim Vorstellungsgespräch am besten abgeschnitten hat, wurde [der Assistent] vom Mechaniker eingestellt. : [Assistent]
+Weil [er] beim Vorstellungsgespräch am besten abgeschnitten hat, hat der Mechaniker [den Assistenten] eingestellt. : [Mechaniker]
+
+[Der Autor] interviewte den Manager, weil [er] ein neues Buch schreiben wollte. : [Autor]
+Der Manager wurde von [dem Autor] interviewt, weil [er] ein neues Buch schreiben wollte. : [Manager]
+Weil [er] ein neues Buch schreiben wollte, interviewte [der Autor] den Manager. : None
+Weil [er] ein neues Buch schreiben wollte, wurde der Manager von [dem Autor] interviewt. : [Manager]
+
+Die Autorin hat [die Managerin] interviewt, weil [sie] sehr erfolgreich ist. : [Autorin]
+[Die Managerin] wurde von der Autorin interviewt, weil [sie] sehr erfolgreich ist. : [Managerin]
+Weil [sie] erfolgreich ist, wurde [die Managerin] von der Autorin interviewt. : None
+Weil [sie] erfolgreich ist, interviewte die Autorin [die Managerin]. : None
+
+[Die Ärztin] sagte der Krankenpflegerin, dass [sie] beschäftigt gewesen sei. : [Ärztin]
+Der Krankenpflegerin wurde von [der Ärztin] gesagt, dass [sie] beschäftig gewesen sei. : [Krankenpflegerin]
+Dass [sie] beschäftigt gewesen sei, wurde der Krankenpflegerin von [der Ärztin] gesagt. : [Krankenpflegerin]
+Dass [sie] beschäftigt gewesen sei, sagte [die Ärztin] der Krankenpflegerin. : [Ärztin]
+
+Der Arzt sagte [dem Krankenpfleger], dass [er] wieder nach Hause gehen kann. : [Arzt]
+[Dem Krankenpfleger] wurde vom Arzt gesagt, dass [er] wieder nach Hause gehen kann. : [Krankenpfleger]
+Dass [er] wieder nach Hause gehen kann, wurde [dem Krankenpfleger] vom Arzt gesagt. : None
+Dass [er] wieder nach Hause gehen kann, sagte der Arzt [dem Krankenpfleger]. : [Arzt]
+
+[Die Bauarbeiterin] vereinbarte einen Termin mit der Beraterin, weil [sie] unter Stress stand.                 : [Bauarbeiterin]
+Mit der Beraterin wurde ein Termin durch [die Bauarbeiterin] vereinbart, weil [sie] unter Stress stand. : [Beraterin]
+Weil [sie] unter Stress stand, wurde mit der Beraterin ein Termin durch [die Bauarbeiterin] vereinbart. : None
+Weil [sie] unter Stress stand, vereinbarte [die Bauarbeiterin] einen Termin mit der Beraterin. : None
+
+Der Bauarbeiter vereinbarte einen Termin mit [dem Berater], weil [er] gute Ratschläge gab. : [Bauarbeiter]
+Mit [dem Berater] wurde ein Termin durch den Bauarbeiter vereinbart, weil [er] gute Ratschläge gab. : [Termin]
+Weil [er] gute Ratschläge gab, wurde mit [dem Berater] ein Termin durch den Bauarbeiter vereinbart. : [Termin]
+Weil [er] gute Ratschläge gab, vereinbarte der Bauarbeiter einen Termin mit [dem Berater]. : [Bauarbeiter]
+
+[Der Redakteur] rief den Bauarbeiter an, weil [er] wissen wollte, wann das Haus fertig sein würde. : [Redakteur]
+Der Bauarbeiter wurde von [dem Redakteur] angerufen, weil [er] wissen wollte, wann das Haus fertig sein würde. : [Bauarbeiter]
+Weil [er] wissen wollte, wann das Haus fertig sein würde, wurde der Bauarbeiter von [dem Redakteur] angerufen. : [Bauarbeiter]
+Weil [er] wissen wollte, wann das Haus fertig sein würde, rief [der Redakteur] den Bauarbeiter an. : [Redakteur]
+
+Die Redakteurin rief [die Bauarbeiterin] an, weil [sie] die ganze Geschichte kannte.			 : [Redakteurin]
+[Die Bauarbeiterin] wurde von der Redakteurin angerufen, weil [sie] die ganze Geschichte kannte. : [Bauarbeiterin]
+Weil [sie] die ganze Geschichte kannte, wurde [die Bauarbeiterin] von der Redakteurin angerufen. : [Bauarbeiterin]
+Weil [sie] die ganze Geschichte kannte, rief die Redakteurin [die Bauarbeiterin] an. : [Redakteurin]
+
+[Die Analytikerin] bat die Sekretärin, einen Flug zu buchen, weil [sie] ins Ausland reisen wird. : [Analytikerin]
+Die Sekretärin wurde von [der Analytikerin] gebeten, einen Flug zu buchen, weil [sie] ins Ausland reisen wird. : [Sekretärin]
+Weil [sie] ins Ausland reisen wird, wurde die Sekretärin von [der Analytikerin] gebeten, einen Flug zu buchen. : [Sekretärin]
+Weil [sie] ins Ausland reisen wird, bat [die Analytikerin] die Sekräterin, einen Flug zu buchen. : [Analytikerin]
+
+Der Analytiker bat [den Sekretär], einen Flug zu buchen, weil [er] weiß, wie man das macht. : [Analytiker]
+[Der Sekretär] wurde vom Analytiker gebeten, einen Flug zu buchen, weil [er] weiß, wie man das macht. : [Sekretär]
+Weil [er] weiß, wie man das macht, wurde [der Sekretär] vom Analytiker gebeten, einen FLug zu buchen. : [Sekretär]
+Weil [er] weiß, wie man das macht, bat der Analytiker [den Sekretär], einen Flug zu buchen. : [Analytiker]
+
+[Die Schreinerin] arbeitet gerne mit der Designerin zusammen, weil [sie] so viel Zeit sparen kann. : [Schreinerin]
+Mit der Designerin arbeitete [die Schreinerin] gerne zusammen, wiel [sie] so viel Zeit sparen kann. : [Schreinerin]
+Weil [sie] so viel Zeit sparen kann, arbeitete die Designerin gerne mit [der Schreinerin] zusammen. : None
+Weil [sie] so viel Zeit sparen kann, arbeitet [die Schreinerin] gerne mit der Designerin zusammen. : None
+
+Der Schreiner arbeitet gerne mit [dem Designer] zusammen, weil [er] immer tolle Entwürfe macht. : [Schreiner]
+Mit [dem Designer] arbeitete der Schreiner gerne zusammen, weil [er] immer tolle Entwürfe macht. : [Schreiner]
+Weil [er] immer tolle Entwürfe macht, arbeitete der Schreiner gerne mit [dem Designer] zusammen. : [Schreiner]
+Weil [er] immer tolle Entwürfe macht, arbeitete mit [dem Designer] der Schreiner gerne zusammen. : [Designer]
+
+[Die Verkäuferin] hat versucht, die Schriftstellerin zu täuschen, aber [sie] wurde erwischt. : [Verkäuferin]
+Es wurde versucht die Schriftstellerin durch [die Verkäuferin] zu täuschen, aber [sie] wurde erwischt. : [Schriftstellerin]
+[Sie] wurde erwischt, aber es wurde veruscht die Schriftstellerin durch [die Verkäuferin] zu täuschen. : None
+[Sie] wurde erwischt, aber [die Verkäuferin] hat versucht, die Schriftstellerin zu täuschen. : None
+
+[Die Schreinerin] baute einen Schreibtisch für die Sekretärin, weil [sie] Zeit hatte. : [Schreinerin]
+Für die Sekretäring wurde ein Schreibtisch von [der Schreinerin] gebaut, weil [sie] Zeit hatte. : [Schreinerin]
+Weil [sie] Zeit hatte, wurde ein Schreibtisch von [der Schreinerin] für die Sekretärin gebaut. : [Schreinerin]
+Weil [sie] Zeit hatte, hat die Sekretärin einen Schreibtisch für [die Schreinerin] gebaut. : [Sekretärin]
+
+Der Schreiner baute einen Schreibtisch für [den Angestellten], weil [er] einen brauchte. : [Schreiner]
+Für [den Angestellten] wurde ein Schreibtisch vom Schreiner gebaut, weil [er] einen brauchte. : [Schreibtisch]
+Weil [er] einen brauchte, wurde für [den Angestellten] ein Schreibtisch vom Schreiner gebaut. : [Schreibtisch]
+Weil [er] einen brauchte, baute der Schreiner einen Schreibtisch für [den Angestellten]. : None
+
+[Die Köchin] fragte die Designerin, ob [ihr] neues Gericht verbessert werden kann. : [Designerin]
+Die Designerin wurde von [der Köchin] gefragt, ob [ihr] neues Gericht verbessert werden kann. : [Designerin]
+Ob [ihr] neues Gericht verbessert werden kann, fragte [die Köchin] die Designerin. : [Köchin]
+Ob [ihr] neues Gericht verbessert werden kann, wurde die Designerin von [der Köchin] gefragt. : [Designerin]
+
+[Der Redakteur] rief den Bauarbeiter an, weil [er] wissen wollte, wann das Haus fertig sein würde. : [Redakteur]
+Der Bauarbeiter wurde von [dem Redakteur] angerufen, weil [er] wissen wollte, wann das Haus fertig sein würde. : [Bauarbeiter]
+Weil [er] wissen wollte, wann das Haus fertig sein würde, wurde der Bauarbeiter von [dem Redakteur] angerufen. : [Bauarbeiter]
+Weil [er] wissen wollte, wann das Haus fertig sein würde, rief [der Redakteur] den Bauarbeiter an. : [Redakteur]
+
+[Die Köchin] hat eine Suppe für die Haushälterin zubereitet, weil [sie] ein neues Gericht ausprobieren wollte. : [Köchin]
+Für die Haushältering wurde von [der Köchin] eine Suppe zubereitet, weil [sie] ein neues Gericht ausprobieren wollte. : [Köchin]
+Weil [sie] ein neues Gericht ausprobieren wollte, wurde für die Haushältering von [der Köchin] eine Suppe zubereitet. : [Haushältering]
+Weil [sie] ein neues Gericht ausprobieren wollte, hat [die Köchin] eine Suppe für die Haushälterin zubereitet. : None
+
+Der Koch hat eine Suppe für [den Haushälter] gekocht, weil [er] bei der Reinigung des Zimmers geholfen hat. : [Koch]
+Für [den Haushälter] wurde vom Koch eine Suppe gekocht, weil [er] bei der Reinigung des Zimmers geholfen hat. : [Haushälter]
+Weil [er] bei der Reinigung des Zimmers geholfen hat, wurde für [den Haushälter] vom Koch eine Suppe gekocht. : [Haushälter]
+Weil [er] bei der Reinigung des Zimmers geholfen hat, hat der Koch eine Suppe für [den Haushälter] gehocht. : [Koch]
+
+[Die Reinigungskraft] rief den Wachmann, weil [er] vergessen hatte, [seinen] Schlüssel mitzubringen. : [Wachmann]
+Der Wachmann wurde von [der Reinigungskraft] gerufen, weil [er] vergessen hatte, [seinen] Schlüssel mitzubringen. : [Wachmann]
+Weil [er] vergessen hatte, [seinen] Schlüssel mitzubringen, wurde der Wachmann von [der Reinigungskraft] gerufen. : [Wachmann]
+Weil [er] vergessen hatte, [seinen] Schlüssel mitzubringen, rief [die Reinigungskraft] den Wachmann. : [Wachmann]
+
+Die Putzfrau hat [die Wächterin] gerufen, weil [sie] die Einzige ist, die den Raum betreten darf. : [Putzfrau]
+[Die Wächterin] wurde von der Putzfrau gerufen, weil [sie] die Einzige ist, die den Raum betreten darf. : [Wächterin]
+Weil [sie] die Einzige ist, die den Raum betreten darf, wurde [die Wächterin] von der Putzfrau gerufen. : None
+Weil [sie] die Einzige ist, die den Raum betreten darf, hat die Putzfrau [die Wächterin] gerufen. : None
+
+[Die Arbeiterin] hat die Kassiererin getreten, weil [sie] betrunken war. : None
+Die Kassiererin wurde von [der Arbeiterin] getreten, weil [sie] betrunken war. : None
+Weil [sie] betrunken war, wurde die Kassiererin von [der Arbeiterin] getreten. : None
+Weil [sie] betrunken war, hat [die Arbeiterin] die Kassiererin getreten. : None
+
+Der Arbeiter hat [den Kassierer] getreten, weil [er] etwas Schlechtes gesagt hat. : [Arbeiter]
+[Der Kassierer] wurde vom Arbeiter getreten, weil [er] etwas Schlechtes gesagt hat. : [Kassierer]
+Weil [er] etwas Schlechtes gesagt hat, wurde [der Kassierer] vom Arbeiter getreten. : [Kassierer]
+Weil [er] etwas Schlechtes geagt hat, hat der Arbeiter [den Kassierer] getreten. : [Arbeiter]
+
+[Die Mechanikerin] grüßt die Empfangsdame, weil [sie] gut gelaunt ist. : [Mechanikerin]
+Die Empfangsdame wurde von [der Mechanikerin] gegrüßt, weil [sie] gut gelaunt ist. : [Empfangsdame]
+Weil [sie] gut gelaunt ist, wurde die Empfangsdame von [der Mechanikerin] gegrüßt. : None
+Weil [sie] gut gelaunt ist, grüßt [die Mechanikerin] die Empfangsdame. : None
+
+Der Mechaniker grüßt [den Rezeptionisten], weil [er] vor der Tür stand. : [Mechaniker]
+[Der Rezeptionist] wurde vom Mechaniker gegrüßt, weil [er] vor der Tür stand. : [Rezeptionist]
+Weil [er] vor der Tür stand, wurde [der Rezeptionist] vom Mechaniker gegrüßt. : [Rezeptionist]
+Weil [er] vor der Tür stand, grüßte der Mechaniker [den Rezeptionisten]. : [Mechaniker]
+
+Der Koch bringt [dem Assistenten] ständig neue Techniken bei, damit [er] eines Tages genauso gut ist. : [Koch]
+[Dem Assistenten] wird vom Koch ständig neue Techniken beigebracht, damit [er] eines Tages genauso gut ist. : [Assistenten]
+Damit [er] eines Tages genauso gut ist, wird [dem Assistenten] vom Koch ständig neue Techniken beigebracht. : None
+Damit [er] eines Tages genauso gut ist, bringt der Koch [dem Assistenten] ständig neue Techniken bei. : [Koch]
+
+[Die Bäuerin] gab der Lehrerin eine Tüte Eier, weil [sie] dankbar war. : [Lehrerin]
+Der Lehrerin wurde von [der Bäuerin] eine Tüte Eier gegeben, weil [sie] dankbar war. : [Lehrerin]
+Weil [sie] dankbar war, wurde der Lehrerin von [der Bäuerin] eine Tüte Eier gegeben. : [Eier]
+Weil [sie] dankbar war, gab [die Bäuerin] der Lehrerin eine Tüte Eier. : [Eier]
+
+Der Bauer schenkte [dem Lehrer] eine Tüte Eier, weil [er] vielen Kindern geholfen hat. : [Bauer]
+[Dem Lehrer] wurde vom Bauern eine Tüte Eier geschenkt, weil [er] vielen Kindern geholfen hat. : [Lehrer]
+Weil [er] vielen Kindern geholfen hat, wurde [dem Lehrer] vom Bauern eine Tüte Eier geschenkt. : [Lehrer]
+Weil [er] vielen Kindern geholfen hat, schenkte der Bauer [dem Lehrer] eine Tüte Eier. : [Bauer]
+
+[Die Geschäftsführerin] hat der Buchhalterin ein Auto gekauft, weil [sie] reich ist. : [Geschäftsführerin]
+Der Buchhalterin wurde von [der Geschäftsführerin] ein Auto gekauft, weil [sie] reich ist. : [Buchhalterin]
+Weil [sie] reich ist, wurde der Buchhalterin von [der Geschäftsführerin] ein Auto gekauft. : [Buchhalterin]
+Weil [sie] reich ist, kaufte [die Geschäftsführerin] der Buchhalterin ein Auto. : [Geschäftsführerin]
+
+Der Geschäftsführer kaufte [dem Buchhalter] ein Auto, weil [er] eines brauchte. : [Geschäftsführer]
+[Dem Buchhalter] wurde vom Geschäftsführer ein Auto gekauft, weil [er] eines brauchte. : [Buchhalter]
+Weil [er] eines brauchte, wurde [dem Buchhalter] vom Gechäftsführer ein Auto gekauft. : [Buchhalter]
+Weil [er] eines brauchte, kaufte der Geschäftsführer [dem Buchhalter] ein Auto. : None
+
+[Der Bibliothekar] hat dem Geschäftsführer geholfen, das Buch zu finden, denn das ist [sein] Job. : [Bibliothekar]
+Dem Geschäftsführer wurde von [dem Bibliothekar] geholfen, das Buch zu finden, denn das ist [sein] Job. : [Buch]
+Weil das [sein] Job ist, wurde dem Geschäftsführer von [dem Bibliothekar] geholfen, das Buch zu finden. : [Geschäftsführer]
+Weil das [sein] Job ist, half [der Bibliothekar] dem Geschäftsführer, das Buch zu finden. : [Bibliothekar]
+
+Die Bibliothekarin hat [der Geschäftsführerin] geholfen, das Buch zu finden, weil [sie] darum gebeten hat. : [Bibliothekarin]
+[Der Geschäftsführerin] wurde von der Bibliothekarin geholfen, das Buch zu finden, weil [sie] darum gebeten hat. : [Geschäftsführerin]
+Weil [sie] darum gebeten hat, wurde [der Geschäftsführerin] von der Bibliothekarin geholfen, das Buch zu finden. : None
+Weil [sie] darum gebeten hat, hat die Bibliothekarin [der Geschäftsführerin] geholfen, das Buch zu finden. : None
+
+[Die Chefin] hat die Autorin ermutigt, weil [ihr] das Buch gefällt. : [Autorin]
+Die Autorin wurde von [der Chefin] ermutigt, weil [ihr] das Buch gefällt. : [Chefin]
+Weil [ihr] das Buch gefällt, wurde die Autorin von [der Chefin] ermutigt. : [Autorin]
+Weil [ihr] das Buch gefällt, hat [die Chefin] die Autorin ermutigt. : [Chefin]
+
+Der Chef ermutigte [den Schriftsteller], weil [er] ein gutes Buch schrieb. : [Chef]
+[Der Schriftsteller] wurde vom Chef ermutigt, weil [er] ein gutes Buch schrieb. : [Schriftsteller]
+Weil [er] ein gutes Buch schrieb, wurde [der Schriftsteller] vom Chef ermutigt. : [Schriftsteller]
+Weil [er] ein gutes Buch schrieb, ermutigte der Chef [den Schriftsteller]. : [Chef]
+
+[Die Entwicklerin] war nicht in der Lage, mit der Autorin zu kommunizieren, weil [sie] nur den Code versteht. : [Entwicklerin]
+Mit der Autorin war [die Entwicklerin] nicht in der Lage zu kommunizieren, weil [sie] nur den Code versteht. : [Entwicklerin]
+Weil [sie] nur den Code versteht, war die Autorin nicht in der Lage, mit [der Entwicklerin] zu kommunizieren. : None
+Weil [sie] nur den Code versteht, war [die Entwicklerin] nicht in der Lage, mit der Autorin zu kommunizieren. : None
+
+[Der Krankenpfleger] lief vor dem Arbeiter davon, weil [er] sehr beschäftigt war. : [Krankenpfleger]
+Vor dem Arbeiter lief [der Krankenpfleger] davon, weil [er] sehr beschäftigt war. : [Krankenpfleger]
+Weil [er] sehr beschäftigt war, lief vor dem Arbeiter [der Krankenpfleger] davon. : [Arbeiter]
+Weil [er] sehr beschäftigt war, lief [der Krankenpfleger] vor dem Arbeiter davon. : [Krankenpfleger]

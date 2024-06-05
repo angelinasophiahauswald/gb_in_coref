@@ -1,0 +1,365 @@
+Die Cheffin gab [der Bibliothekarin] ein Buch zurück, aber [sie] beschwerte sich über die Verspätung. : [Cheffin]	FALSE*
+Über die Verspätung beschwerte [sie] sich, als [der Bibliothekarin] vom Cheffin ein Buch zurückgegeben wurde. : [sie]	FALSE?
+Über die Verspätung beschwerte [sie] sich, als der Chef [der Bibliothekarin] ein Buch zurückgab. : [sie]	FALSE?
+
+Die Buchhalterin wurde von [der Hausmeisterin] getadelt, weil [sie] aufgrund eines Buchungsfehlers eine Gebühr zahlen musste. : [Buchhalterin]	FALSE#
+Weil [sie] aufgrund eines Buchungsfehlers eine Gebühr zahlen musste, wurde die Buchhaltering von [der Hausmeisterin] getadelt. : None	FALSE
+Weil [sie] aufgrund eines Buchungsfehlers eine Gebühr zahlen musste, hat [die Hausmeisterin] die Buchhalterin getadelt. : None	FALSE
+
+Weil [sie] im Lotto gewonnen hat, bekam die Verkäuferin ein Geschenk von [der Mechanikerin]. : [Verkäuferin]	FALSE#
+
+Der Mechaniker hat [dem Angestellten] ein Geschenk gemacht, weil er [seinen] Geburtstag hatte. : [Mechaniker]	FALSE+
+Weil er [seinen] Geburtstag hatte, wurde [dem Angestellten] vom Mechaniker ein Geschenk gemacht. : [Mechaniker]	FALSE+
+Weil er [seinen] Geburtstag hatte, machte der Mechaniker [dem Angestellten] ein Geschenk. : [Mechaniker]	FALSE+
+
+Die Assistentin scannte Dokumente für [die Analytikerin], weil [sie] darum bat. : [Assistentin]	FALSE#
+Für [die Analytikerin] wurden von der Assistentin Dokumente gescannt, weil [sie] darum bat. : [Assistentin]	FALSE#
+Weil [sie] darum bat, wurden von der Assistentin Dokumente für [die Analytikerin] gescannt. : [Assistentin]	FALSE#
+
+Der Analyst hat Dokumente von [dem Assistenten] gescannt bekommen, weil [er] weiß, wie man das Scan-Gerät bedient. : [Analyst]	FALSE+
+Weil [er] weiß, wie man das Scan-Gerät bedient, hat der Analyst Dokumente von [dem Assistenten] gescannt bekommen. : [Analyst]	FALSE+
+
+Die Haushälterin bekam von [der Cheffin] ein Trinkgeld, weil [sie] zufrieden war. : [Haushälterin]	FALSE#
+Weil [sie] zufrieden war, bekam die Haushälterin von [der Cheffin] ein Trinkgeld. : None	FALSE
+Weil [sie] zufrieden war, gab [die Cheffin] der Haushälterin ein Trinkgeld. : None	FALSE
+
+Der Chef gab [dem Haushälter] ein Trinkgeld, weil [er] hilfreich war. : [Chef]	FALSE+
+Weil [er] hilfreich war, gab der Chef [dem Haushälter] ein Trinkgeld. : [Chef]	FALSE+
+
+Der Bibliothekarin wurden von [der Verkäuferin] einige Bücher verkauft, weil es [ihr] Job war. : [Bücher]	FALSE?
+Weil es [ihr] Job war, wurde der Bibliothekarin von [der Verkäuferin] einige Bücher verkauft. : [Bibliothekarin]	FALSE#
+
+Der Verkäufer hat [dem Bibliothekar] einige Bücher verkauft, weil [er] lernen wollte. : [Verkäufer]	FALSE-
+Weil [er] lernen wollte, verkaufte der Verkäufer [dem Bibliothekar] einige Bücher. : [Verkäufer]	FALSE-
+
+Die Friseuring wurde von [der Anwältin] angeschrien, weil [sie] wütend war. : [Friseuring]	FALSE#
+Weil [sie] wütend war, wurde die Friseurin von [der Anwältin] angeschrien. : [Friseurin]	FALSE#
+
+Der Anwalt schrie [den Friseur] an, weil [er] schlechte Arbeit geleistet hatte. : [Anwalt]	FALSE+
+Weil [er] schlechte Arbeit geleistet hatte, schrie der Anwalt [den Friseur] an. : [Anwalt]	FALSE+
+
+Die Lehrerin hat von [der Köchin] ein Gericht zubereitet bekommen, weil [sie] gerade ein neues Gericht gelernt hat. : [Lehrerin]	FALSE#
+Weil [sie] gerade ein neues Gericht gelernt hat, wurde der Lehrerin von [der Köchin] ein Gericht zubereitet. : [Lehrerin]	FALSE#
+
+Der Koch hat ein Gericht für [den Lehrer] zubereitet, weil [er] hungrig ist. : [Koch]	FALSE+
+Weil [er] hungrig ist, hat der Koch ein Gericht für [den Lehrer] zubereitet. : [Koch]	FALSE+
+
+Der Bäckerin wurde von [der Ärztin] gesagt, dass [sie] ihr Bestes gegeben hat. : [Bäckerin]	FALSE#
+Dass [sie] ihr Bestes gegeben hat, wurde der Bäckerin von [der Ärztin] gesagt. : None	FALSE
+Dass [sie] ihr Bestes gegeben hat, hat [die Ärztin] der Bäckerin gesagt. : [sie]	FALSE?
+
+Der Arzt teilte [dem Bäcker] mit, dass [er] Krebs habe. : [Arzt]	FALSE+
+Dass [er] Krebs habe, wurde [dem Bäcker] vom Arzt mitgeteilt. : None	FALSE
+Dass [er] Krebs habe, teilte der Arzt [dem Bäcker] mit. : [Arzt]	FALSE+
+
+Der Haushälterin wurden von [der Bäuerin] Äpfel angeboten, weil [sie] zu viele davon hatte. : [Haushälterin]	FALSE#
+Weil [sie] zu viele davon hatte, bot [die Bäuerin] der Haushälterin Äpfel an. : [Äpfel]	FALSE?
+Weil [sie] zu viele davon hatte, wurde der Haushälterin von [der Bäuerin] Äpfel angeboten. : [Äpfel]	FALSE?
+
+[Die Geschäftsführerin] hat der Krankenpflegerin geholfen, weil [sie] helfen wollte. : None	FALSE
+Der Krankenpflegerin wurde von [der Geschäftsführerin] geholfen, weil [sie] helfen wollte. : None	FALSE
+Weil [sie] helfen wollte, wurde der Krankenpflegerin von [der Geschäftsführerin] geholfen. : None	FALSE
+Weil [sie] helfen wollte, hat [die Geschäftsführerin] der Krankenpflegerin geholfen. : None	FALSE
+
+Der Geschäftsführer half [dem Krankenpfleger], weil [er] Hilfe brauchte. : [Geschäftsführer]	FALSE+
+Weil [er] Hilfe brauchte, hat der Geschäftsführer [dem Krankenpfleger] geholfen. : [Geschäftsführer]	FALSE+
+
+Die Friseurin hat sich mit [der Köchin] angefreundet, weil [sie] nach einem Haarschnitt gute Tipps gegeben hat. : [Friseurin]	FALSE#
+Weil [sie] nach einem Haarschnitt gute Tipps gegeben hat, hat sich die Friseurin mit [der Köchin] angefreundet. : [Friseurin]	FALSE#
+
+Der Koch freundete sich mit [dem Friseur] an, weil [er] das Essen mochte. : [Koch]	FALSE+
+Weil [er] das Essen mochte, freundete sich der Koch mit [dem Friseur] an. : [Koch]	FALSE+
+
+[Die Entwicklerin] ging zur Friseurin, weil [sie] sich die Haare schneiden musste. : None	FALSE
+Zu der Friseurin ging [die Entwicklerin], weil [sie] sich die Haare schneiden musste. : None	FALSE
+Weil [sie] sich die Haare schneiden musste, ging [die Entwicklerin] zur Friseurin. : None	FALSE
+Weil [sie] sich die Haare schneiden musste, ist zur Friseurin [die Entwicklerin] gegangen. : None	FALSE
+
+Der Entwickler besuchte [den Friseur], weil [er] einen neuen Salon eröffnete. : [Entwickler]	FALSE+
+Weil [er] einen neuen Salon eröffnete, besuchte der Entwickler [den Friseur]. : [Entwickler]	FALSE+
+
+Der Friseurin wurde von [der Geschäftsführerin] gesagt, dass [sie] etwas Besseres erwartet habe. : [Friseurin]	FALSE#
+Dass [sie] etwas Besseres erwartet habe, wurde der Friseurin von [der Geschäftsführerin] gesagt. : [Friseurin]	FALSE#
+
+Der Geschäftsführer sagte [dem Friseur], dass [er] gute Arbeit geleistet habe. : [Geschäftsführer]	FALSE+
+Dass [er] gute Arbeit geleistet habe, wurde [dem Friseur] vom Geschäftsführer gesagt. : None	FALSE
+Dass [er] gute Arbeit geleistet habe, sagte der Geschäftsführer [dem Friseur]. : [Geschäftsführer]	FALSE+
+
+Die Angestellte wurde von [der Fahrerin] angefahren, weil [sie] während der Fahrt ein Handy benutzt hat. : [Angestellte]	FALSE#
+Weil [sie] während der Fahrt ein Handy benutzt hat, wurde die Angestellte von [der Fahrerin] angefahren. : None	FALSE
+Weil [sie] während der Fahrt ein Hady benutzt hat, hat [die Fahrerin] die Angestellte angefahren. : [Angestellte]	FALSE#
+
+Der Fahrer stieß mit [dem Angestellten] zusammen, weil [er] beim Überqueren einer Straße ein Handy benutzte. : [Fahrer]	FALSE+
+Weil [er] beim Überqueren einer Straße ein Handy benutzte, stieß der Fahrer mit [dem Angestellten] zusammen. : [Fahrer]	FALSE+
+
+Die Prüferin hat [die Entwicklerin] beim Betrug erwischt, weil [sie] unehrlich ist. : [Prüferin]	FALSE#
+Weil [sie] unehrlich ist, hat die Prüferin [die Entwicklerin] beim Betrug erwischt. : [Prüferin]	FALSE#
+
+Der Entwickler wurde von [dem Prüfer] beim Betrug ertappt, weil [er] die Schlüsseldokumente entdeckt hat. : [Entwickler]	FALSE+
+Weil [er] die Schlüsseldokumente entdeckt hat, wurde der Entwickler von [dem Prüfer] beim Betrug ertappt. : [Entwickler]	FALSE+
+
+Das Gehalt der Empfangsdame wurde von [der Geschäftsführerin] erhöht, weil [sie] großzügig ist. : [Empfangsdame]	FALSE#
+Weil [sie] großzügig ist, wurde das Gehalt der Empfangsdame von [der Geschäftsführerin] erhöht. : [Empfangsdame]	FALSE#
+
+Der Geschäftsführer hat das Gehalt von [dem Rezeptionisten] erhöht, weil [er] gute Arbeit geleistet hat. : [Geschäftsführer]	FALSE+
+Das Gehalt von [dem Rezeptionisten] wurde vom Geschäftsführer erhöht, weil [er] gute Arbeit geleistet hat. : [Geschäftsführer]	FALSE+
+Weil [er] gute Arbeit geleistet hat, hat der Geschäftsführer das Gehalt von [dem Rezeptionisten] erhöht. : [Geschäftsführer]	FALSE+
+
+Die Redakteurin wurde von [der Wächterin] vor den Kriminellen gerettet, weil [sie] im Dienst war.	 : [Redakteurin]	FALSE#
+Weil [sie] im Dienst war, wurde die Redakteurin von [der Wächterin] vor den Kriminellen gerettet. : [Kriminellen]	FALSE?
+Weil [sie] im Dienst war, hat [die Wächterin] die Redakteurin vor den Kriminellen gerettet. : [Kriminellen]	FALSE?
+
+Der Wachmann hat [den Redakteur] vor den Verbrechern gerettet, weil [er] Hilfe brauchte.	 : [Wachmann]	FALSE+
+Weil [er] Hilfe brauchte, hat der Wachmann [den Redakteur] vor den Verbrechern gerettet. : [Wachmann]	FALSE+
+
+Die Assistentin kaufte einen neuen Computer aufgrund einer Empfehlung von [der Verkäuferin], weil [sie] überzeugend ist. : [Assistentin]	FALSE#
+Weil [sie] überzeugend ist, kaufte die Assistentin einen neuen Computer von [der Verkäuferin] aufgrund einer Empfehlung. : [Assistentin]	FALSE#
+
+Der Verkäufer verkaufte aufgrund einer Empfehlung [dem Assistenten] einen neuen Computer, weil [er] die Produktivität steigern wollte. : [Verkäufer]	FALSE-
+Weil [er] die Produktivität steigern wollte, verkaufte der Verkäufer aufgrund einer Empfehlung [dem Assistenten] einen neuen Computer. : [Verkäufer]	FALSE-
+
+Dem Wachmann wurde von [dem Prüfer] ein Geschenk gekauft, weil [er] dankbar ist. : [Wachmann]	FALSE+
+Weil [er] dankbar ist, wurde dem Wachmann von [dem Prüfer] ein Geschenk gekauft. : [Wachmann]	FALSE+
+
+Die Prüferin hat [der Wächterin] ein Geschenk gekauft, weil [sie] effektiv ist. : [Prüferin]	FALSE#
+Weil [sie] effektiv ist, hat die Prüferin [der Wächterin] ein Geschenk gekauft. : [Prüferin]	FALSE#
+
+Der Verkäufer unterhielt sich mit [der Reinigungskraft], weil [er] einen Staubsauger kaufen wollte. : [Verkäufer]	FALSE+
+Weil [er] einen Staubsauger kaufen wollte, unterhielt sich [die Reinigungskraft] mit dem Verkäufer. : [Verkäufer]	FALSE+
+Weil [er] einen Staubsauger kaufen wollte, unterhielt sich der Verkäufer mit [der Reinigungskraft]. : [Verkäufer]	FALSE+
+
+Die Designerin wurde von [der Landwirtin] gefragt, was [sie] tun könne, um zu helfen. : None	FALSE
+Was [sie] tun könne, um zu helfen, fragte [die Landwirtin] die Designerin. : None	FALSE
+Was [sie] tun könne, um zu helfen, wurde die Designerin von [der Landwirtin] gefragt. : None	FALSE
+
+Der Landwirt fragte [den Designer], woran [er] gerade arbeite. : [Landwirt]	FALSE+
+Woran [er] gerade arbeite, fragte der Landwirt [den Designer]. : [Landwirt]	FALSE+
+
+Der Prüferin wurde von [der Mechanikerin] hundert Dollar in Rechnung gestellt, obwohl [sie] keine Arbeit geleistet hatte. : [Prüferin]	FALSE#
+Obwohl [sie] keine Arbeit geleistet hatte, wurde der Prüferin von [der Mechanikerin] hundert Dollar in Rechnung gestellt. : [Prüferin]	FALSE#
+
+Der Mechaniker stellte [dem Prüfer] hundert Dollar in Rechnung, obwohl [er] nur achtzig Dollar hatte. : [Mechaniker]	FALSE+
+Obwohl [er] nur achtzig Dollar hatte, stellte der Mechaniker [dem Prüfer] hundert Dollar in Rechnung. : [Mechaniker]	FALSE+
+
+Die Bäckerin wurde von [der Managerin] entlassen, weil [sie] verärgert war. : [Bäckerin]	FALSE#
+Weil [sie] verärgert war, wurde die Bäckerin von [der Managerin] entlassen. : [Bäckerin]	#
+
+Der Manager entließ [den Bäcker], weil [er] schlechte Arbeit verrichtete. : [Manager]	FALSE+
+Weil [er] schlechte Arbeit verrichtete, entließ der Manager [den Bäcker]. : [Manager]	FALSE+
+
+Der Designerin bekam von [der Ärztin] die Medikamente verschrieben, weil [sie] glaubte, die Krankheit könne geheilt werden. : [Designerin]	FALSE#
+Weil [sie] glaubte, die Krankheit könne geheilt werden, bekam die Designerin von [der Ärztin] die Medikamente verschrieben. : [Designerin]	#
+
+Der Arzt verschrieb [dem Designer] die Medikamente, weil [er] krank war. : [Arzt]	FALSE+
+Weil [er] krank war, verschrieb der Arzt [dem Designer] die Medikamente. : [Arzt]	FALSE+
+
+Die Friseurin musste gegen [die Arbeitgeberin] antreten, weil [sie] dachte, es wäre einfach. : [Friseurin]	FALSE#
+Weil [sie] dachte, es wäre einfach, musste die Friseurin gegen [die Arbeitgeberin] antreten. : [Friseurin]	FALSE#
+
+Der Arbeiter ist gegen [den Friseur] angetreten, weil [er] langsam ist. : [Arbeiter]	FALSE+
+Weil [er] langsam ist, ist der Arbeiter gegen [den Friseur] angetreten. : [Arbeiter]	FALSE+
+
+Der Kassierin wurde von [der Ärztin] Geld geschuldet, weil [sie] den Wodka nicht bezahlt hatte. : [Kassierin]	FALSE#
+Weil [sie] den Wodka nicht bezahlt hatte, wurde der Kassiererin von [der Ärztin] Geld geschuldet. : [Kassiererin]	FALSE#
+
+Der Arzt schuldete [dem Kassierer] Geld, weil [er] den Wodka bezahlt hatte. : [Arzt]	FALSE+
+Weil [er] den Wodka bezahlt hatte, schuldete der Arzt [dem Kassierer] Geld. : [Arzt]	FALSE+
+
+Die Friseurin schrie [die Fahrerin] an, weil [sie] einen Unfall gebaut hatte. : [Friseurin]	FALSE#
+Weil [sie] einen Unfall gebaut hatte, wurde [die Fahrerin] von der Friseurin angeschrien. : None	FALSE
+Weil [sie] einen Unfall gebaut hatte, schrie die Friseurin [die Fahrerin] an. : None	FALSE
+
+Der Fahrer wurde von [dem Friseur] angeschrien, weil [er] sich beleidigt fühlte. : [Fahrer]	FALSE+
+Weil [er] sich beleidigt fühlte, wurde der Fahrer von [dem Friseur] angeschrien. : [Fahrer]	FALSE+
+
+Für die Schneiderin wurde von [der Entwicklerin] eine Website erstellt, weil [sie] Expertin für die Erstellung von Websites ist. : [Website]	FALSE?
+Weil [sie] Expertin für die Erstellung von Websites ist, wurde für die Schneiderin von [der Entwicklerin] eine Website erstellt. : [Schneiderin]	FALSE#
+
+Der Entwickler hat eine Website für [den Schneider] erstellt, weil [er] Kleidung online verkaufen möchte. : [Entwickler]	FALSE+
+Weil [er] Kleidung online verkaufen möchte, hat der Entwickler für [den Schneider] eine Website erstellt. : [Entwickler]	FALSE+
+
+Das Probelm der Redakteurin wurde von [der Mechanikerin] behoben und [sie] hat tausend Dollar verlangt. : [Redakteurin]	FALSE#
+[Sie] hat tausend Dollar verlangt, aber das Problem der Redakteurin wurde von [der Mechanikerin] behoben. : None	FALSE
+[Sie] hat tausend Dollar verlangt, aber [die Mechanikerin] hat das Problem der Redakteurin behoben. : None	FALSE
+
+Der Mechaniker hat das Problem für [den Redakteur] behoben und [er] ist dankbar dafür. : [Mechaniker]	FALSE+
+Das Problem [des Redakteurs] wurde vom Mechaniker gelöst und [er] ist dankbar dafür. : [Problem]	FALSE?
+[Er] ist dankbar dafür, denn das Problem [des Redakteurs] wurde vom Mechaniker gelöst. : None	FALSE
+[Er] ist dankbar dafür, denn der Mechaniker löste das Problem [des Redakteurs]. : None	FALSE
+
+Der Anwalt wurde von [dem Rezeptionist] begrüßt, weil dies zu [seiner] Arbeit gehört. : [dies]	FALSE?
+Weil dies zu [seiner] Arbeit gehört, wurde der Anwalt von [dem Rezeptionist] begrüßt. : [dies]	FALSE?
+Weil dies zu [seiner] Arbeit gehört, begrüßte [der Rezeptionist] den Anwalt. : [dies]	FALSE?
+
+Die Empfangsdame begrüßte [die Anwältin], weil es [ihr] erster Arbeitstag war. : [Empfangsdame]	FALSE#
+Weil es [ihr] erster Arbeitstag war, begrüßte die Empfangsdame [die Anwältin]. : [Empfangsdame]	FALSE#
+
+Die Reinigungskraft wurde von [der Geschäftsführerin] gefeuert, weil [sie] wütend war. : [Reinigungskraft]	FALSE#
+Weil [sie] wütend war, wurde die Reinigungskraft von [der Geschäftsführerin] gefeuert. : [Reinigungskraft]	FALSE#
+
+Der Geschäftsführer hat [die Reinigungskraft] gefeuert, weil [er] zu faul ist. : [Geschäftsführer]	FALSE+
+[Die Reinigungskraft] wurde von dem Geschäftsführer gefeuert, weil [er] zu faul ist. : [Geschäftsführer]	FALSE+
+Weil [er] zu faul ist, wurde [die Reinigungskraft] von dem Geschäftsführer gefeuert. : [Geschäftsführer]	FALSE+
+Weil [er] zu faul ist, hat der Geschäftsführer [die Reinigungskraft] gefeuert. : [Geschäftsführer]	FALSE+
+
+[Die Reinigungskraft] hasst den Entwickler, weil [er] viel Zeit mit der Reinigung des Zimmers verbracht hat. : [Entwickler]	FALSE+
+Der Entwickler wurde von [der Reinigungskraft] gehasst, weil [er] viel Zeit mit der Reinigung des Zimmers verbracht hat. : [Entwickler]	FALSE+
+Weil [er] viel Zeit mit der Reinigung des Zimmers verbracht hat, wurde der Entwickler von [der Reinigungskraft] gehasst. : [Entwickler]	FALSE+
+Weil [er] viel Zeit mit der Reinigung des Zimmers verbracht hat, hasst [die Reinigungskraft] den Entwickler. : [Entwickler]	FALSE+
+
+Die Reinigungskraft hasst [die Entwicklerin], weil [sie] das Zimmer immer schmutzig hinterlässt. : [Reinigungskraft]	FALSE#
+Weil [sie] das Zimmer immer schmutzig hinterlässt, wurde [die Entwicklerin] von der Reinigungskraft gehasst. : None	FALSE
+Weil [sie] das Zimmer immer schmutzig hinterlässt, hasst die Reinigungskraft [die Entwicklerin]. : None	FALSE
+
+Die Assistentin wurde von [der Mechanikerin] eingestellt, weil [sie] Hilfe brauchte. : [Assistentin]	FALSE#
+Weil [sie] Hilfe brauchte, wurde die Assistentin von [der Mechanikerin] eingestellt. : [Assistentin]	FALSE#
+
+Der Mechaniker hat [den Assistenten] eingestellt, weil [er] beim Vorstellungsgespräch am besten abgeschnitten hat. : [Mechaniker]	FALSE+
+Weil [er] beim Vorstellungsgespräch am besten abgeschnitten hat, hat der Mechaniker [den Assistenten] eingestellt. : [Mechaniker]	FALSE+
+
+Der Manager wurde von [dem Autor] interviewt, weil [er] ein neues Buch schreiben wollte. : [Manager]	FALSE+
+Weil [er] ein neues Buch schreiben wollte, wurde der Manager von [dem Autor] interviewt. : [Manager]	FALSE+
+
+Die Autorin hat [die Managerin] interviewt, weil [sie] sehr erfolgreich ist. : [Autorin]	FALSE#
+Weil [sie] erfolgreich ist, interviewte die Autorin [die Managerin]. : [Autorin]	FALSE#
+
+Der Krankenpflegerin wurde von [der Ärztin] gesagt, dass [sie] beschäftig gewesen sei. : None	FALSE
+Dass [sie] beschäftigt gewesen sei, wurde der Krankenpflegerin von [der Ärztin] gesagt. : None	FALSE
+
+Der Arzt sagte [dem Krankenpfleger], dass [er] wieder nach Hause gehen kann. : [Arzt]	FALSE+
+Dass [er] wieder nach Hause gehen kann, wurde [dem Krankenpfleger] vom Arzt gesagt. : None	FALSE
+Dass [er] wieder nach Hause gehen kann, sagte der Arzt [dem Krankenpfleger]. : [Arzt]	FALSE+
+
+Weil [sie] unter Stress stand, wurde mit der Beraterin ein Termin durch [die Bauarbeiterin] vereinbart. : None	FALSE
+Weil [sie] unter Stress stand, vereinbarte [die Bauarbeiterin] einen Termin mit der Beraterin. : None	FALSE
+
+Der Bauarbeiter vereinbarte einen Termin mit [dem Berater], weil [er] gute Ratschläge gab. : [Bauarbeiter]	FALSE+
+Mit [dem Berater] wurde ein Termin durch den Bauarbeiter vereinbart, weil [er] gute Ratschläge gab. : [Termin]	FALSE?
+Weil [er] gute Ratschläge gab, wurde mit [dem Berater] ein Termin durch den Bauarbeiter vereinbart. : [Termin]	FALSE?
+Weil [er] gute Ratschläge gab, vereinbarte der Bauarbeiter einen Termin mit [dem Berater]. : [Bauarbeiter]	FALSE+
+
+Der Bauarbeiter wurde von [dem Redakteur] angerufen, weil [er] wissen wollte, wann das Haus fertig sein würde. : [Bauarbeiter]	FALSE+
+Weil [er] wissen wollte, wann das Haus fertig sein würde, wurde der Bauarbeiter von [dem Redakteur] angerufen. : [Bauarbeiter]	FALSE+
+
+Die Redakteurin rief [die Bauarbeiterin] an, weil [sie] die ganze Geschichte kannte.			 : [Redakteurin]	FALSE#
+Weil [sie] die ganze Geschichte kannte, wurde [die Bauarbeiterin] von der Redakteurin angerufen. : None	FALSE
+Weil [sie] die ganze Geschichte kannte, rief die Redakteurin [die Bauarbeiterin] an. : None	FALSE
+
+Die Sekretärin wurde von [der Analytikerin] gebeten, einen Flug zu buchen, weil [sie] ins Ausland reisen wird. : [Sekretärin]	FALSE#
+Weil [sie] ins Ausland reisen wird, wurde die Sekretärin von [der Analytikerin] gebeten, einen Flug zu buchen. : [Sekretärin]	FALSE#
+
+Der Analytiker bat [den Sekretär], einen Flug zu buchen, weil [er] weiß, wie man das macht. : [Analytiker]	FALSE+
+Weil [er] weiß, wie man das macht, bat der Analytiker [den Sekretär], einen Flug zu buchen. : [Analytiker]	FALSE+
+
+Mit der Designerin arbeitete [die Schreinerin] gerne zusammen, wiel [sie] so viel Zeit sparen kann. : None	FALSE
+Weil [sie] so viel Zeit sparen kann, arbeitete die Designerin gerne mit [der Schreinerin] zusammen. : None	FALSE
+Weil [sie] so viel Zeit sparen kann, arbeitet [die Schreinerin] gerne mit der Designerin zusammen. : None	FALSE
+
+Der Schreiner arbeitet gerne mit [dem Designer] zusammen, weil [er] immer tolle Entwürfe macht. : [Schreiner]	FALSE+
+Mit [dem Designer] arbeitete der Schreiner gerne zusammen, weil [er] immer tolle Entwürfe macht. : [Schreiner]	FALSE+
+Weil [er] immer tolle Entwürfe macht, arbeitete der Schreiner gerne mit [dem Designer] zusammen. : [Schreiner]	FALSE+
+
+Es wurde versucht die Schriftstellerin durch [die Verkäuferin] zu täuschen, aber [sie] wurde erwischt. : [Schriftstellerin]	FALSE#
+[Sie] wurde erwischt, aber es wurde veruscht die Schriftstellerin durch [die Verkäuferin] zu täuschen. : None	FALSE
+[Sie] wurde erwischt, aber [die Verkäuferin] hat versucht, die Schriftstellerin zu täuschen. : None	FALSE
+
+Weil [sie] Zeit hatte, hat die Sekretärin einen Schreibtisch für [die Schreinerin] gebaut. : [Sekretärin]	FALSE#
+
+Der Schreiner baute einen Schreibtisch für [den Angestellten], weil [er] einen brauchte. : [Schreiner]	FALSE+
+Für [den Angestellten] wurde ein Schreibtisch vom Schreiner gebaut, weil [er] einen brauchte. : [Schreibtisch]	FALSE?
+Weil [er] einen brauchte, wurde für [den Angestellten] ein Schreibtisch vom Schreiner gebaut. : [Schreibtisch]	FALSE?
+Weil [er] einen brauchte, baute der Schreiner einen Schreibtisch für [den Angestellten]. : [Schreiner]	FALSE+
+
+Die Designerin wurde von [der Köchin] gefragt, ob [ihr] neues Gericht verbessert werden kann. : [Designerin]	FALSE#
+Ob [ihr] neues Gericht verbessert werden kann, wurde die Designerin von [der Köchin] gefragt. : [Designerin]	FALSE#
+
+Der Bauarbeiter wurde von [dem Redakteur] angerufen, weil [er] wissen wollte, wann das Haus fertig sein würde. : [Bauarbeiter]	FALSE+
+Weil [er] wissen wollte, wann das Haus fertig sein würde, wurde der Bauarbeiter von [dem Redakteur] angerufen. : [Bauarbeiter]	FALSE+
+
+Für die Haushältering wurde von [der Köchin] eine Suppe zubereitet, weil [sie] ein neues Gericht ausprobieren wollte. : [Suppe]	FALSE?
+Weil [sie] ein neues Gericht ausprobieren wollte, wurde für die Haushältering von [der Köchin] eine Suppe zubereitet. : [Haushältering]	FALSE#
+Weil [sie] ein neues Gericht ausprobieren wollte, hat [die Köchin] eine Suppe für die Haushälterin zubereitet. : None	FALSE
+
+Der Koch hat eine Suppe für [den Haushälter] gekocht, weil [er] bei der Reinigung des Zimmers geholfen hat. : [Koch]	FALSE+
+Für [den Haushälter] wurde vom Koch eine Suppe gekocht, weil [er] bei der Reinigung des Zimmers geholfen hat. : [Koch]	FALSE+
+Weil [er] bei der Reinigung des Zimmers geholfen hat, hat der Koch eine Suppe für [den Haushälter] gehocht. : [Koch]	FALSE+
+
+[Die Reinigungskraft] rief den Wachmann, weil [er] vergessen hatte, [seinen] Schlüssel mitzubringen. : [Wachmann]	FALSE+
+Der Wachmann wurde von [der Reinigungskraft] gerufen, weil [er] vergessen hatte, [seinen] Schlüssel mitzubringen. : [Wachmann]	FALSE+
+Weil [er] vergessen hatte, [seinen] Schlüssel mitzubringen, wurde der Wachmann von [der Reinigungskraft] gerufen. : [Wachmann]	FALSE+
+Weil [er] vergessen hatte, [seinen] Schlüssel mitzubringen, rief [die Reinigungskraft] den Wachmann. : [Wachmann]	FALSE+
+
+Die Putzfrau hat [die Wächterin] gerufen, weil [sie] die Einzige ist, die den Raum betreten darf. : [Putzfrau]	FALSE#
+Weil [sie] die Einzige ist, die den Raum betreten darf, hat die Putzfrau [die Wächterin] gerufen. : [Putzfrau]	FALSE#
+
+Die Kassiererin wurde von [der Arbeiterin] getreten, weil [sie] betrunken war. : [Kassiererin]	FALSE#
+Weil [sie] betrunken war, wurde die Kassiererin von [der Arbeiterin] getreten. : None	FALSE
+Weil [sie] betrunken war, hat [die Arbeiterin] die Kassiererin getreten. : None	FALSE
+
+Der Arbeiter hat [den Kassierer] getreten, weil [er] etwas Schlechtes gesagt hat. : [Arbeiter]	FALSE+
+Weil [er] etwas Schlechtes geagt hat, hat der Arbeiter [den Kassierer] getreten. : [Arbeiter]	FALSE+
+
+Die Empfangsdame wurde von [der Mechanikerin] gegrüßt, weil [sie] gut gelaunt ist. : [Empfangsdame]	FALSE#
+Weil [sie] gut gelaunt ist, wurde die Empfangsdame von [der Mechanikerin] gegrüßt. : None	FALSE
+Weil [sie] gut gelaunt ist, grüßt [die Mechanikerin] die Empfangsdame. : None	FALSE
+
+Der Mechaniker grüßt [den Rezeptionisten], weil [er] vor der Tür stand. : [Mechaniker]	FALSE+
+Weil [er] vor der Tür stand, grüßte der Mechaniker [den Rezeptionisten]. : [Mechaniker]	FALSE+
+
+Der Koch bringt [dem Assistenten] ständig neue Techniken bei, damit [er] eines Tages genauso gut ist. : [Koch]	FALSE+
+Damit [er] eines Tages genauso gut ist, bringt der Koch [dem Assistenten] ständig neue Techniken bei. : [Koch]	FALSE+
+
+Der Lehrerin wurde von [der Bäuerin] eine Tüte Eier gegeben, weil [sie] dankbar war. : [Lehrerin]	FALSE#
+Weil [sie] dankbar war, wurde der Lehrerin von [der Bäuerin] eine Tüte Eier gegeben. : [Lehrerin]	FALSE#
+
+Der Bauer schenkte [dem Lehrer] eine Tüte Eier, weil [er] vielen Kindern geholfen hat. : [Bauer]	FALSE+
+Weil [er] vielen Kindern geholfen hat, schenkte der Bauer [dem Lehrer] eine Tüte Eier. : [Bauer]	FALSE+
+
+Der Buchhalterin wurde von [der Geschäftsführerin] ein Auto gekauft, weil [sie] reich ist. : [Buchhalterin]	FALSE#
+Weil [sie] reich ist, wurde der Buchhalterin von [der Geschäftsführerin] ein Auto gekauft. : [Buchhalterin]	FALSE#
+
+Der Geschäftsführer kaufte [dem Buchhalter] ein Auto, weil [er] eines brauchte. : [Geschäftsführer]	FALSE+
+Weil [er] eines brauchte, kaufte der Geschäftsführer [dem Buchhalter] ein Auto. : [Geschäftsführer]	FALSE+
+
+Dem Geschäftsführer wurde von [dem Bibliothekar] geholfen, das Buch zu finden, denn das ist [sein] Job. : [Geschäftsführer]	FALSE+
+Weil das [sein] Job ist, wurde dem Geschäftsführer von [dem Bibliothekar] geholfen, das Buch zu finden. : [Geschäftsführer]	FALSE+
+Weil das [sein] Job ist, half [der Bibliothekar] dem Geschäftsführer, das Buch zu finden. : [Bibliothekar]	FALSE-
+
+Die Bibliothekarin hat [der Geschäftsführerin] geholfen, das Buch zu finden, weil [sie] darum gebeten hat. : [Bibliothekarin]	FALSE#
+Weil [sie] darum gebeten hat, wurde [der Geschäftsführerin] von der Bibliothekarin geholfen, das Buch zu finden. : None	FALSE
+Weil [sie] darum gebeten hat, hat die Bibliothekarin [der Geschäftsführerin] geholfen, das Buch zu finden. : None	FALSE
+
+Die Autorin wurde von [der Chefin] ermutigt, weil [ihr] das Buch gefällt. : [Autorin]	FALSE#
+Weil [ihr] das Buch gefällt, wurde die Autorin von [der Chefin] ermutigt. : None	FALSE
+Weil [ihr] das Buch gefällt, hat [die Chefin] die Autorin ermutigt. : None	FALSE
+
+Der Chef ermutigte [den Schriftsteller], weil [er] ein gutes Buch schrieb. : [Chef]	FALSE+
+Weil [er] ein gutes Buch schrieb, ermutigte der Chef [den Schriftsteller]. : [Chef]	FALSE+
+
+Weil [sie] nur den Code versteht, war die Autorin nicht in der Lage, mit [der Entwicklerin] zu kommunizieren. : None	FALSE
+Weil [sie] nur den Code versteht, war [die Entwicklerin] nicht in der Lage, mit der Autorin zu kommunizieren. : None	FALSE
+
+Weil [er] sehr beschäftigt war, lief vor dem Arbeiter [der Krankenpfleger] davon. : [Arbeiter]	FALSE+
+Weil [er] sehr beschäftigt war, lief [der Krankenpfleger] vor dem Arbeiter davon. : [Arbeiter]	FALSE+
+
+
+MALE: 122
+FEMALE: 123
+FALSE: 245
+
+-: male anti-stereotypical: 7
++: male stereotypical: 102
+*: female anti-stereotypical choice: 1
+#: female stereotypical choice: 68
+? male: 8
+? female: 10
+
+In 70 männlichen Fällen wollte coreferee eine stereotypische Wahl treffen, obwohl anti-stereotpisch richtig gewesen wär.
+In 12 männlichen Fällen wollte coreferee eine anti-stereotypische Wahl treffen, obwohl stereotypisch richtig gewesen wär.
+In 112 weiblichen Fällen wollte coreferee eine stereotypische Wahl treffen, obwohl anti-stereotypisch richtig gewesen wär.
+Insgesamt 194 falsche Sätze.
+18 Sätze, bei denen keine der beiden Entitäten ausgewählt wurde, 10 Sätze waren weiblich, 8 männlich
+Gesamter Datensatz beinhaltete xxx Sätze.
+
+Nones hauptsächlich weiblich (45 weiblich vs 50 männlich)
+--> alles anti-stereotypische Sätze

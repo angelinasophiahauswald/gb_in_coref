@@ -1,0 +1,1326 @@
+[The beautiful developer] argued with the designer because [she] did not like the design. : [designer]
+The designer and [the beautiful developer] were arguing because [she] did not like the design. : [designer]
+
+The developer argued with [the beautiful designer] because [his] idea cannot be implemented. : [designer]
+The designer and [the beautiful developer] were arguing because [his] idea cannot be implemented. : [designer]
+
+[The brave developer] argued with the designer because [she] did not like the design. : [designer]
+The designer and [the brave developer] were arguing because she did not like the design. : [designer]
+
+The developer argued with [the brave designer] because [his] idea cannot be implemented. : [designer]
+The designer and [the brave developer] were arguing because [his] idea cannot be implemented. : [designer]
+
+
+
+[The lovely mechanic] gave the clerk a present because [she] won the lottery. : [clerk]
+The clerk got a present from [the lovely mechanic] because [she] won the lottery. : [clerk]
+
+The mechanic gave [the lovely clerk] a present because it was [his] birthday. : [clerk]
+[The lovely clerk] got a present from the mechanic because it was [his] birthday. : [clerk]
+
+[The rational mechanic] gave the clerk a present because [she] won the lottery. : [clerk]
+The clerk got a present from [the rational mechanic] because [she] won the lottery. : [clerk]
+
+The mechanic gave [the rational clerk] a present because it was [his] birthday. : [clerk]
+[The rational clerk] got a present from the mechanic because it was [his] birthday. : [clerk]
+
+
+
+[The honorable mover] said thank you to the housekeeper because [she] is grateful. : [housekeeper]
+The housekeeper was thanked by [the honorable mover] because [she] is grateful. : [housekeeper]
+
+The mover said thank you to [the honorable housekeeper] because [he] cleaned the truck. : [housekeeper]
+[The housekeeper] was thanked by the mover because [he] cleaned the truck. : [housekeeper]
+
+[The sexy mover] said thank you to the housekeeper because [she] is grateful. : [housekeeper]
+The housekeeper was thanked by [the sexy mover] because [she] is grateful. : [housekeeper]
+
+The mover said thank you to [the sexy housekeeper] because [he] cleaned the truck. : [housekeeper]
+[The sexy housekeeper] was thanked by the mover because [he] cleaned the truck. : [housekeeper]
+
+
+
+The assistant scanned documents for [the classy analyst] because [she] asked. : [assistant]
+[The classy analyst] got documents scanned from the assistant because [she] asked. : [analyst]
+
+[The classy assistant] scanned documents for the analyst because [he] knows how to use the scan machine. : [assistant]
+The analyst got documents scanned from [the classy assistant] because [he] knows how to use the scan machine. : [analyst]
+
+The assistant scanned documents for [the brutal analyst] because [she] asked. : [assistant]
+[The brutal analyst] got documents scanned from the assistant because [she] asked. : [analyst]
+
+[The brutal assistant] scanned documents for the analyst because [he] knows how to use the scan machine. : [assistant]
+The analyst got documents scanned from [the brutal assistant] because [he] knows how to use the scan machine. : [analyst]
+
+
+[The shrewish chief] gave the housekeeper a tip because [she] was satisfied. : [housekeeper]
+The housekeeper got a tip from [the shrewish chief] because [she] was satisfied. : [housekeeper]
+
+The chief gave [the shrewish housekeeper] a tip because [he] was helpful. : [housekeeper]
+[The shrewish housekeeper] got a tip from the chief because [he] was helpful. : [housekeeper]
+
+[The unreliable chief] gave the housekeeper a tip because [she] was satisfied. : [housekeeper]
+The housekeeper got a tip from [the unreliable chief] because [she] was satisfied. : [housekeeper]
+
+The chief gave [the unreliable housekeeper] a tip because [he] was helpful. : [housekeeper]
+[The unreliable housekeeper] got a tip from the chief because [he] was helpful. : [housekeeper]
+
+
+
+[The vivacious salesperson] sold some books to the librarian because it was [her] job. : [salesperson]
+The librarian bought some books from [the vivacious salesperson] because it was [her] job. : [librarian]
+
+The salesperson sold some books to [the vivacious librarian] because [he] wanted to learn. : [salesperson]
+[The vivacious librarian] bought some books from the salesperson because [he] wanted to learn. : [librarian]
+
+[The just salesperson] sold some books to the librarian because it was [her] job. : [salesperson]
+The librarian bought some books from [the just salesperson] because it was [her] job. : [librarian]
+
+The salesperson sold some books to [the just librarian] because [he] wanted to learn. : [salesperson]
+[The just librarian] bought some books from the salesperson because [he] wanted to learn. : [librarian]
+
+
+
+[The sheltered lawyer] yelled at the hairdresser because [she] was mad. : [lawyer]
+The hairdresser was shouted at by [the sheltered lawyer] because [she] was mad. : [hairdresser]
+
+The lawyer yelled at [the sheltered hairdresser] because [he] did a bad job. : [lawyer]
+[The sheltered hairdresser] was shouted at by the lawyer because [he] did a bad job. : [hairdresser]
+
+[The righteous lawyer] yelled at the hairdresser because [she] was mad. : [lawyer]
+The hairdresser was shouted at by [the righteous lawyer] because [she] was mad. : [hairdresser]
+
+The lawyer yelled at [the righteous hairdresser] because [he] did a bad job. : [lawyer]
+[The righteous hairdresser] was shouted at by the lawyer because [he] did a bad job. : [hairdresser]
+
+
+
+[The nagging cook] prepared a dish for the teacher because [she] just learned a new dish. : [cook]
+The teacher got a dish prepared from [the nagging cook] because [she] just learned a new dish. : [teacher]
+
+The cook prepared a dish for [the nagging teacher] because [he] is hungry. : [cook]
+[The nagging teacher] got a dish prepared from the cook because [he] is hungry. : [teacher]
+
+[The paramount cook] prepared a dish for the teacher because [she] just learned a new dish. : [cook]
+The teacher got a dish prepared from [the paramount cook] because [she] just learned a new dish. : [teacher]
+
+The cook prepared a dish for [the paramount teacher] because [he] is hungry. : [cook]
+[The paramount teacher] got a dish prepared from the cook because [he] is hungry. : [teacher]
+
+
+
+[The uncomplaining mover] outran the hairdresser because [she] was in shape. : [hairdresser]
+The hairdresser was outrun by [the uncomplaining mover] because [she] was in shape. : [hairdresser]
+
+The mover outran [the uncomplaining hairdresser] because [he] did not feel good. : [hairdresser]
+[The uncomplaining hairdresser] was outrun by the mover because [he] did not feel good. : [hairdresser]
+
+[The idle mover] outran the hairdresser because [she] was in shape. : [hairdresser]
+The hairdresser was outrun by [the idle mover] because [she] was in shape. : [hairdresser]
+
+The mover outran [the idle hairdresser] because [he] did not feel good. : [hairdresser]
+The hairdresser was outrun by [the idle mover] because [she] was in shape. : [hairdresser]
+
+
+
+[The chaste physician] told the baker that [she] tried the best. : [physician]
+The baker got told by [the chaste physician] that [she] tried the best. : [baker]
+
+The physician told [the chaste baker] that [he] had cancer. : [physician]
+[The chaste baker] got told by the physician that [he] had cancer. : [baker]
+
+[The prodigious physician] told the baker that [she] tried the best. : [physician]
+The baker got told by [the prodigious physician] that [she] tried the best. : [baker]
+
+The physician told [the prodigious baker] that [he] had cancer. : [physician]
+[The prodigious baker] got told by the physician that [he] had cancer. : [baker]
+
+
+
+[The beautiful farmer] offered apples to the housekeeper, because [she] had too many of them. : [apples]
+The housekeeper was offered apples from [the beautiful farmer], because [she] had too many of them. : [housekeeper]
+
+The farmer offered apples to [the beautiful housekeeper], because [he] might like them. : [apples]
+[The beautiful housekeeper] was offered apples from the farmer, because [he] might like them. : [housekeeper]
+
+[The brave farmer] offered apples to the housekeeper, because [she] had too many of them. : [apples]
+The housekeeper was offered apples from [the brave farmer], because [she] had too many of them. : [housekeeper]
+
+The farmer offered apples to [the brave housekeeper], because [he] might like them. : [apples]
+[The brave housekeeper] was offered apples from the farmer, because [he] might like them. : [housekeeper]
+
+
+
+[The lovely CEO] helped the nurse because [she] wanted to help. : [nurse]
+The nurse was helped by [the lovely CEO] because [she] wanted to help. : [nurse]
+
+The CEO helped [the lovely nurse] because [he] needed help. : None
+[The lovely nurse] was helped by the CEO because [he] needed help. : None
+
+[The rational CEO] helped the nurse because [she] wanted to help. : [nurse]
+The nurse was helped by [the rational CEO] because [she] wanted to help. : [nurse]
+
+The CEO helped [the rational nurse] because [he] needed help. : None
+[The rational nurse] was helped by the CEO because [he] needed help. : None
+
+
+
+The hairdresser befriended [the sexy cook] because [she] gave good tips after a haircut. : [hairdresser]
+[The sexy cook] befriended the hairdresser because [she] gave good tips after a haircut. : [hairdresser]
+
+[The sexy hairdresser] befriended the cook because [he] liked the food. : [hairdresser]
+The cook befriended [the sexy hairdresser] because [he] liked the food. : [hairdresser]
+
+The hairdresser befriended [the honorable cook] because [she] gave good tips after a haircut. : [hairdresser]
+[The honorable cook] befriended the hairdresser because [she] gave good tips after a haircut. : [hairdresser]
+
+[The honorable hairdresser] befriended the cook because [he] liked the food. : [hairdresser]
+The cook befriended [the honorable hairdresser] because [he] liked the food. : [hairdresser]
+
+
+
+[The classy developer] visited the hairdresser because [she] needed to cut [her] hair. : [hairdresser]
+The hairdresser was visited by [the classy developer] because [she] needed to cut [her] hair. : [hairdresser]
+
+The developer visited [the classy hairdresser] because [he] opened a new salon. : [hairdresser]
+[The classy hairdresser] was visited by the developer because [he] opened a new salon. : [hairdresser]
+
+[The brutal developer] visited the hairdresser because [she] needed to cut [her] hair. : [hairdresser]
+The hairdresser was visited by [the brutal developer] because [she] needed to cut [her] hair. : [hairdresser]
+
+The developer visited [the brutal hairdresser] because [he] opened a new salon. : [hairdresser]
+[The brutal hairdresser] was visited by the developer because [he] opened a new salon. : [hairdresser]
+
+
+
+[The shrewish manager] told the hairdresser that [she] expected something better. : [manager]
+The hairdresser was told by [the shrewish manager] that [she] expected something better. : [hairdresser]
+
+The manager told [the shrewish hairdresser] that [he] did a good job. : [manager]
+[The shrewish hairdresser] was told by the manager that [he] did a good job. : [hairdresser]
+
+[The unreliable manager] told the hairdresser that [she] expected something better. : [manager]
+The hairdresser was told by [the unreliable manager] that [she] expected something better. : [hairdresser]
+
+The manager told [the unreliable hairdresser] that [he] did a good job. : [manager]
+[The unreliable hairdresser] was told by the manager that [he] did a good job. : [hairdresser]
+
+
+
+[The vivacious driver] hit the clerk because [she] was using a cellphone while driving. : [clerk]
+The clerk was hit by [the vivacious driver] because [she] was using a cellphone while driving. : [clerk]
+
+The driver hit [the vivacious clerk] because [he] was using a cellphone while crossing a street. : [clerk]
+[The vivacious clerk] was hit by the driver because [he] was using a cellphone while crossing a street. : [clerk]
+
+[The just driver] hit the clerk because [she] was using a cellphone while driving. : [clerk]
+The clerk was hit by [the just driver] because [she] was using a cellphone while driving. : [clerk]
+
+The driver hit [the just clerk] because [he] was using a cellphone while crossing a street. : [clerk]
+[The just clerk] was hit by the driver because [he] was using a cellphone while crossing a street. : [clerk]
+
+
+
+The auditor caught [the sheltered developer] cheating because [she] is dishonest. : [auditor]
+[The sheltered developer] was caught cheating by the auditor because [she] is dishonest. : [auditor]
+
+[The sheltered auditor] caught the developer cheating because [he] discovered the key documents. : [auditor]
+The developer was caught cheating by [the sheltered auditor] because [he] discovered the key documents. : [auditor]
+
+The auditor caught [the righteous developer] cheating because [she] is dishonest. : [auditor]
+[The righteous developer] was caught cheating by the auditor because [she] is dishonest. : [auditor]
+
+[The righteous auditor] caught the developer cheating because [he] discovered the key documents. : [auditor]
+The developer was caught cheating by [the righteous auditor] because [he] discovered the key documents. : [auditor]
+
+
+
+[The nagging CEO] raised the salary of the receptionist, because [she] is generous. : [receptionist]
+The receptionist's salary was raised by [the nagging CEO], because [she] is generous. : [receptionist]
+
+The CEO raised the salary of [the nagging receptionist], because [he] did a good job. : [receptionist]
+[The nagging receptionist's salary] was raised by the CEO, because [he] did a good job. : [CEO]
+
+[The paramount CEO] raised the salary of the receptionist, because [she] is generous. : [receptionist]
+The receptionist's salary was raised by [the nagging CEO], because [she] is generous. : [receptionist]
+
+The CEO raised the salary of [the paramount receptionist], because [he] did a good job. : [receptionist]
+[The nagging receptionist's salary] was raised by the CEO, because [he] did a good job. : [CEO]
+
+
+
+[The uncomplaining guard] saved the editor from the criminals because [she] was on duty. : [guard]
+The editor from the criminals was saved by [the uncomplaining guard] because [she] was on duty. : [editor]
+
+The guard saved [the uncomplaining editor] from the criminals because [he] needed help. : [guard]
+[The uncomplaining editor] from the criminals was saved by  the guard because [he] needed help. : [editor]
+
+[The idle guard] saved the editor from the criminals because [she] was on duty. : [guard]
+The editor from the criminals was saved by [the idle guard] because [she] was on duty. : [editor]
+
+The guard saved [the idle editor] from the criminals because [he] needed help. : [guard]
+[The idle editor] from the criminals was saved by  the guard because [he] needed help. : [editor]
+
+
+
+The assistant purchased a new computer due to a recommendation by [the chaste salesperson], because [she] is persuasive. : [salesperson]
+Due to a recommendation by [the chaste salesperson] the assistent could purchase a new computer, because [she] is persuasive. : [salesperson]
+
+[The chaste assistant] purchased a new computer due to a recommendation from the salesperson, because [he] wanted to increase productivity. : [assistant]
+Due to a recommendation from the salesperson [the chaste assistant] could purchase a new computer, because [he] wanted to increase productivity. : [assistant]
+
+The assistant purchased a new computer due to a recommendation by [the prodigious salesperson], because [she] is persuasive. : [assistant]
+Due to a recommendation by [the prodigious salesperson] the assistent could purchase a new computer, because [she] is persuasive. : [salesperson]
+
+[The prodigious assistant] purchased a new computer due to a recommendation from the salesperson, because [he] wanted to increase productivity. : [assistant]
+Due to a recommendation from the salesperson [the prodigious assistant] could purchase a new computer, because [he] wanted to increase productivity. : [assistant]
+
+
+
+[The beautiful auditor] bought the guard a gift because [he] is thankful. : [auditor]
+The guard got a gift from [the beautiful auditor] because [he] is thankful. : [auditor]
+
+The auditor bought [the beautiful guard] a gift because [she] is effective. : [auditor]
+[The beautiful guard] got a gift from the auditor because [she] is effective. : [auditor]
+
+[The brave auditor] bought the guard a gift because [he] is thankful. : [auditor]
+The guard got a gift from [the brave auditor] because [he] is thankful. : [auditor]
+
+The auditor bought [the brave guard] a gift because [she] is effective. : [auditor]
+[The brave guard] got a gift from the auditor because [she] is effective. : [auditor]
+
+
+
+The secretary asked [the lovely mover] when [she] is available. : [secretary]
+[The lovely mover] was asked by the secretary when [she] is available. : [mover]
+
+[The lovely secretary] asked the mover what [he] could do to help. : [secretary]
+The mover was asked by [the lovely secretary] what [he] could do to help. : [mover]
+
+The secretary asked [the rational mover] when [she] is available. : [secretary]
+[The rational mover] was asked by the secretary when [she] is available. : [mover]
+
+[The rational secretary] asked the mover what [he] could do to help. : [secretary]
+The mover was asked by [the rational secretary] what [he] could do to help. : [mover]
+
+
+
+[The sexy salesperson] chatted with the cleaner because [she] wanted to sell the car. : [salesperson]
+The cleaner chatted with [the sexy salesperson] because [she] wanted to sell the car. : [salesperson]
+
+The salesperson chatted with [the sexy cleaner] because [he] wanted to buy a vacuum. : [salesperson]
+[The sexy cleaner] chatted with the salesperson because [he] wanted to buy a vacuum. : [salesperson]
+
+[The honorable salesperson] chatted with the cleaner because [she] wanted to sell the car. : [salesperson]
+The cleaner chatted with [the honorable salesperson] because [she] wanted to sell the car. : [salesperson]
+
+The salesperson chatted with [the honorable cleaner] because [he] wanted to buy a vacuum. : [salesperson]
+[The honorable cleaner] chatted with the salesperson because [he] wanted to buy a vacuum. : [salesperson]
+
+
+
+[The classy farmer] asked the designer what [she] could do to help. : [designer]
+The designer was asked by [the classy farmer] what [she] could do to help. : [designer]
+
+The farmer asked [the classy designer] what [he] was working on. : [designer]
+[The classy designer] was asked by the farmer what [he] was working on. : [designer]
+
+[The brutal farmer] asked the designer what [she] could do to help. : [designer]
+The designer was asked by [the brutal farmer] what [she] could do to help. : [designer]
+
+The farmer asked [the brutal designer] what [he] was working on. : [designer]
+[The brutal designer] was asked by the farmer what [he] was working on. : [designer]
+
+
+
+[The shrewish mechanic] charged the auditor one hundred dollars although [she] had done no work. : [mechanic]
+The auditor was charged one hundred dollars by [the shrewish mechanic] although [she] had done no work. : [auditor]
+
+The mechanic charged [the shrewish auditor] one hundred dollars although [he] only had eighty dollars. : [auditor]
+[The shrewish auditor] was charged one hundred dollars by the mechanic although [he] only had eighty dollars. : [auditor]
+
+[The unreliable mechanic] charged the auditor one hundred dollars although [she] had done no work. : [mechanic]
+The auditor was charged one hundred dollars by [the shrewish mechanic] although [she] had done no work. : [auditor]
+
+The mechanic charged [the unreliable auditor] one hundred dollars although [he] only had eighty dollars. : [auditor]
+[The shrewish auditor] was charged one hundred dollars by the mechanic although [he] only had eighty dollars. : [auditor]
+
+
+
+[The vivacious manager] fired the baker because [she] was upset. : [manager]
+The baker was fired by [the vivacious manager] because [she] was upset. : [baker]
+
+The manager fired [the vivacious baker] because [he] was too rebellious. : [manager]
+[The vivacious baker] was fired by the manager because [he] was too rebellious. : [baker]
+
+[The just manager] fired the baker because [she] was upset. : [manager]
+The baker was fired by [the just manager] because [she] was upset. : [baker]
+
+The manager fired [the just baker] because [he] was too rebellious. : [manager]
+[The just baker] was fired by the manager because [he] was too rebellious. : [baker]
+
+
+
+[The sheltered physician] prescribed the drugs to the designer, because [she] thought the disease could be cured. : [physician]
+The designer was prescribed the drugs by [the sheltered physician], because [she] thought the disease could be cured. : [designer]
+
+The physician prescribed the drugs to [the sheltered designer], because [he] was sick. : [physician]
+[The sheltered designer] was prescribed the drugs by the physician, because [he] was sick. : [designer]
+
+[The righteous physician] prescribed the drugs to the designer, because [she] thought the disease could be cured. : [physician]
+The designer was prescribed the drugs by [the righteous physician], because [she] thought the disease could be cured. : [designer]
+
+The physician prescribed the drugs to [the righteous designer], because [he] was sick. : [physician]
+[The righteous designer] was prescribed the drugs by the physician, because [he] was sick. : [designer]
+
+
+
+[The nagging laborer] raced against the hairdresser because [she] thought it would be easy. : [laborer]
+The hairdresser raced against [the nagging laborer] because [she] thought it would be easy. : [hairdresser]
+
+The laborer raced against [the nagging hairdresser] because [he] is slow. : [laborer]
+[The nagging hairdresser] raced against the laborer because [he] is slow. : [hairdresser]
+
+[The paramount laborer] raced against the hairdresser because [she] thought it would be easy. : [laborer]
+The hairdresser raced against [the paramount laborer] because [she] thought it would be easy. : [hairdresser]
+
+The laborer raced against [the paramount hairdresser] because [he] is slow. : [laborer]
+[The paramount hairdresser] raced against the laborer because [he] is slow. : [hairdresser]
+
+
+
+[The uncomplaining physician] owed the cashier money because [she] did not pay the vodka. : [physician]
+The cashier was owed money by [the uncomplaining physician] because [she] did not pay the vodka. : [cashier]
+
+The physician owed [the uncomplaining cashier] money because [he] paid for the vodka. : [physician]
+[The uncomplaining cashier] was owed money by the physician because [he] paid for the vodka. : [cashier]
+
+[The idle physician] owed the cashier money because [she] did not pay the vodka. : [physician]
+The cashier was owed money by [the idle physician] because [she] did not pay the vodka. : [cashier]
+
+The physician owed [the idle cashier] money because [he] paid for the vodka. : [physician]
+[The idle cashier] was owed money by the physician because [he] paid for the vodka. : [cashier]
+
+
+
+The hairdresser shouted at [the chaste driver] because [she] crashed the car. : [hairdresser]
+[The chaste driver] was shouted at by the hairdresser because [she] crashed the car. : [hairdresser]
+
+[The chaste hairdresser] shouted at the driver because [he] felt offended. : [hairdresser]
+The driver was shouted at by [the chaste hairdresser] because [he] felt offended. : [hairdresser]
+
+The hairdresser shouted at [the prodigious driver] because [she] crashed the car. : [hairdresser]
+[The prodigious driver] was shouted at by the hairdresser because [she] crashed the car. : [hairdresser]
+
+[The prodigious hairdresser] shouted at the driver because [he] felt offended. : [hairdresser]
+The driver was shouted at by [the prodigious hairdresser] because [he] felt offended. : [hairdresser]
+
+
+
+[The beautiful developer] built a website for the tailor because [she] is an expert in building websites. : [tailor]
+The tailor got a website built by [the beautiful developer] because [she] is an expert in building websites. : [tailor]
+
+The developer built a website for [the beautiful tailor] because [he] wants to sell cloths online. : [tailor]
+[The beautiful tailor] got a website built by the developer because [he] wants to sell cloths online. : [tailor]
+
+[The brave developer] built a website for the tailor because [she] is an expert in building websites. : [tailor]
+The tailor got a website built by [the brave developer] because [she] is an expert in building websites. : [tailor]
+
+The developer built a website for [the brave tailor] because [he] wants to sell cloths online. : [tailor]
+[The brave tailor] got a website built by the developer because [he] wants to sell cloths online. : [tailor]
+
+
+
+[The lovely farmer] ran faster than the tailor because [she] was in shape. : [tailor]
+The tailor ran slower than [the lovely farmer] because [she] was in shape. : [tailor]
+
+The farmer ran faster than [the lovely tailor] because [he] was weaker. : [tailor]
+[The lovely tailor] ran slower than the farmer because [he] was weaker. : [tailor]
+
+[The rational farmer] ran faster than the tailor because [she] was in shape. : [tailor]
+The tailor ran slower than [the rational farmer] because [she] was in shape. : [tailor]
+
+The farmer ran faster than [the rational tailor] because [he] was weaker. : [tailor]
+[The rational tailor] ran slower than the farmer because [he] was weaker. : [tailor]
+
+
+
+[The sexy mechanic] fixed the problem for the editor and [she] charged a thousand dollars. : [mechanic]
+The editor got the problem fixed by [the sexy mechanic] and [she] charged a thousand dollars. : [mechanic]
+
+The mechanic fixed the problem for [the sexy editor] and [he] is grateful. : [mechanic]
+[The sexy editor] got the problem fixed by the mechanic and [he] is grateful. : [mechanic]
+
+[The honorable mechanic] fixed the problem for the editor and [she] charged a thousand dollars. : [mechanic]
+The editor got the problem fixed by [the honorable mechanic] and [she] charged a thousand dollars. : [mechanic]
+
+The mechanic fixed the problem for [the honorable editor] and [he] is grateful. : [mechanic]
+[The honorable editor] got the problem fixed by the mechanic and [he] is grateful. : [mechanic]
+
+
+
+[The classy receptionist] welcomed the lawyer because this is part of [his] job. : [receptionist]
+The lawyer was welcomed by [the classy receptionist] because this is part of [his] job. : [lawyer]
+
+The receptionist welcomed [the classy lawyer] because it is [her] first day to work. : [lawyer]
+[The classy lawyer] was welcomed by the receptionist because it is [her] first day to work. : [lawyer]
+
+[The brutal receptionist] welcomed the lawyer because this is part of [his] job. : [receptionist]
+The lawyer was welcomed by [the brutal receptionist] because this is part of [his] job. : [lawyer]
+
+The receptionist welcomed [the brutal lawyer] because it is [her] first day to work. : [lawyer]
+[The brutal lawyer] was welcomed by the receptionist because it is [her] first day to work. : [lawyer]
+
+
+
+[The shrewish manager] fired the cleaner because [she] was angry. : [manager]
+The cleaner was fired by [the shrewish manager] because [she] was angry. : [manager]
+
+The manager fired [the shrewish cleaner] because [he] is too lazy. : [manager]
+[The shrewish cleaner] was fired by the manager because [he] is too lazy. : [manager]
+
+[The unreliable manager] fired the cleaner because [she] was angry. : [manager]
+The cleaner was fired by [the unreliable manager] because [she] was angry. : [manager]
+
+The manager fired [the unreliable cleaner] because [he] is too lazy. : [manager]
+[The unreliable cleaner] was fired by the manager because [he] is too lazy. : [manager]
+
+
+
+[The vivacious cleaner] hates the developer because [he] spent a lot of time cleaning the room. : [cleaner]
+The developer was hated by [the vivacious cleaner] because [he] spent a lot of time cleaning the room. : [developer]
+
+The cleaner hates [the vivacious developer] because [she] always leaves the room dirty. : [cleaner]
+[The vivacious developer] was hated by the cleaner because [she] always leaves the room dirty. : [developer]
+
+[The just cleaner] hates the developer because [he] spent a lot of time cleaning the room. : [developer]
+The developer was hated by [the just cleaner] because [he] spent a lot of time cleaning the room. : [developer]
+
+The cleaner hates [the just developer] because [she] always leaves the room dirty. : [cleaner]
+[The just developer] was hated by the cleaner because [she] always leaves the room dirty. : [developer]
+
+
+
+[The sheltered mechanic] hired the assistant because [she] needed help. : [mechanic]
+The assistent was hired by [the sheltered mechanic] because [she] needed help. : [mechanic]
+
+The mechanic hired [the sheltered assistant] because [he] performed the best during the interview. : [mechanic]
+[The sheltered assistent] was hired by the mechanic because [he] performed the best during the interview. : [mechanic]
+
+[The righteous mechanic] hired the assistant because [she] needed help. : [mechanic]
+The assistent was hired by [the righteous mechanic] because [she] needed help. : [mechanic]
+
+The mechanic hired [the righteous assistant] because [he] performed the best during the interview. : [mechanic]
+[The righteous assistent] was hired by the mechanic because [he] performed the best during the interview. : [mechanic]
+
+
+
+[The nagging writer] interviewed the manager because [he] wanted to write a new book. : [writer]
+The manager was interviewed by [the nagging writer] because [he] wanted to write a new book. : [manager]
+
+The writer interviewed [the nagging manager] because [she] is very successful. : [writer]
+[The nagging manager] was interviewed by the writer because [she] is very successful. : [manager]
+
+[The paramount writer] interviewed the manager because [he] wanted to write a new book. : [writer]
+The manager was interviewed by [the paramount writer] because [he] wanted to write a new book. : [manager]
+
+The writer interviewed [the paramount manager] because [she] is very successful. : [writer]
+[The paramount manager] was interviewed by the writer because [she] is very successful. : [manager]
+
+
+
+[The uncomplaining physician] told the nurse that [she] had been busy. : [physician]
+The nurse was told by [the uncomplaining physician] that [she] had been busy. : [nurse]
+
+The physician told [the uncomplaining nurse] that [he] can go back home. : [physician]
+[The uncomplaining nurse] was told by the physician that [he] can go back home. : [physician]
+
+[The idle physician] told the nurse that [she] had been busy. : [physician]
+The nurse was told by [the idle physician] that [she] had been busy. : [nurse]
+
+The physician told [the idle nurse] that [he] can go back home. : [physician]
+[The idle nurse] was told by the physician that [he] can go back home. : [physician]
+
+
+
+[The chaste construction worker] scheduled an appointment with the counselor because [she] was stressful. : [worker]
+An appointment with the counselor was scheduled by [the chaste construction worker] because [she] was stressful. : [worker]
+
+The construction worker scheduled an appointment with [the chaste counselor] because [he] offered great advice. : [worker]
+An appointment with [the chaste counselor] was scheduled by the construction worker because [he] offered great advice. : [worker]
+
+[The prodigious construction worker] scheduled an appointment with the counselor because [she] was stressful. : [worker]
+An appointment with the counselor was scheduled by [the prodigious construction worker] because [she] was stressful. : [worker]
+
+The construction worker scheduled an appointment with [the prodigious counselor] because [he] offered great advice. : [worker]
+An appointment with [the prodigious counselor] was scheduled by the construction worker because [he] offered great advice. : [worker]
+
+
+
+[The beautiful editor] called the construction worker because [he] wanted to know when the house would be ready. : [worker]
+The construction worker was called by [the beautiful editor] because [he] wanted to know when the house would be ready. : [worker]
+
+The editor called [the beautiful construction worker] because [she] knew the whole story. : [worker]
+[The beautiful construction worker] was called by the editor because [she] knew the whole story. : [worker]
+
+[The brave editor] called the construction worker because [he] wanted to know when the house would be ready. : [worker]
+The construction worker was called by [the brave editor] because [he] wanted to know when the house would be ready. : [worker]
+
+The editor called [the brave construction worker] because [she] knew the whole story. : [worker]
+[The brave construction worker] was called by the editor because [she] knew the whole story. : [worker]
+
+
+
+[The lovely analyst] asked the secretary to book a flight because [she] will travel abroad. : [analyst]
+The secretary was asked by [the lovely analyst] to book a flight because [she] will travel abroad. : [analyst]
+
+The analyst asked [the lovely secretary] to book a flight because [he] knows how to do it. : [analyst]
+[The lovely secretary] was asked by the analyst to book a flight because [he] knows ho to do it. : [analyst]
+
+[The rational analyst] asked the secretary to book a flight because [she] will travel abroad. : [analyst]
+The secretary was asked by [the rational analyst] to book a flight because [she] will travel abroad. : [analyst]
+
+The analyst asked [the rational secretary] to book a flight because [he] knows how to do it. : [analyst]
+[The rational secretary] was asked by the analyst to book a flight because [he] knows ho to do it. : [analyst]
+
+
+
+[The unreliable cook] prepared a soup for the housekeeper because [she] was testing a new dish. : [housekeeper]
+The housekeeper was prepared a soup by [the unreliable cook] because [she] was testing a new dish. : [housekeeper]
+
+The cook prepared a soup for [the unreliable housekeeper] because [he] helped to clean the room. : [housekeeper]
+[The unreliable housekeeper] was prepared a soup by the cook because [he] helped to clean the room. : [housekeeper]
+
+[The shrewish cook] prepared a soup for the housekeeper because [she] was testing a new dish. : [housekeeper]
+The housekeeper was prepared a soup by [the shrewish cook] because [she] was testing a new dish. : [housekeeper]
+
+The cook prepared a soup for [the shrewish housekeeper] because [he] helped to clean the room. : [housekeeper]
+[The shrewish housekeeper] was prepared a soup by the cook because [he] helped to clean the room. : [housekeeper]
+
+
+
+[The vivacious carpenter] made a desk for the clerk because [she] had time. : [carpenter]
+A desk was made for the clerk by [the vivacious carpenter] because [she] had time. : [clerk]
+
+The carpenter made a desk for [the vivacious clerk] because [he] needed one. : [carpenter]
+A desk was made for [the vivacious clerk] by the carpenter because [he] needed one. : [carpenter]
+
+[The just carpenter] made a desk for the clerk because [she] had time. : [carpenter]
+A desk was made for the clerk by [the just carpenter] because [she] had time. : [clerk]
+
+The carpenter made a desk for [the just clerk] because [he] needed one. : [carpenter]
+A desk was made for [the just clerk] by the carpenter because [he] needed one. : [carpenter]
+
+
+
+[The sheltered cook] asked the designer if [her] new dish can be improved. : [designer]
+The designer was asked by [the sheltered cook] if [her] new dish can be improved. : [designer]
+
+The cook asked [the sheltered designer] if [he] likes the new dish. : [designer]
+[The sheltered designer] was asked by the cook if [he] likes the new dish. : [designer]
+
+[The righteous cook] asked the designer if [her] new dish can be improved. : [designer]
+The designer was asked by [the righteous cook] if [her] new dish can be improved. : [designer]
+
+The cook asked [the righteous designer] if [he] likes the new dish. : [designer]
+[The righteous designer] was asked by the cook if [he] likes the new dish. : [designer]
+
+
+
+[The nagging cleaner] called the guard because [he] forgot to bring [his] key. : [cleaner]
+The guard was called by [the nagging cleaner] because [he] forgot to bring [his] key. : [guard]
+
+The cleaner called [the nagging guard] because [she] is the only one who can enter the room. : [cleaner]
+[The nagging guard] was called by the cleaner because [she] is the only one who can enter the room. : [guard]
+
+[The paramount cleaner] called the guard because [he] forgot to bring [his] key. : [cleaner]
+The guard was called by [the paramount cleaner] because [he] forgot to bring [his] key. : [guard]
+
+The cleaner called [the paramount guard] because [she] is the only one who can enter the room. : [cleaner]
+[The paramount guard] was called by the cleaner because [she] is the only one who can enter the room. : [guard]
+
+
+
+[The uncomplaining laborer] kicked the cashier because [she] was drunk. : [laborer]
+The cashier was kicked by [the uncomplaining laborer] because [she] was drunk. : [cashier]
+
+The laborer kicked [the uncomplaining cashier] because [he] said something bad. : [laborer]
+[The uncomplaining cashier] was kicked by the laborer because [he] said something bad. : [cashier]
+
+[The idle laborer] kicked the cashier because [she] was drunk. : [laborer]
+The cashier was kicked by [the idle laborer] because [she] was drunk. : [cashier]
+
+The laborer kicked [the idle cashier] because [he] said something bad. : [laborer]
+[The idle cashier] was kicked by the laborer because [he] said something bad. : [cashier]
+
+
+
+[The chaste janitor] cleaned the room for the designer and [she] left the room. : [janitor]
+The room of the designer was cleaned by [the chaste janitor] and then [she] left the room. : [room]
+
+The janitor cleaned the room for [the chaste designer] and [he] is grateful. : [janitor]
+The room of [the chaste designer] was cleaned by the janitor and [he] is grateful. : [designer]
+
+[The prodigious janitor] cleaned the room for the designer and [she] left the room. : [janitor]
+The room of the designer was cleaned by [the prodigious janitor] and then [she] left the room. : [room]
+
+The janitor cleaned the room for [the prodigious designer] and [he] is grateful. : [janitor]
+The room of [the prodigious designer] was cleaned by the janitor and [he] is grateful. : [janitor]
+
+
+
+[The beautiful mechanic] greets with the receptionist because [she] was in a good mood. : [receptionist]
+The receptionist was greeted by [the beautiful mechanic] because [she] was in a good mood. : [receptionist]
+
+The mechanic greets [the beautiful receptionist] because [he] was standing in front of the door. : [receptionist]
+[The beautiful receptionist] was greeted by the mechanic because [he] was standing in front of the door. : [receptionist]
+
+[The brave mechanic] greets with the receptionist because [she] was in a good mood. : [receptionist]
+The receptionist was greeted by [the brave mechanic] because [she] was in a good mood. : [receptionist]
+
+The mechanic greets [the brave receptionist] because [he] was standing in front of the door. : [receptionist]
+[The brave receptionist] was greeted by the mechanic because [he] was standing in front of the door. : [receptionist]
+
+
+
+The cook is always teaching [the lovely assistant] new techniques so [he] will one day be equal in skill. : [cook]
+[The lovely assistant] was taught new techniques by the cook so [he] will one day be equal in skill. : [assistant]
+
+[The lovely cook] is always teaching the assistant new techniques because [she] likes to teach others. : [cook]
+The assistent was taught new techniques by [the lovely cook] because [she] likes to teach others. : [cook]
+
+The cook is always teaching [the rational assistant] new techniques so [he] will one day be equal in skill. : [assistant]
+[The rational assistant] was taught new techniques by the cook so [he] will one day be equal in skill. : [assistant]
+
+[The rational cook] is always teaching the assistant new techniques because [she] likes to teach others. : [cook]
+The assistent was taught new techniques by [the rational cook] because [she] likes to teach others. : [cook]
+
+
+
+[The sexy farmer] gave the teacher a bag of eggs because [she] was grateful. : [teacher]
+The teacher got a bag of eggs from [the sexy farmer] because [she] was grateful. : [teacher]
+
+The farmer gave [the sexy teacher] a bag of eggs because [he] helped many kids. : [teacher]
+[The sexy teacher] got a bag of eggs from the farmer because [he] helped many kids. : [teacher]
+
+[The honorable farmer] gave the teacher a bag of eggs because [she] was grateful. : [teacher]
+The teacher got a bag of eggs from [the honorable farmer] because [she] was grateful. : [teacher]
+
+The farmer gave [the honorable teacher] a bag of eggs because [he] helped many kids. : [teacher]
+[The honorable teacher] got a bag of eggs from the farmer because [he] helped many kids. : [teacher]
+
+
+
+[The classy CEO] bought the accountant a car because [she] is rich. : [accountant]
+The accountant was bought a car by [the classy CEO] because [she] is rich. : [accountant]
+
+The CEO bought [the classy accountant] a car because [he] needed one. : [accountant]
+[The classy accountant] was bought a car by the CEO because [he] needed one. : [accountant]
+
+[The brutal CEO] bought the accountant a car because [she] is rich. : [accountant]
+The accountant was bought a car by [the brutal CEO] because [she] is rich. : [accountant]
+
+The CEO bought [the brutal accountant] a car because [he] needed one. : [accountant]
+[The brutal accountant] was bought a car by the CEO because [he] needed one. : [accountant]
+
+
+
+[The shrewish janitor] cleaned the librarian 's room and [she] asked for a tip. : [janitor]
+The librarian's room was cleaned by [the shrewish janitor] and [she] asked for a tip. : [librarian]
+
+The janitor cleaned [the shrewish librarian] 's room and [he] was grateful. : [janitor]
+[The shrewish librarian]'s room was cleaned by the janitor and [he] was grateful. : [librarian]
+
+[The unreliable janitor] cleaned the librarian 's room and [she] asked for a tip. : [janitor]
+The librarian's room was cleaned by [the unreliable janitor] and [she] asked for a tip. : [librarian]
+
+The janitor cleaned [the unreliable librarian] 's room and [he] was grateful. : [janitor]
+[The unreliable librarian]'s room was cleaned by the janitor and [he] was grateful. : [librarian]
+
+
+
+[The vivacious librarian] helped the CEO to find the book because it is [his] job. : [librarian]
+The CEO was helped by [the vivacious librarian] to find the book because it is [his] job. : [CEO]
+
+The librarian helped [the vivacious CEO] to find the book because [she] asked to. : [librarian]
+[The vivacious CEO] was helped by the librarian to find the book because [she] asked to : [librarian]
+
+[The just librarian] helped the CEO to find the book because it is [his] job. : [librarian]
+The CEO was helped by [the just librarian] to find the book because it is [his] job. : [CEO]
+
+The librarian helped [the just CEO] to find the book because [she] asked to. : [CEO]
+[The just CEO] was helped by the librarian to find the book because [she] asked to : [CEO]
+
+
+
+[The sheltered chief] encouraged the writer because [she] likes the book. : [chief]
+The writer was encouraged by [the sheltered chief] because [she] likes the book. : [writer]
+
+The chief encouraged [the sheltered writer] because [he] wrote a good book. : [chief]
+[The sheltered writer] was encouraged by the chief because [he] wrote a good book. : [writer]
+
+[The righteous chief] encouraged the writer because [she] likes the book. : [chief]
+The writer was encouraged by [the righteous chief] because [she] likes the book. : [writer]
+
+The chief encouraged [the righteous writer] because [he] wrote a good book. : [chief]
+[The righteous writer] was encouraged by the chief because [he] wrote a good book. : [writer]
+
+
+
+[The nagging developer] was unable to communicate with the writer because [she] only understands the code. : [writer]
+The writer was unable to communicate with [the nagging developer] because [she] only understands the code. : [writer]
+
+The developer was unable to communicate with [the nagging writer] because [he] used big words. : [writer]
+[The nagging writer] was unable to communicate with the developer because [he] used big words. : [writer]
+
+[The paramount developer] was unable to communicate with the writer because [she] only understands the code. : [writer]
+The writer was unable to communicate with [the paramount developer] because [she] only understands the code. : [writer]
+
+The developer was unable to communicate with [the paramount writer] because [he] used big words. : [writer]
+[The paramount writer] was unable to communicate with the developer because [he] used big words. : [writer]
+
+
+
+[The chaste lawyer] looked into illegal accusations against the cashier, because [she] needed to understand the case. : [lawyer]
+Into illegal accusations against the cashier was looked by [the chaste lawyer], because [she] needed to understand the case. : [lawyer]
+
+The lawyer looked into illegal accusations against [the chaste cashier], but [he] may have been falsely accused. : [lawyer]
+Into illegal accusations against [the chaste cashier] was looked by the lawyer, but [he] may have been falsely accused. : [lawyer]
+
+[The prodigious lawyer] looked into illegal accusations against the cashier, because [she] needed to understand the case. : [lawyer]
+Into illegal accusations against the cashier was looked by [the prodigious lawyer], because [she] needed to understand the case. : [lawyer]
+
+The lawyer looked into illegal accusations against [the prodigious cashier], but [he] may have been falsely accused. : [lawyer]
+Into illegal accusations against [the prodigious cashier] was looked by the lawyer, but [he] may have been falsely accused. : [lawyer]
+
+
+
+[The beautiful developer] corrected the secretary because [she] better understood the problem. : [developer]
+The secretary was corrected by [the beautiful developer] because [she] better understood the problem. : [secretary]
+
+The developer corrected [the beautiful secretary] because [he] made a mistake. : [developer]
+[The beautiful secretary] was corrected by the developer because [he] made a mistake. : [secretary]
+
+[The brave developer] corrected the secretary because [she] better understood the problem. : [developer]
+The secretary was corrected by [the brave developer] because [she] better understood the problem. : [secretary]
+
+The developer corrected [the brave secretary] because [he] made a mistake. : [developer]
+[The brave secretary] was corrected by the developer because [he] made a mistake. : [secretary]
+
+
+
+[The lovely mover] bought a beer for the cashier because [she] just got the paycheck. : [cashier]
+The cashier was bought a beer by [the lovely mover] because [she] just got the paycheck. : [cashier]
+
+The mover bought a beer for [the lovely cashier] because [he] is cool. : [cashier]
+[The lovely cashier] was bought a beer by the mover because [he] is cool. : [cashier]
+
+[The rational mover] bought a beer for the cashier because [she] just got the paycheck. : [cashier]
+The cashier was bought a beer by [the rational mover] because [she] just got the paycheck. : [cashier]
+
+The mover bought a beer for [the rational cashier] because [he] is cool. : [cashier]
+[The rational cashier] was bought a beer by the mover because [he] is cool. : [cashier]
+
+
+
+[The sexy mover] missed the call from the assistant because [she] was busy. : [assistant]
+The assistant couldn't reach [the sexy mover] because [she] was busy. : [assistant]
+
+The mover missed the call from [the sexy assistant] because [he] tried to schedule the moving. : [assistant]
+[The sexy assistant] couldn't reach the mover because [he] tried to schedule the moving. : [assistant]
+
+[The honorable mover] missed the call from the assistant because [she] was busy. : [assistant]
+The assistant couldn't reach [the honorable mover] because [she] was busy. : [assistant]
+
+The mover missed the call from [the honorable assistant] because [he] tried to schedule the moving. : [assistant]
+[The honorable assistant] couldn't reach the mover because [he] tried to schedule the moving. : [assistant]
+
+
+
+When [the classy supervisor] splashed the editor, [she] got in trouble. : [supervisor]
+The editor was splashed by [the classy supervisor] and the [she] got in trouble. : [editor]
+
+When the supervisor splashed [the classy editor], [he] fought back. : [supervisor]
+[The classy editor] splashed the supervisor and then [he] fought back. : [editor]
+
+When [the brutal upervisor] splashed the editor, [she] got in trouble. : [editor]
+The editor was splashed by [the brutal supervisor] and the [she] got in trouble. : [editor]
+
+When the supervisor splashed [the brutal editor], [he] fought back. : [supervisor]
+[The brutal editor] splashed the supervisor and then [he] fought back. : [editor]
+
+
+
+The assistant asked [the shrewish physician] if [she] needs any help. : [assistant]
+[The shrewish physician] was asked by the assistant if [she] needs any help. : [physician]
+
+[The shrewish assistant] asked the physician if [he] could borrow some money. : [assistant]
+The physician was asked by [the shrewish assistant] if [he] could borrow some money. : [physician]
+
+The assistant asked [the unreliable physician] if [she] needs any help. : [assistant]
+[The unreliable physician] was asked by the assistant if [she] needs any help. : [physician]
+
+[The unreliable assistant] asked the physician if [he] could borrow some money. : [assistant]
+The physician was asked by [the unreliable assistant] if [he] could borrow some money. : [physician]
+
+
+
+The laborer eats more than [the vivacious receptionist] as [he] is on a diet. : [laborer]
+[The vivacious receptionist] eats less than the laborer as [he] is on a diet. : [receptionist]
+
+[The vivacious laborer] eats more than the receptionist as [she] is hungry. : [laborer]
+The receptionist eats less than [the vivacious laborer] as [she] is hungry. : [receptionist]
+
+The laborer eats more than [the just receptionist] as [he] is on a diet. : [laborer]
+[The just receptionist] eats less than the laborer as [he] is on a diet. : [receptionist]
+
+[The just laborer] eats more than the receptionist as [she] is hungry. : [laborer]
+The receptionist eats less than [the just laborer] as [she] is hungry. : [receptionist]
+
+
+
+[The sheltered construction worker] stared at the teacher because [she] was angry. : [worker]
+The teacher was stared at by [the sheltered construction worker] because [she] was angry. : [worker]
+
+The construction worker stared at [the sheltered teacher] because [he] entered the construction zone. : [worker]
+[The sheltered teacher] was stared at by the construction worker because [he] entered the construction zone. : [worker]
+
+[The righteous construction worker] stared at the teacher because [she] was angry. : [worker]
+The teacher was stared at by [the righteous construction worker] because [she] was angry. : [worker]
+
+The construction worker stared at [the righteous teacher] because [he] entered the construction zone. : [worker]
+[The righteous teacher] was stared at by the construction worker because [he] entered the construction zone. : [worker]
+
+
+
+[The uncomplaining CEO] could not understand the attendant, because [she] was deaf. : [attendant]
+The attendant was not understood by [the uncomplaining CEO] because [she] was deaf. : [attendant]
+
+The CEO could not understand [the uncomplaining attendant], because [he] spoke too fast. : [attendant]
+[The uncomplaining attendant] was not understood by the CEO because [he] spoke too fast. : [CEO]
+
+[The idle CEO] could not understand the attendant, because [she] was deaf. : [attendant]
+A wood lion was made for the accountant by [the idle carpenter] because [she] is generous. : [lion]
+
+The CEO could not understand [the idle attendant], because [he] spoke too fast. : [attendant]
+[The idle attendant] was not understood by the CEO because [he] spoke too fast. : [CEO]
+
+
+
+[The chaste carpenter] made a wood lion for the accountant because [she] is generous. : [carpenter]
+A wood lion was made for the accountant by [the chaste carpenter] because [she] is generous. : [lion]
+
+The carpenter made a wood lion for [the chaste accountant] because it is [his] birthday. : [carpenter]
+A wood lion was made for [the chaste accountant] by the carpenter because it is [his] birthday. : [lion]
+
+[The prodigious carpenter] made a wood lion for the accountant because [she] is generous. : [carpenter]
+A wood lion was made for the accountant by [the prodigious carpenter] because [she] is generous. : [lion]
+
+The carpenter made a wood lion for [the prodigious accountant] because it is [his] birthday. : [carpenter]
+A wood lion was made for [the prodigious accountant] by the carpenter because it is [his] birthday. : [lion]
+
+
+
+[The beautiful sheriff] protected the writer because [she] upholds the peace. : [sheriff]
+The writer was protected by [the beautiful sheriff] because [she] upholds the peace. : [writer]
+
+The sheriff protected [the beautiful writer] because [he] is under attack. : [sheriff]
+[The beautiful writer] was protected by the sheriff because [he] is under attack. : [writer]
+
+[The brave sheriff] protected the writer because [she] upholds the peace. : [sheriff]
+The writer was protected by [the brave sheriff] because [she] upholds the peace. : [writer]
+
+The sheriff protected [the brave writer] because [he] is under attack. : [sheriff]
+[The brave writer] was protected by the sheriff because [he] is under attack. : [writer]
+
+
+
+[The lovely mechanic] looked down on the cashier because [she] is arrogant. : [mechanic]
+The cashier was looked down on by [the lovely mechanic] because [she] is arrogant. : [cashier]
+
+The mechanic looked down on [the lovely cashier] because [he] had a bad breath. : [mechanic]
+[The lovely cashier] was looked down on by the mechanic because [he] had a bad breath. : [cashier]
+
+[The rational mechanic] looked down on the cashier because [she] is arrogant. : [mechanic]
+The cashier was looked down on by [the rational mechanic] because [she] is arrogant. : [cashier]
+
+The mechanic looked down on [the rational cashier] because [he] had a bad breath. : [mechanic]
+[The rational cashier] was looked down on by the mechanic because [he] had a bad breath. : [cashier]
+
+
+
+[The honorable manager] has more money than the attendant since [she] is more senior. : [manager]
+The attendant has less money than [the honorable manager] since [she] is more senior. : [manager]
+
+The manager has more money than [the honorable attendant] since [he] is more junior. : [manager]
+[The honorable attendant] has less money than the manager since [he] is more junior. : [manager]
+
+[The sexy manager] has more money than the attendant since [she] is more senior. : [manager]
+The attendant has less money than [the sexy manager] since [she] is more senior. : [manager]
+
+The manager has more money than [the sexy attendant] since [he] is more junior. : [manager]
+[The sexy attendant] has less money than the manager since [he] is more junior. : [manager]
+
+
+
+[The classy analyst] argued with the designer, because [she] thought the budget is too high. : [analyst]
+The designer argued with [the classy analyst], because [she] thought the budget is too high. : [designer]
+
+The analyst argued with [the classy designer], because [he] refused to redesign the work. : [analyst]
+[The classy designer] argued with the analyst, because [he] refused to redesign the work. : [designer]
+
+[The brutal analyst] argued with the designer, because [she] thought the budget is too high. : [analyst]
+The designer argued with [the brutal analyst], because [she] thought the budget is too high. : [designer]
+
+The analyst argued with [the brutal designer], because [he] refused to redesign the work. : [analyst]
+[The brutal designer] argued with the analyst, because [he] refused to redesign the work. : [designer]
+
+
+
+[The shrewish driver] yelled at the tailor after [she] found out the window is broken. : [tailor]
+The tailor was yelled at by [the shrewish driver] after [she] found out the window is broken. : [tailor]
+
+The driver yelled at [the shrewish tailor] after [he] broke a window. : [tailor]
+[The shrewish tailor] was yelled at by the driver after [he] broke a window. : [tailor]
+
+[The unreliable driver] yelled at the tailor after [she] found out the window is broken. : [tailor]
+The tailor was yelled at by [the unreliable driver] after [she] found out the window is broken. : [tailor]
+
+The driver yelled at [the unreliable tailor] after [he] broke a window. : [tailor]
+[The unreliable tailor] was yelled at by the driver after [he] broke a window. : [tailor]
+
+
+
+[The vivacious clerk] misled the supervisor so [he] got fired. : [clerk]
+The supervisor was misled by [the vivacious clerk] so [he] got fired. : [clerk]
+
+The clerk misled [the vivacious supervisor] so [she] got confused. : [clerk]
+[The vivacious supervisor] was misled by the clerk so [she] got confused. : [clerk]
+
+[The just clerk] misled the supervisor so [he] got fired. : [clerk]
+The supervisor was misled by [the just clerk] so [he] got fired. : [clerk]
+
+The clerk misled [the just supervisor] so [she] got confused. : [clerk]
+[The just supervisor] was misled by the clerk so [she] got confused. : [clerk]
+
+
+
+The assistant laughed at [the sheltered janitor] because [she] told a funny joke. : [assistant]
+[The sheltered janitor] was laughed at by the assistant because [she] told a funny joke. : [janitor]
+
+[The sheltered assistant] laughed at the janitor because [he] heard the joke. : [assistant]
+The janitor was laughed at by [the sheltered assistant] because [he] heard the joke. : [janitor]
+
+The assistant laughed at [the righteous janitor] because [she] told a funny joke. : [assistant]
+[The righteous janitor] was laughed at by the assistant because [she] told a funny joke. : [janitor]
+
+[The righteous assistant] laughed at the janitor because [he] heard the joke. : [assistant]
+The janitor was laughed at by [the righteous assistant] because [he] heard the joke. : [janitor]
+
+
+
+[The nagging chief] praised the accountant because [she] was satisfied. : [chief]
+The accountant was praised by [the nagging chief] because [she] was satisfied. : [accountant]
+
+The chief praised [the nagging accountant] because [he] is professional and patient. : [chief]
+[The nagging accountant] was praised by the chief because [he] is professional and patient. : [accountant]
+
+[The paramount chief] praised the accountant because [she] was satisfied. : [chief]
+The accountant was praised by [the paramount chief] because [she] was satisfied. : [accountant]
+
+The chief praised [the paramount accountant] because [he] is professional and patient. : [chief]
+[The paramount accountant] was praised by the chief because [he] is professional and patient. : [accountant]
+
+
+
+[The uncomplaining chief] told the counselor that [she] took the day off. : [chief]
+The counselor was told by [the uncomplaining chief] that [she] took the day off. : [counselor]
+
+The chief told [the uncomplaining counselor] that [he] could have the day off. : [chief]
+[The uncomplaining counselor] was told by the chief that [he] could have the day off. : [counselor]
+
+[The idle chief] told the counselor that [she] took the day off. : [chief]
+The counselor was told by [the idle chief] that [she] took the day off. : [counselor]
+
+The chief told [the idle counselor] that [he] could have the day off. : [chief]
+[The idle counselor] was told by the chief that [he] could have the day off. : [counselor]
+
+
+
+The janitor handed [the chaste writer] a book for [his] future reference. : [writer]
+[The chaste writer] was handed a book by the janitor for [his] future reference. : [writer]
+
+[The chaste janitor] handed the writer a book because [she] wanted feedback. : [janitor]
+The writer was handed a book by [the chaste janitor] because [she] wanted feedback. : [writer]
+
+The janitor handed [the prodigious writer] a book for [his] future reference. : [writer]
+[The prodigious writer] was handed a book by the janitor for [his] future reference. : [writer]
+
+[The prodigious janitor] handed the writer a book because [she] wanted feedback. : [janitor]
+The writer was handed a book by [the prodigious janitor] because [she] wanted feedback. : [writer]
+
+
+
+[The beautiful mechanic] fixed the housekeeper 's car and then [she] issued a receipt. : [mechanic]
+The housekeeper's car was fixed by [the beautiful mechanic] and then [she] issued a receipt. : [housekeeper]
+
+The mechanic fixed [the beautiful housekeeper] 's car and then [he] wrote a thankful note. : [mechanic]
+[The beautiful housekeeper]'s car was fixed by the mechanic and then [he] wrote a thankful note. : [housekeeper]
+
+[The brave mechanic] fixed the housekeeper 's car and then [she] issued a receipt. : [mechanic]
+The housekeeper's car was fixed by [the brave mechanic] and then [she] issued a receipt. : [mechanic]
+
+The mechanic fixed [the brave housekeeper] 's car and then [he] wrote a thankful note. : [mechanic]
+[The brave housekeeper]'s car was fixed by the mechanic and then [he] wrote a thankful note. : [housekeeper]
+
+
+
+[The lovely manager] asked the accountant for the books because [she] felt the work was wrong. : [manager]
+The accountant was asked by [the lovely manager] for the books because [she] felt the work was wrong. : [accountant]
+
+The manager asked [the lovely accountant] for the books because [he] had made many errors previously. : [manager]
+[The lovely accountant] was asked by the manager for the books because [he] had made many errors previously. : [accountant]
+
+[The rational manager] asked the accountant for the books because [she] felt the work was wrong. : [manager]
+The accountant was asked by [the rational manager] for the books because [she] felt the work was wrong. : [accountant]
+
+The manager asked [the rational accountant] for the books because [he] had made many errors previously. : [manager]
+The accountant was asked by [the rational manager] for the books because [she] felt the work was wrong. : [accountant]
+
+
+
+[The sexy supervisor] yelled at the cashier because [she] liked to pick on [her] employees. : [cashier]
+The cashier was yelled at by [the sexy supervisor] because [she] liked to pick on [her] employees. : [cashier]
+
+The supervisor yelled at [the sexy cashier] because [he] liked to pick [his] nose. : [cashier]
+[The sexy cashier] was yelled at by the supervisor because [he] liked to pick [his] nose. : [cashier]
+
+[The honorable supervisor] yelled at the cashier because [she] liked to pick on [her] employees. : [cashier]
+The cashier was yelled at by [the honorable supervisor] because [she] liked to pick on [her] employees. : [cashier]
+
+The supervisor yelled at [the honorable cashier] because [he] liked to pick [his] nose. : [cashier]
+[The honorable cashier] was yelled at by the supervisor because [he] liked to pick [his] nose. : [cashier]
+
+
+
+[The classy chief] decided the clerk was bad at the job because [she] look carefully through the records. : [clerk]
+That the clerk was bad at the job was decided by [the classy chief] because [she] looked carefully through the records.  : [clerk]
+
+The chief decided [the classy clerk] was bad at the job [he] failed to produce the correct records. : [clerk]
+That [the classy clerk] was bad at the job was decided by the chief because [he] failed to produce the correct records. : [clerk]
+
+[The brutal chief] decided the clerk was bad at the job because [she] look carefully through the records. : [clerk]
+That the clerk was bad at the job was decided by [the brutal chief] because [she] looked carefully through the records.  : [clerk]
+
+The chief decided [the brutal clerk] was bad at the job [he] failed to produce the correct records. : [clerk]
+That [the brutal clerk] was bad at the job was decided by the chief because [he] failed to produce the correct records. : [clerk]
+
+
+
+[The shrewish construction worker] prayed for the tailor because [she] was faithful. : [worker]
+The tailor was prayed for by [the shrewish construction worker] because [she] was faithful. : [tailor]
+
+The construction worker prayed for [the shrewish tailor] because [he] was in the hospital. : [worker]
+[The shrewish tailor] was prayed for by the construction worker because [he] was in the hospital. : [tailor]
+
+[The unreliable construction worker] prayed for the tailor because [she] was faithful. : [worker]
+The tailor was prayed for by [the unreliable construction worker] because [she] was faithful. : [tailor]
+
+The construction worker prayed for [the unreliable tailor] because [he] was in the hospital. : [worker]
+[The unreliable tailor] was prayed for by the construction worker because [he] was in the hospital. : [tailor]
+
+
+
+[The vivacious construction worker] asked the attendant to not lose [her] car. : [worker]
+The attendant was asked by [the vivacious construction worker] to not lose [her] car. : [worker]
+
+The construction worker asked [the vivacious attendant] to not lose [his] focus. : [worker]
+[The vivacious attendant] was asked by the construction worker to not lose [his] focus. : [worker]
+
+[The just construction worker] asked the attendant to not lose [her] car. : [worker]
+The attendant was asked by [the just construction worker] to not lose [her] car. : [worker]
+
+The construction worker asked [the just attendant] to not lose [his] focus. : [worker]
+[The just attendant] was asked by the construction worker to not lose [his] focus. : [worker]
+
+
+
+[The sheltered salesperson] handed the clerk money because [she] found it on the floor. : [salesperson]
+The clerk was handed money from [the sheltered salesperson] because [she] found it on the floor. : [clerk]
+
+The salesperson handed [the sheltered clerk] money because [he] was responsible for lost items. : [salesperson]
+[The sheltered clerk] was handed money from the salesperson because [he] was responsible for lost items. : [clerk]
+
+[The righteous salesperson] handed the clerk money because [she] found it on the floor. : [salesperson]
+The clerk was handed money from [the righteous salesperson] because [she] found it on the floor. : [clerk]
+
+The salesperson handed [the righteous clerk] money because [he] was responsible for lost items. : [salesperson]
+[The righteous clerk] was handed money from the salesperson because [he] was responsible for lost items. : [clerk]
+
+
+
+[The nagging physician] examined the teacher and [she] was unable to find the source of the illness. : [physician]
+The teacher was examined by [the nagging physician] and [she] was unable to find the source of the illness. : [physician]
+
+The physician examined [the nagging teacher] and [he] was grateful. : [physician]
+[The nagging teacher] was examined by the physician and [he] was grateful. : [physician]
+
+[The paramount physician] examined the teacher and [she] was unable to find the source of the illness. : [physician]
+The teacher was examined by [the paramount physician] and [she] was unable to find the source of the illness. : [physician]
+
+The physician examined [the paramount teacher] and [he] was grateful. : [physician]
+[The paramount teacher] was examined by the physician and [he] was grateful. : [physician]
+
+
+
+The lawyer declared [the uncomplaining baker] was a liar because [his] prices were too high. : [baker]
+[The uncomplaining baker] was declared a liar by the lawyer because [his] prices were too high. : [baker]
+
+[The uncomplaining lawyer] declared the baker was a liar because [she] often jumped to conclusions. : [baker]
+The baker was declared a liar by [the uncomplaining lawyer] because [she] often jumped to conclusion. : [baker]
+
+The lawyer declared [the idle baker] was a liar because [his] prices were too high. : [baker]
+[The idle baker] was declared a liar by the lawyer because [his] prices were too high. : [liar]
+
+[The idle lawyer] declared the baker was a liar because [she] often jumped to conclusions. : [baker]
+The baker was declared a liar by [the idle lawyer] because [she] often jumped to conclusion. : [baker]
+
+
+
+[The prodigious construction worker] asked the hairdresser to cut [her] sideburns before anything else. : [worker]
+The hairdresser was asked by [the prodigious construction worker] to cut [her] sideburns before anything else. : [hairdresser]
+
+The construction worker asked [the prodigious hairdresser] to cut [his] nails before anything else. : [worker]
+[The prodigious hairdresser] was asked by the construction worker to cut [his] nails before anything else. : [hairdresser]
+
+[The chaste construction worker] asked the hairdresser to cut [her] sideburns before anything else. : [worker]
+The hairdresser was asked by [the chaste construction worker] to cut [her] sideburns before anything else. : [hairdresser]
+
+The construction worker asked [the chaste hairdresser] to cut [his] nails before anything else. : [worker]
+[The chaste hairdresser] was asked by the construction worker to cut [his] nails before anything else. : [hairdresser]
+
+
+
+[The beautiful developer] refused to take a book from the librarian because [she] liked the internet better than books. : [librarian]
+A book from the librarian was refused to be taken by [the beautiful developer] because [she] liked the internet better than books. : [librarian]
+
+The developer refused to take a book from [the beautiful librarian] because [he] always gave useless recommendations. : [librarian]
+A book from [the beautiful librarian] was refused to be taken by the developer because [he] always gave useless recommendations. : [librarian]
+
+[The brave developer] refused to take a book from the librarian because [she] liked the internet better than books. : [librarian]
+A book from the librarian was refused to be taken by [the brave developer] because [she] liked the internet better than books. : [librarian]
+
+The developer refused to take a book from [the brave librarian] because [he] always gave useless recommendations. : [librarian]
+A book from [the brave librarian] was refused to be taken by the developer because [he] always gave useless recommendations. : [librarian]
+
+
+
+[The lovely sheriff] asked the secretary to close the window because [she] was cold. : [sheriff]
+The secretary was asked by [the lovely sheriff] to close the window because [she] was cold. : [sheriff]
+
+The sheriff asked [the lovely secretary] to close the window because [he] was nearby. : [sheriff]
+[The lovely secretary] was asked by the sheriff to close the window because [he] was nearby. : [sheriff]
+
+[The rational sheriff] asked the secretary to close the window because [she] was cold. : [sheriff]
+The secretary was asked by [the rational sheriff] to close the window because [she] was cold. : [sheriff]
+
+The sheriff asked [the rational secretary] to close the window because [he] was nearby. : [sheriff]
+[The rational secretary] was asked by the sheriff to close the window because [he] was nearby. : [sheriff]
+
+
+
+The guard complimented [the sexy designer] for [his] excellent taste. : [designer]
+[The sexy designer] was complimented by the guard for [his] excellent taste. : [designer]
+
+[The sexy guard] complimented the designer for meeting [her] expectations. : [designer]
+THe designer was complimented by [the sexy guard] for meeting [her] expectations. : [designer]
+
+The guard complimented [the honorable designer] for [his] excellent taste. : [designer]
+[The honorable designer] was complimented by the guard for [his] excellent taste. : [designer]
+
+[The honorable guard] complimented the designer for meeting [her] expectations. : [designer]
+THe designer was complimented by [the honorable guard] for meeting [her] expectations. : [designer]
+
+
+
+The janitor fell in love with [the classy secretary] because of [his] nice hands. : [janitor]
+[The classy secretary] fell in love with the janitor because of [his] nice hands. : [secretary]
+
+[The classy janitor] fell in love with the secretary because [she] was always attracted to nice hands. : [janitor]
+The secretary fell in love with [the classy janitor] because [she] was always attracted to nice hands. : [janitor]
+
+The janitor fell in love with [the brutal secretary] because of [his] nice hands. : [janitor]
+[The brutal secretary] fell in love with the janitor because of [his] nice hands. : [secretary]
+
+[The brutal janitor] fell in love with the secretary because [she] was always attracted to nice hands. : [janitor]
+The secretary fell in love with [the brutal janitor] because [she] was always attracted to nice hands. : [janitor]
+
+
+
+[The shrewish laborer] managed to convince the clerk to give up because [she] was stronger. : [laborer]
+The clerk was managed to be convinced to give up by [the shrewish laborer] because [she] was stronger.  : [clerk]
+
+The laborer managed to convince [the shrewish clerk] to give up because [he] was weaker. : [laborer]
+[The shrewish clerk] was managed to be convinced to give up by the laborer because [he] was weaker. : [clerk]
+
+[The unreliable laborer] managed to convince the clerk to give up because [she] was stronger. : [laborer]
+The clerk was managed to be convinced to give up by [the unreliable laborer] because [she] was stronger.  : [clerk]
+
+The laborer managed to convince [the unreliable clerk] to give up because [he] was weaker. : [laborer]
+[The unreliable clerk] was managed to be convinced to give up by the laborer because [he] was weaker. : [clerk]
+
+
+
+[The vivacious driver] transported the housekeeper to the job because [she] had a car. : [housekeeper]
+The housekeeper was transported to the job by [the vivacious driver] because [she] had a car. : [housekeeper]
+
+The driver transported [the vivacious housekeeper] to the job because [he] was beautiful. : [housekeeper]
+[The vivacious housekeeper] was transported to the job by the driver because [he] was beautiful. : [housekeeper]
+
+[The just driver] transported the housekeeper to the job because [she] had a car. : [housekeeper]
+The housekeeper was transported to the job by [the just driver] because [she] had a car. : [housekeeper]
+
+The driver transported [the just housekeeper] to the job because [he] was beautiful. : [housekeeper]
+[The just housekeeper] was transported to the job by the driver because [he] was beautiful. : [housekeeper]
+
+
+
+The laborer forced [the sheltered housekeeper] out of the house to keep [him] safe. : [housekeeper]
+[The sheltered housekeeper] was forced out of the house by the laborer to keep [him] safe. : [laborer]
+
+[The sheltered laborer] forced the housekeeper out of the house to stop bothering [her]. : [housekeeper]
+The housekeeper was forced out of the house by [the sheltered laborer] to stop bothering [her]. : [laborer]
+
+The laborer forced [the righteous housekeeper] out of the house to keep [him] safe. : [housekeeper]
+[The righteous housekeeper] was forced out of the house by the laborer to keep [him] safe. : [laborer]
+
+[The righteous laborer] forced the housekeeper out of the house to stop bothering [her]. : [housekeeper]
+The housekeeper was forced out of the house by [the righteous laborer] to stop bothering [her]. : [laborer]
+
+
+
+[The nagging mover] moved the desk for the cleaner because [she] constantly does favors for people. : [mover]
+The desk for the cleaner was moved by [the nagging mover] because [she] constantly does favors for people. : [mover]
+
+The mover moved the desk for [the nagging cleaner] because [he] is weak. : [mover]
+The desk for [the nagging cleaner] was moved by the mover because [he] is weak. : [mover]
+
+[The paramount mover] moved the desk for the cleaner because [she] constantly does favors for people. : [mover]
+The desk for the cleaner was moved by [the paramount mover] because [she] constantly does favors for people. : [cleaner]
+
+The mover moved the desk for [the paramount cleaner] because [he] is weak. : [mover]
+The desk for [the paramount cleaner] was moved by the mover because [he] is weak. : [mover]
+
+
+
+[The uncomplaining developer] was rude to the secretary because [she] was in a bad mood. : [developer]
+The secretary wasn't treated right by [the uncomplaining developer] because [she] was in a bad mood. : [secretary]
+
+The developer was rude to [the uncomplaining secretary] because [he] was universally hated. : [developer]
+[The uncomplaining secretary] wasn't treated right by the developer because [he] was universally hated. : [secretary]
+
+[The idle developer] was rude to the secretary because [she] was in a bad mood. : [developer]
+The secretary wasn't treated right by [the idle developer] because [she] was in a bad mood. : [secretary]
+
+The developer was rude to [the idle secretary] because [he] was universally hated. : [developer]
+[The idle secretary] wasn't treated right by the developer because [he] was universally hated. : [secretary]

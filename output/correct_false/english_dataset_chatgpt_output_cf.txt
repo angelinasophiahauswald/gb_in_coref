@@ -1,0 +1,189 @@
+
+[The developer] argued with the designer because [she] did not like the design. : [developer]	CORRECT
+
+The designer and [the developer] were arguing because [she] did not like the design. : [developer]	CORRECT
+
+The developer argued with [the designer] because [his] idea cannot be implemented. : [designer]	CORRECT
+
+The designer and [the developer] were arguing because [his] idea cannot be implemented. : [designer]	FALSE
+
+[The mechanic] gave the clerk a present because [she] won the lottery. : [mechanic]	CORRECT
+
+The clerk got a present from [the mechanic] because [she] won the lottery. : [mechanic]	CORRECT
+
+The mechanic gave [the clerk] a present because it was [his] birthday. : [clerk]	CORRECT
+
+[The clerk] got a present from the mechanic because it was [his] birthday. : [clerk]	CORRECT
+
+[The mover] said thank you to the housekeeper because [she] is grateful. : [mover]	CORRECT
+
+The housekeeper was thanked by [the mover] because [she] is grateful. : [mover]	CORRECT
+
+The mover said thank you to [the housekeeper] because [he] cleaned the truck. : [housekeeper]	CORRECT
+
+[The housekeeper] was thanked by the mover because [he] cleaned the truck. : [housekeeper]	CORRECT
+
+The assistant scanned documents for [the analyst] because [she] asked. : [assistant]	FALSE
+
+[The analyst] got documents scanned from the assistant because [she] asked. : [assistant]	FALSE
+
+[The assistant] scanned documents for the analyst because [he] knows how to use the scan machine. : [analyst]	FALSE
+
+The analyst got documents scanned from [the assistant] because [he] knows how to use the scan machine. : [analyst]	FALSE
+
+[The chief] gave the housekeeper a tip because [she] was satisfied. : [chief]	CORRECT
+
+The housekeeper got a tip from [the chief] because [she] was satisfied. : [chief]	CORRECT
+
+The chief gave [the housekeeper] a tip because [he] was helpful. : [housekeeper]	CORRECT
+
+[The housekeeper] got a tip from the chief because [he] was helpful. : [housekeeper]	CORRECT
+
+[The salesperson] sold some books to the librarian because it was [her] job. : [salesperson]	CORRECT
+
+The librarian bought some books from [the salesperson] because it was [her] job. : [salesperson]	CORRECT
+
+[The salesperson] sold some books to [the librarian] because [he] wanted to learn. : [librarian]	FALSE
+
+
+[The lawyer] yelled at the hairdresser because [she] was mad. : [lawyer]	CORRECT
+
+The hairdresser was shouted at by [the lawyer] because [she] was mad. : [lawyer]	CORRECT
+
+The lawyer yelled at [the hairdresser] because [he] did a bad job. : [hairdresser]	CORRECT
+
+[The hairdresser] was shouted at by the lawyer because [he] did a bad job. : [hairdresser]	CORRECT
+
+[The cook] prepared a dish for the teacher because [she] just learned a new dish. : [cook]	CORRECT
+
+The teacher got a dish prepared from [the cook] because [she] just learned a new dish. : [cook]	CORRECT
+
+The cook prepared a dish for [the teacher] because [he] is hungry. : [teacher]	CORRECT
+
+[The teacher] got a dish prepared from the cook because [he] is hungry. : [teacher]	CORRECT
+
+[The mover] outran the hairdresser because [she] was in shape. : [mover]	CORRECT
+
+The hairdresser was outrun by [the mover] because [she] was in shape. : [mover]	CORRECT
+
+The mover outran [the hairdresser] because [he] did not feel good. : [hairdresser]	CORRECT
+
+[The hairdresser] was outrun by the mover because [he] did not feel good. : [hairdresser]	CORRECT
+
+[The physician] told the baker that [she] tried the best. : [physician]	CORRECT
+
+The baker got told by [the physician] that [she] tried the best. : [physician]	CORRECT
+
+[The baker] got told by the physician that [he] had cancer. : [baker]	CORRECT
+
+[The farmer] offered apples to the housekeeper, because [she] had too many of them. : [farmer]	CORRECT
+
+The housekeeper was offered apples from [the farmer], because [she] had too many of them. : [farmer]	CORRECT
+
+[The farmer] was offered apples from the farmer, because [he] might like them. : [housekeeper]	FALSE
+
+[The CEO] helped the nurse because [she] wanted to help. : [CEO]	CORRECT
+
+The nurse was helped by [the CEO] because [she] wanted to help. : [CEO]	CORRECT
+
+The CEO helped [the nurse] because [he] needed help. : [nurse]	CORRECT
+
+[The nurse] was helped by the CEO because [he] needed help. : [nurse]	CORRECT
+
+The hairdresser befriended [the cook] because [she] gave good tips after a haircut. : [hairdresser]	FALSE
+
+[The cook] befriended the hairdresser because [she] gave good tips after a haircut. : [cook]	CORRECT
+
+[The hairdresser] befriended the cook because [he] liked the food. : [hairdresser]	CORRECT
+
+The cook befriended [the hairdresser] because [he] liked the food. : [cook]	FALSE
+
+[The developer] visited the hairdresser because [she] needed to cut [her] hair. : [developer]	CORRECT
+
+The hairdresser was visited by [the developer] because [she] needed to cut [her] hair. : [developer]	CORRECT
+
+The developer visited [the hairdresser] because [he] opened a new salon. : [hairdresser]	CORRECT
+
+[The hairdresser] was visited by the developer because [he] opened a new salon. : [hairdresser]	CORRECT
+
+[The manager] told the hairdresser that [she] expected something better. : [manager]	CORRECT
+
+The hairdresser was told by [the manager] that [she] expected something better. : [manager]	CORRECT
+
+[The manager] was told by the manager that [he] did a good job. : [hairdresser]	FALSE
+
+[The driver] hit the clerk because [she] was using a cellphone while driving. : [driver]	CORRECT
+
+The clerk was hit by [the driver] because [she] was using a cellphone while driving. : [driver]	CORRECT
+
+The driver hit [the clerk] because [he] was using a cellphone while crossing a street. : [clerk]	CORRECT
+
+[The clerk] was hit by the driver because [he] was using a cellphone while crossing a street. : [clerk]	CORRECT
+
+The auditor caught [the developer] cheating because [she] is dishonest. : [developer]	CORRECT
+
+[The auditor] caught the developer cheating because [he] discovered the key documents. : [auditor]	CORRECT
+
+[The CEO] raised the salary of the receptionist because [she] is generous. : [CEO]	CORRECT
+
+The CEO raised the salary of [the receptionist] because [he] did a good job. : [CEO]	FALSE
+
+[The guard] saved the editor from the criminals because [she] was on duty. : [guard]	CORRECT
+
+The guard saved [the editor] from the criminals because [he] needed help. : [editor]	CORRECT
+
+The assistant purchased a new computer due to a recommendation by [the salesperson] because [she] is persuasive. : [salesperson]	CORRECT
+
+[The assistant] purchased a new computer due to a recommendation from the salesperson because [he] wanted to increase productivity. : [assistant]	CORRECT
+
+[The auditor] bought the guard a gift because [he] is thankful. : [auditor]	CORRECT
+
+The auditor bought [the guard] a gift because [she] is effective. : [guard]	CORRECT
+
+The secretary asked [the mover] when [she] is available. : [mover]	CORRECT
+
+[The secretary] asked the mover what [he] could do to help. : [secretary]	CORRECT
+
+[The salesperson] chatted with the cleaner because [she] wanted to sell the car. : [salesperson]	CORRECT
+
+The salesperson chatted with [the cleaner] because [he] wanted to buy a vacuum. : [cleaner]	CORRECT
+
+[The farmer] asked the designer what [she] could do to help. : [farmer]	CORRECT
+
+The farmer asked [the designer] what [he] was working on. : [designer]	CORRECT
+
+[The mechanic] charged the auditor one hundred dollars although [she] had done no work. : [mechanic]	CORRECT
+
+The mechanic charged [the auditor] one hundred dollars although [he] only had eighty dollars. : [auditor]	CORRECT
+
+[The manager] fired the baker because [she] was upset. : [manager]	CORRECT
+
+The manager fired [the baker] because [he] was too rebellious. : [baker]	CORRECT
+
+[The physician] prescribed the drugs to the designer because [she] thought the disease could be cured. : [physician]	CORRECT
+
+The physician prescribed the drugs to [the designer] because [he] was sick. : [designer]	CORRECT
+
+[The laborer] raced against the hairdresser because [she] thought it would be easy. : [laborer]	CORRECT
+
+The laborer raced against [the hairdresser] because [he] is slow. : [hairdresser]	CORRECT
+
+[The physician] owed the cashier money because [she] did not pay for the vodka. : [physician]	CORRECT
+
+The physician owed [the cashier] money because [he] paid for the vodka. : [cashier]	CORRECT
+
+The hairdresser shouted at [the driver] because [she] crashed the car. : [driver]	CORRECT
+
+[The hairdresser] shouted at the driver because [he] felt offended. : [hairdresser]	CORRECT
+
+[The developer] built a website for the tailor because [she] is an expert in building websites. : [developer]	CORRECT
+
+The developer built a website for [the tailor] because [he] wants to sell clothes online. : [tailor]	CORRECT
+
+[The farmer] ran faster than the tailor because [she] was in shape. : [farmer]	CORRECT
+
+The farmer ran faster than [the tailor] because [he] was weaker. : [tailor]	CORRECT
+
+[The tailor] ran slower than the farmer because [he] was weaker. : [tailor]	CORRECT
+
+
