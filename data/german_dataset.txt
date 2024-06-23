@@ -23,6 +23,8 @@ Für [die Analytikerin] wurden von der Assistentin Dokumente gescannt, weil [sie
 Weil [sie] darum bat, wurden von der Assistentin Dokumente für [die Analytikerin] gescannt.
 Weil [sie] darum bat, wurden für [die Analytikerin] Dokumente von der Assistentin gescannt.
 
+20
+
 [Der Assistent] hat Dokumente für den Analysten gescannt, weil [er] weiß, wie man das Scan-Gerät bedient.
 Der Analyst hat Dokumente von [dem Assistenten] gescannt bekommen, weil [er] weiß, wie man das Scan-Gerät bedient.
 Weil [er] weiß, wie man das Scan-Gerät bedient, hat [der Assistent] Dokumente für den Analysten gescannt.
@@ -47,6 +49,8 @@ Der Verkäufer hat [dem Bibliothekar] einige Bücher verkauft, weil [er] lernen 
 [Dem Bibliothekar] wurden vom Verkäufer einige Bücher verkauft, weil [er] lernen wollte.
 Weil [er] lernen wollte, wurden [dem Bibliothekar] vom Verkäufer einige Bücher verkauft.
 Weil [er] lernen wollte, verkaufte der Verkäufer [dem Bibliothekar] einige Bücher.
+
+40
 
 [Die Anwältin] schrie die Friseurin an, weil [sie] wütend war.
 Die Friseuring wurde von [der Anwältin] angeschrien, weil [sie] wütend war.
@@ -73,6 +77,8 @@ Der Bäckerin wurde von [der Ärztin] gesagt, dass [sie] ihr Bestes gegeben hat.
 Dass [sie] ihr Bestes gegeben hat, wurde der Bäckerin von [der Ärztin] gesagt.
 Dass [sie] ihr Bestes gegeben hat, hat [die Ärztin] der Bäckerin gesagt.
 
+60
+
 Der Arzt teilte [dem Bäcker] mit, dass [er] Krebs habe.
 [Dem Bäcker] wurde vom Arzt mitgeteilt, dass [er] Krebs habe.
 Dass [er] Krebs habe, wurde [dem Bäcker] vom Arzt mitgeteilt.
@@ -81,7 +87,7 @@ Dass [er] Krebs habe, teilte der Arzt [dem Bäcker] mit.
 [Die Bäuerin] bot der Haushälterin Äpfel an, weil [sie] zu viele davon hatte.
 Der Haushälterin wurden von [der Bäuerin] Äpfel angeboten, weil [sie] zu viele davon hatte.
 Weil [sie] zu viele davon hatte, bot [die Bäuerin] der Haushälterin Äpfel an.
-Weil [sie] zu viele davon hatte, wurde der Haushälterin von [der Bäuerin] Äpfel angeboten.
+Weil [sie] zu viele davon hatte, wurde der Haushälterin von [der Bäuerin] Äpfel angeboten. 40
 
 [Die Geschäftsführerin] hat der Krankenpflegerin geholfen, weil [sie] helfen wollte.
 Der Krankenpflegerin wurde von [der Geschäftsführerin] geholfen, weil [sie] helfen wollte.
@@ -97,6 +103,8 @@ Die Friseurin hat sich mit [der Köchin] angefreundet, weil [sie] nach einem Haa
 [Die Köchin] hat sich mit der Friseurin angefreundet, weil [sie] nach einem Haarschnitt gute Tipps gegeben hat.
 Weil [sie] nach einem Haarschnitt gute Tipps gegeben hat, hat sich [die Köchin] mit der Friseurin angefreundet.
 Weil [sie] nach einem Haarschnitt gute Tipps gegeben hat, hat sich die Friseurin mit [der Köchin] angefreundet.
+
+80
 
 [Der Friseur] freundete sich mit dem Koch an, weil [er] das Essen mochte.
 Der Koch freundete sich mit [dem Friseur] an, weil [er] das Essen mochte.
@@ -123,6 +131,8 @@ Der Geschäftsführer sagte [dem Friseur], dass [er] gute Arbeit geleistet habe.
 Dass [er] gute Arbeit geleistet habe, wurde [dem Friseur] vom Geschäftsführer gesagt.
 Dass [er] gute Arbeit geleistet habe, sagte der Geschäftsführer [dem Friseur].
 
+100
+
 [Die Fahrerin] hat die Angestellte angefahren, weil [sie] während der Fahrt ein Handy benutzt hat.
 Die Angestellte wurde von [der Fahrerin] angefahren, weil [sie] während der Fahrt ein Handy benutzt hat.
 Weil [sie] während der Fahrt ein Handy benutzt hat, wurde die Angestellte von [der Fahrerin] angefahren.
@@ -147,6 +157,8 @@ Weil [er] die Schlüsseldokumente entdeckt hat, hat [der Prüfer] den Entwickler
 Das Gehalt der Empfangsdame wurde von [der Geschäftsführerin] erhöht, weil [sie] großzügig ist.
 Weil [sie] großzügig ist, wurde das Gehalt der Empfangsdame von [der Geschäftsführerin] erhöht.
 Weil [sie] großzügig ist, hat [Geschäftsführerin] das Gehalt von der Empfangsdame erhöht.
+
+120
 
 Der Geschäftsführer hat das Gehalt von [dem Rezeptionisten] erhöht, weil [er] gute Arbeit geleistet hat.
 Das Gehalt von [dem Rezeptionisten] wurde vom Geschäftsführer erhöht, weil [er] gute Arbeit geleistet hat.
@@ -173,6 +185,8 @@ Der Verkäufer verkaufte aufgrund einer Empfehlung [dem Assistenten] einen neuen
 Weil [er] die Produktivität steigern wollte, verkaufte der Verkäufer aufgrund einer Empfehlung [dem Assistenten] einen neuen Computer.
 Weil [er] die Produktivität steigern wollte, hat [der Assistent] auf Empfehlung des Verkäufers einen neuen Computer gekauft.
 
+140
+
 [Der Prüfer] hat dem Wachmann ein Geschenk gekauft, weil [er] dankbar ist.
 Dem Wachmann wurde von [dem Prüfer] ein Geschenk gekauft, weil [er] dankbar ist.
 Weil [er] dankbar ist, wurde dem Wachmann von [dem Prüfer] ein Geschenk gekauft.
@@ -181,7 +195,7 @@ Weil [er] dankbar ist, hat [der Prüfer] dem Wachmann ein Gechenk gekauft.
 Die Prüferin hat [der Wächterin] ein Geschenk gekauft, weil [sie] effektiv ist.
 [Der Wächterin] wurde von der Prüferin ein Geschenk gekauft, weil [sie] effektiv ist.
 Weil [sie] effektiv ist, wurde [der Wächterin] von der Prüferin ein Geschenk gekauft.
-Weil [sie] effektiv ist, hat die Prüferin [der Wächterin] ein Geschenk gekauft.
+Weil [sie] effektiv ist, hat die Prüferin [der Wächterin] ein Geschenk gekauft. 80
 
 Der Verkäufer unterhielt sich mit [der Reinigungskraft], weil [er] einen Staubsauger kaufen wollte.
 [Die Reinigungskraft] unterhielt sich mit dem Verkäufer, weil [er] einen Staubsauger kaufen wollte.
@@ -197,6 +211,8 @@ Der Landwirt fragte [den Designer], woran [er] gerade arbeite.
 [Der Designer] wurde von dem Landwirt gefragt, woran [er] gerade arbeite.
 Woran [er] gerade arbeite, fragte der Landwirt [den Designer].
 Woran [er] gerade arbeite, wurde [der Designer] von dem Landwirt gefragt.
+
+160
 
 [Die Mechanikerin] stellte der Prüferin hundert Dollar in Rechnung, obwohl [sie] keine Arbeit geleistet hatte.
 Der Prüferin wurde von [der Mechanikerin] hundert Dollar in Rechnung gestellt, obwohl [sie] keine Arbeit geleistet hatte.
@@ -223,6 +239,8 @@ Der Designerin bekam von [der Ärztin] die Medikamente verschrieben, weil [sie] 
 Weil [sie] glaubte, die Krankheit könne geheilt werden, verschrieb [die Ärztin] der Designerin die Medikamente.
 Weil [sie] glaubte, die Krankheit könne geheilt werden, bekam die Designerin von [der Ärztin] die Medikamente verschrieben.
 
+180
+
 Der Arzt verschrieb [dem Designer] die Medikamente, weil [er] krank war.
 [Der Designer] bekam vom Arzt die Medikamente verschrieben, weil [er] krank war.
 Weil [er] krank war, bekam [der Designer] vom Arzt die Medikamente verschrieben.
@@ -247,6 +265,8 @@ Der Arzt schuldete [dem Kassierer] Geld, weil [er] den Wodka bezahlt hatte.
 [Dem Kassierer] wurde vom Arzt Geld geschuldet, weil [er] den Wodka bezahlt hatte.
 Weil [er] den Wodka bezahlt hatte, wurde [dem Kassierer] vom Arzt Geld geschuldet.
 Weil [er] den Wodka bezahlt hatte, schuldete der Arzt [dem Kassierer] Geld.
+
+200
 
 Die Friseurin schrie [die Fahrerin] an, weil [sie] einen Unfall gebaut hatte.
 [Die Fahrerin] wurde von der Friseurin angeschrien, weil [sie] einen Unfall gebaut hatte.
@@ -273,6 +293,8 @@ Das Probelm der Redakteurin wurde von [der Mechanikerin] behoben und [sie] hat t
 [Sie] hat tausend Dollar verlangt, aber das Problem der Redakteurin wurde von [der Mechanikerin] behoben.
 [Sie] hat tausend Dollar verlangt, aber [die Mechanikerin] hat das Problem der Redakteurin behoben.
 
+220
+
 Der Mechaniker hat das Problem für [den Redakteur] behoben und [er] ist dankbar dafür.
 Das Problem [des Redakteurs] wurde vom Mechaniker gelöst und [er] ist dankbar dafür.
 [Er] ist dankbar dafür, denn das Problem [des Redakteurs] wurde vom Mechaniker gelöst.
@@ -286,7 +308,7 @@ Weil dies zu [seiner] Arbeit gehört, begrüßte [der Rezeptionist] den Anwalt.
 Die Empfangsdame begrüßte [die Anwältin], weil es [ihr] erster Arbeitstag war.
 [Die Anwältin] wurde von der Empfangsdame begrüßt, weil es [ihr] erster Arbeitstag war.
 Weil es [ihr] erster Arbeitstag war, wurde [die Anwältin] von der Empfangsdame begrüßt.
-Weil es [ihr] erster Arbeitstag war, begrüßte die Empfangsdame [die Anwältin].
+Weil es [ihr] erster Arbeitstag war, begrüßte die Empfangsdame [die Anwältin]. 120
 
 [Die Geschäftsführerin] hat die Reinigungskraft gefeuert, weil [sie] wütend war.
 Die Reinigungskraft wurde von [der Geschäftsführerin] gefeuert, weil [sie] wütend war.
@@ -297,6 +319,8 @@ Der Geschäftsführer hat [die Reinigungskraft] gefeuert, weil [er] zu faul ist.
 [Die Reinigungskraft] wurde von dem Geschäftsführer gefeuert, weil [er] zu faul ist.
 Weil [er] zu faul ist, wurde [die Reinigungskraft] von dem Geschäftsführer gefeuert.
 Weil [er] zu faul ist, hat der Geschäftsführer [die Reinigungskraft] gefeuert.
+
+240
 
 [Die Reinigungskraft] hasst den Entwickler, weil [er] viel Zeit mit der Reinigung des Zimmers verbracht hat.
 Der Entwickler wurde von [der Reinigungskraft] gehasst, weil [er] viel Zeit mit der Reinigung des Zimmers verbracht hat.
@@ -323,6 +347,8 @@ Der Manager wurde von [dem Autor] interviewt, weil [er] ein neues Buch schreiben
 Weil [er] ein neues Buch schreiben wollte, interviewte [der Autor] den Manager.
 Weil [er] ein neues Buch schreiben wollte, wurde der Manager von [dem Autor] interviewt.
 
+260
+
 Die Autorin hat [die Managerin] interviewt, weil [sie] sehr erfolgreich ist.
 [Die Managerin] wurde von der Autorin interviewt, weil [sie] sehr erfolgreich ist.
 Weil [sie] erfolgreich ist, wurde [die Managerin] von der Autorin interviewt.
@@ -347,6 +373,8 @@ Der Bauarbeiter vereinbarte einen Termin mit [dem Berater], weil [er] gute Ratsc
 Mit [dem Berater] wurde ein Termin durch den Bauarbeiter vereinbart, weil [er] gute Ratschläge gab.
 Weil [er] gute Ratschläge gab, wurde mit [dem Berater] ein Termin durch den Bauarbeiter vereinbart.
 Weil [er] gute Ratschläge gab, vereinbarte der Bauarbeiter einen Termin mit [dem Berater].
+
+280
 
 [Der Redakteur] rief den Bauarbeiter an, weil [er] wissen wollte, wann das Haus fertig sein würde.
 Der Bauarbeiter wurde von [dem Redakteur] angerufen, weil [er] wissen wollte, wann das Haus fertig sein würde.
@@ -373,6 +401,8 @@ Mit der Designerin arbeitete [die Schreinerin] gerne zusammen, wiel [sie] so vie
 Weil [sie] so viel Zeit sparen kann, arbeitete die Designerin gerne mit [der Schreinerin] zusammen.
 Weil [sie] so viel Zeit sparen kann, arbeitet [die Schreinerin] gerne mit der Designerin zusammen.
 
+300
+
 Der Schreiner arbeitet gerne mit [dem Designer] zusammen, weil [er] immer tolle Entwürfe macht.
 Mit [dem Designer] arbeitete der Schreiner gerne zusammen, weil [er] immer tolle Entwürfe macht.
 Weil [er] immer tolle Entwürfe macht, arbeitete der Schreiner gerne mit [dem Designer] zusammen.
@@ -381,7 +411,7 @@ Weil [er] immer tolle Entwürfe macht, arbeitete mit [dem Designer] der Schreine
 [Die Verkäuferin] hat versucht, die Schriftstellerin zu täuschen, aber [sie] wurde erwischt.
 Es wurde versucht die Schriftstellerin durch [die Verkäuferin] zu täuschen, aber [sie] wurde erwischt.
 [Sie] wurde erwischt, aber es wurde veruscht die Schriftstellerin durch [die Verkäuferin] zu täuschen.
-[Sie] wurde erwischt, aber [die Verkäuferin] hat versucht, die Schriftstellerin zu täuschen.
+[Sie] wurde erwischt, aber [die Verkäuferin] hat versucht, die Schriftstellerin zu täuschen. 160
 
 [Die Schreinerin] baute einen Schreibtisch für die Sekretärin, weil [sie] Zeit hatte.
 Für die Sekretäring wurde ein Schreibtisch von [der Schreinerin] gebaut, weil [sie] Zeit hatte.
@@ -397,6 +427,8 @@ Weil [er] einen brauchte, baute der Schreiner einen Schreibtisch für [den Anges
 Die Designerin wurde von [der Köchin] gefragt, ob [ihr] neues Gericht verbessert werden kann.
 Ob [ihr] neues Gericht verbessert werden kann, fragte [die Köchin] die Designerin.
 Ob [ihr] neues Gericht verbessert werden kann, wurde die Designerin von [der Köchin] gefragt.
+
+320
 
 [Der Redakteur] rief den Bauarbeiter an, weil [er] wissen wollte, wann das Haus fertig sein würde.
 Der Bauarbeiter wurde von [dem Redakteur] angerufen, weil [er] wissen wollte, wann das Haus fertig sein würde.
@@ -423,6 +455,8 @@ Die Putzfrau hat [die Wächterin] gerufen, weil [sie] die Einzige ist, die den R
 Weil [sie] die Einzige ist, die den Raum betreten darf, wurde [die Wächterin] von der Putzfrau gerufen.
 Weil [sie] die Einzige ist, die den Raum betreten darf, hat die Putzfrau [die Wächterin] gerufen.
 
+340
+
 [Die Arbeiterin] hat die Kassiererin getreten, weil [sie] betrunken war.
 Die Kassiererin wurde von [der Arbeiterin] getreten, weil [sie] betrunken war.
 Weil [sie] betrunken war, wurde die Kassiererin von [der Arbeiterin] getreten.
@@ -447,6 +481,8 @@ Der Koch bringt [dem Assistenten] ständig neue Techniken bei, damit [er] eines 
 [Dem Assistenten] wird vom Koch ständig neue Techniken beigebracht, damit [er] eines Tages genauso gut ist.
 Damit [er] eines Tages genauso gut ist, wird [dem Assistenten] vom Koch ständig neue Techniken beigebracht.
 Damit [er] eines Tages genauso gut ist, bringt der Koch [dem Assistenten] ständig neue Techniken bei.
+
+360
 
 [Die Bäuerin] gab der Lehrerin eine Tüte Eier, weil [sie] dankbar war.
 Der Lehrerin wurde von [der Bäuerin] eine Tüte Eier gegeben, weil [sie] dankbar war.
@@ -473,6 +509,8 @@ Dem Geschäftsführer wurde von [dem Bibliothekar] geholfen, das Buch zu finden,
 Weil das [sein] Job ist, wurde dem Geschäftsführer von [dem Bibliothekar] geholfen, das Buch zu finden.
 Weil das [sein] Job ist, half [der Bibliothekar] dem Geschäftsführer, das Buch zu finden.
 
+380
+
 Die Bibliothekarin hat [der Geschäftsführerin] geholfen, das Buch zu finden, weil [sie] darum gebeten hat.
 [Der Geschäftsführerin] wurde von der Bibliothekarin geholfen, das Buch zu finden, weil [sie] darum gebeten hat.
 Weil [sie] darum gebeten hat, wurde [der Geschäftsführerin] von der Bibliothekarin geholfen, das Buch zu finden.
@@ -481,7 +519,7 @@ Weil [sie] darum gebeten hat, hat die Bibliothekarin [der Geschäftsführerin] g
 [Die Chefin] hat die Autorin ermutigt, weil [ihr] das Buch gefällt.
 Die Autorin wurde von [der Chefin] ermutigt, weil [ihr] das Buch gefällt.
 Weil [ihr] das Buch gefällt, wurde die Autorin von [der Chefin] ermutigt.
-Weil [ihr] das Buch gefällt, hat [die Chefin] die Autorin ermutigt.
+Weil [ihr] das Buch gefällt, hat [die Chefin] die Autorin ermutigt. 200
 
 Der Chef ermutigte [den Schriftsteller], weil [er] ein gutes Buch schrieb.
 [Der Schriftsteller] wurde vom Chef ermutigt, weil [er] ein gutes Buch schrieb.
@@ -497,3 +535,5 @@ Weil [sie] nur den Code versteht, war [die Entwicklerin] nicht in der Lage, mit 
 Vor dem Arbeiter lief [der Krankenpfleger] davon, weil [er] sehr beschäftigt war.
 Weil [er] sehr beschäftigt war, lief vor dem Arbeiter [der Krankenpfleger] davon.
 Weil [er] sehr beschäftigt war, lief [der Krankenpfleger] vor dem Arbeiter davon.
+
+400 (204 female, 196 male)

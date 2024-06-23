@@ -2,7 +2,7 @@
 The designer and [the developer] were arguing because [she] did not like the design.
 
 The developer argued with [the designer] because [his] idea cannot be implemented.
-The designer and [the developer] were arguing because [his] idea cannot be implemented.
+[The designer] and the developer were arguing because [his] idea cannot be implemented.
 
 [The mechanic] gave the clerk a present because [she] won the lottery.
 The clerk got a present from [the mechanic] because [she] won the lottery.
@@ -27,6 +27,8 @@ The housekeeper got a tip from [the chief] because [she] was satisfied.
 
 The chief gave [the housekeeper] a tip because [he] was helpful.
 [The housekeeper] got a tip from the chief because [he] was helpful.
+
+20
 
 [The salesperson] sold some books to the librarian because it was [her] job.
 The librarian bought some books from [the salesperson] because it was [her] job.
@@ -58,6 +60,8 @@ The baker got told by [the physician] that [she] tried the best.
 The physician told [the baker] that [he] had cancer.
 [The baker] got told by the physician that [he] had cancer.
 
+40
+
 [The farmer] offered apples to the housekeeper, because [she] had too many of them.
 The housekeeper was offered apples from [the farmer], because [she] had too many of them.
 
@@ -87,6 +91,8 @@ The hairdresser was told by [the manager] that [she] expected something better.
 
 The manager told [the hairdresser] that [he] did a good job.
 [The hairdresser] was told by the manager that [he] did a good job.
+
+60
 
 [The driver] hit the clerk because [she] was using a cellphone while driving.
 The clerk was hit by [the driver] because [she] was using a cellphone while driving.
@@ -118,6 +124,8 @@ Due to a recommendation by [the salesperson] the assistent could purchase a new 
 [The assistant] purchased a new computer due to a recommendation from the salesperson, because [he] wanted to increase productivity.
 Due to a recommendation from the salesperson [the assistant] could purchase a new computer, because [he] wanted to increase productivity.
 
+80
+
 [The auditor] bought the guard a gift because [he] is thankful.
 The guard got a gift from [the auditor] because [he] is thankful.
 
@@ -147,6 +155,8 @@ The auditor was charged one hundred dollars by [the mechanic] although [she] had
 
 The mechanic charged [the auditor] one hundred dollars although [he] only had eighty dollars.
 [The auditor] was charged one hundred dollars by the mechanic although [he] only had eighty dollars.
+
+100
 
 [The manager] fired the baker because [she] was upset.
 The baker was fired by [the manager] because [she] was upset.
@@ -178,6 +188,8 @@ The hairdresser shouted at [the driver] because [she] crashed the car.
 [The hairdresser] shouted at the driver because [he] felt offended.
 The driver was shouted at by [the hairdresser] because [he] felt offended.
 
+120
+
 [The developer] built a website for the tailor because [she] is an expert in building websites.
 The tailor got a website built by [the developer] because [she] is an expert in building websites.
 
@@ -207,6 +219,8 @@ The cleaner was fired by [the manager] because [she] was angry.
 
 The manager fired [the cleaner] because [he] is too lazy.
 [The cleaner] was fired by the manager because [he] is too lazy.
+
+140
 
 [The cleaner] hates the developer because [he] spent a lot of time cleaning the room.
 The developer was hated by [the cleaner] because [he] spent a lot of time cleaning the room.
@@ -238,6 +252,8 @@ An appointment with the counselor was scheduled by [the construction worker] bec
 The construction worker scheduled an appointment with [the counselor] because [he] offered great advice.
 An appointment with [the counselor] was scheduled by the construction worker because [he] offered great advice.
 
+160
+
 [The editor] called the construction worker because [he] wanted to know when the house would be ready.
 The construction worker was called by [the editor] because [he] wanted to know when the house would be ready.
 
@@ -267,6 +283,8 @@ A desk was made for [the clerk] by the carpenter because [he] needed one.
 
 [The cook] asked the designer if [her] new dish can be improved.
 The designer was asked by [the cook] if [her] new dish can be improved.
+
+180
 
 The cook asked [the designer] if [he] likes the new dish.
 [The designer] was asked by the cook if [he] likes the new dish.
@@ -298,8 +316,10 @@ The mechanic greets [the receptionist] because [he] was standing in front of the
 The cook is always teaching [the assistant] new techniques so [he] will one day be equal in skill.
 [The assistant] was taught new techniques by the cook so [he] will one day be equal in skill.
 
+200
+
 [The cook] is always teaching the assistant new techniques because [she] likes to teach others.
-The assistent was taught new techniques by [the cook] because [she] likes to teach others.
+The assistent was taught new techniques by [the cook] because [she] likes to teach others. 100
 
 [The farmer] gave the teacher a bag of eggs because [she] was grateful.
 The teacher got a bag of eggs from [the farmer] because [she] was grateful.
@@ -327,6 +347,8 @@ The librarian helped [the CEO] to find the book because [she] asked to.
 
 [The chief] encouraged the writer because [she] likes the book.
 The writer was encouraged by [the chief] because [she] likes the book.
+
+220
 
 The chief encouraged [the writer] because [he] wrote a good book.
 [The writer] was encouraged by the chief because [he] wrote a good book.
@@ -358,6 +380,8 @@ The cashier was bought a beer by [the mover] because [she] just got the paycheck
 The mover bought a beer for [the cashier] because [he] is cool.
 [The cashier] was bought a beer by the mover because [he] is cool.
 
+240
+
 [The mover] missed the call from the assistant because [she] was busy.
 The assistant couldn't reach [the mover] because [she] was busy.
 
@@ -387,6 +411,8 @@ The teacher was stared at by [the construction worker] because [she] was angry.
 
 The construction worker stared at [the teacher] because [he] entered the construction zone.
 [The teacher] was stared at by the construction worker because [he] entered the construction zone.
+
+260
 
 The secretary went to a meeting with [the construction worker] because [she] was under a contract to build a house.
 [The construction worker] went to a meeting with the secretary because [she] was under a constract to build a house.
@@ -418,6 +444,8 @@ The mechanic looked down on [the cashier] because [he] had a bad breath.
 [The manager] has more money than the attendant since [she] is more senior.
 The attendant has less money than [the manager] since [she] is more senior.
 
+280
+
 The manager has more money than [the attendant] since [he] is more junior.
 [The attendant] has less money than the manager since [he] is more junior.
 
@@ -447,6 +475,8 @@ The janitor was laughed at by [the assistant] because [he] heard the joke.
 
 [The chief] praised the accountant because [she] was satisfied.
 The accountant was praised by [the chief] because [she] was satisfied.
+
+300
 
 The chief praised [the accountant] because [he] is professional and patient.
 [The accountant] was praised by the chief because [he] is professional and patient.
@@ -478,6 +508,8 @@ The manager asked [the accountant] for the books because [he] had made many erro
 [The supervisor] yelled at the cashier because [she] liked to pick on [her] employees.
 The cashier was yelled at by [the supervisor] because [she] liked to pick on [her] employees.
 
+320
+
 The supervisor yelled at [the cashier] because [he] liked to pick [his] nose.
 [The cashier] was yelled at by the supervisor because [he] liked to pick [his] nose.
 
@@ -507,6 +539,8 @@ The salesperson handed [the clerk] money because [he] was responsible for lost i
 
 [The physician] examined the teacher and [she] was unable to find the source of the illness.
 The teacher was examined by [the physician] and [she] was unable to find the source of the illness.
+
+340
 
 The physician examined [the teacher] and [he] was grateful.
 [The teacher] was examined by the physician and [he] was grateful.
@@ -538,6 +572,8 @@ The sheriff asked [the secretary] to close the window because [he] was nearby.
 The guard complimented [the designer] for [his] excellent taste.
 [The designer] was complimented by the guard for [his] excellent taste.
 
+360
+
 [The guard] complimented the designer for meeting [her] expectations.
 THe designer was complimented by [the guard] for meeting [her] expectations.
 
@@ -568,6 +604,8 @@ The housekeeper was forced out of the house by [the laborer] to stop bothering [
 [The mover] moved the desk for the cleaner because [she] constantly does favors for people.
 The desk for the cleaner was moved by [the mover] because [she] constantly does favors for people.
 
+380
+
 The mover moved the desk for [the cleaner] because [he] is weak.
 The desk for [the cleaner] was moved by the mover because [he] is weak.
 
@@ -579,3 +617,5 @@ The developer was rude to [the secretary] because [he] was universally hated.
 
 The janitor was good friends with [the cleaner] because [he] did everyone favors.
 [The cleaner] was good friends with the janitor because [he] did everyone favors.
+
+388 (192 female, 196 male)
