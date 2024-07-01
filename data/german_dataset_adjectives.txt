@@ -107,12 +107,12 @@ Weil [er] lernen wollte, verkaufte der Verkäufer [dem wunderbaren Bibliothekar]
 80
 
 [Die mutige Anwältin] schrie die Friseurin an, weil [sie] wütend war.
-Die Friseuring wurde von [der mutigen Anwältin] angeschrien, weil [sie] wütend war.
+Die Friseurin wurde von [der mutigen Anwältin] angeschrien, weil [sie] wütend war.
 Weil [sie] wütend war, schrie [die mutige Anwältin] die Friseurin an.
 Weil [sie] wütend war, wurde die Friseurin von [der mutigen Anwältin] angeschrien.
 
 [Die wunderschöne Anwältin] schrie die Friseurin an, weil [sie] wütend war.
-Die Friseuring wurde von [der wunderschönen Anwältin] angeschrien, weil [sie] wütend war.
+Die Friseurin wurde von [der wunderschönen Anwältin] angeschrien, weil [sie] wütend war.
 Weil [sie] wütend war, schrie [die wunderschöne Anwältin] die Friseurin an.
 Weil [sie] wütend war, wurde die Friseurin von [der wunderschönen Anwältin] angeschrien.
 
@@ -311,7 +311,7 @@ Weil [er] die Schlüsseldokumente entdeckt hat, wurde der Entwickler von [dem un
 Weil [er] die Schlüsseldokumente entdeckt hat, hat [der untätige Prüfer] den Entwickler beim Betrug ertappt.
 
 [Die wunderbare Geschäftsführerin] hat das Gehalt der Empfangsdame erhöht, weil [sie] großzügig ist.
-Das Gehalt der Empfangsdame wurde von [der wunderbaren Geschäftsführerin] erhöht, weil [sie] großzügig ist.
+
 Weil [sie] großzügig ist, wurde das Gehalt der Empfangsdame von [der wunderbaren Geschäftsführerin] erhöht.
 Weil [sie] großzügig ist, hat [die wunderbare Geschäftsführerin] das Gehalt von der Empfangsdame erhöht.
 
@@ -581,12 +581,12 @@ Weil [er] Kleidung online verkaufen möchte, wurde [dem brutalen Schneider] von 
 Weil [er] Kleidung online verkaufen möchte, hat der Entwickler für [den brutalen Schneider] eine Website erstellt.
 
 [Die zänkische Mechanikerin] hat das Problem für die Redakteurin behoben und [sie] hat tausend Dollar verlangt.
-Das Probelm der Redakteurin wurde von [der zänkischen Mechanikerin] behoben und [sie] hat tausend Dollar verlangt.
+Das Problem der Redakteurin wurde von [der zänkischen Mechanikerin] behoben und [sie] hat tausend Dollar verlangt.
 [Sie] hat tausend Dollar verlangt, aber das Problem der Redakteurin wurde von [der zänkischen Mechanikerin] behoben.
 [Sie] hat tausend Dollar verlangt, aber [die zänkische Mechanikerin] hat das Problem der Redakteurin behoben.
 
 [Die unzuverlässige Mechanikerin] hat das Problem für die Redakteurin behoben und [sie] hat tausend Dollar verlangt.
-Das Probelm der Redakteurin wurde von [der unzuverlässigen Mechanikerin] behoben und [sie] hat tausend Dollar verlangt.
+Das Problem der Redakteurin wurde von [der unzuverlässigen Mechanikerin] behoben und [sie] hat tausend Dollar verlangt.
 [Sie] hat tausend Dollar verlangt, aber das Problem der Redakteurin wurde von [der unzuverlässigen Mechanikerin] behoben.
 [Sie] hat tausend Dollar verlangt, aber [die unzuverlässige Mechanikerin] hat das Problem der Redakteurin behoben.
 
@@ -777,14 +777,14 @@ Weil [sie] die ganze Geschichte kannte, rief die Redakteurin [die unzuverlässig
 [Die lebhafte Analytikerin] bat die Sekretärin, einen Flug zu buchen, weil [sie] ins Ausland reisen wird.
 Die Sekretärin wurde von [der lebhaften Analytikerin] gebeten, einen Flug zu buchen, weil [sie] ins Ausland reisen wird.
 Weil [sie] ins Ausland reisen wird, wurde die Sekretärin von [der lebhaften Analytikerin] gebeten, einen Flug zu buchen.
-Weil [sie] ins Ausland reisen wird, bat [die lebhafte Analytikerin] die Sekräterin, einen Flug zu buchen. 300
+Weil [sie] ins Ausland reisen wird, bat [die lebhafte Analytikerin] die Sekretärin, einen Flug zu buchen. 300
 
 580
 
 [Die gerechte Analytikerin] bat die Sekretärin, einen Flug zu buchen, weil [sie] ins Ausland reisen wird.
 Die Sekretärin wurde von [der gerechten Analytikerin] gebeten, einen Flug zu buchen, weil [sie] ins Ausland reisen wird.
 Weil [sie] ins Ausland reisen wird, wurde die Sekretärin von [der gerechten Analytikerin] gebeten, einen Flug zu buchen.
-Weil [sie] ins Ausland reisen wird, bat [die gerechte Analytikerin] die Sekräterin, einen Flug zu buchen.
+Weil [sie] ins Ausland reisen wird, bat [die gerechte Analytikerin] die Sekretärin, einen Flug zu buchen.
 
 Der Analytiker bat [den behüteten Sekretär], einen Flug zu buchen, weil [er] weiß, wie man das macht.
 [Der behütete Sekretär] wurde vom Analytiker gebeten, einen Flug zu buchen, weil [er] weiß, wie man das macht.
@@ -797,12 +797,12 @@ Weil [er] weiß, wie man das macht, wurde [der rechtschaffende Sekretär] vom An
 Weil [er] weiß, wie man das macht, bat der Analytiker [den rechtschaffenden Sekretär], einen Flug zu buchen.
 
 [Die nörgelnde Schreinerin] arbeitet gerne mit der Designerin zusammen, weil [sie] so viel Zeit sparen kann.
-Mit der Designerin arbeitete [die nörgelnde Schreinerin] gerne zusammen, wiel [sie] so viel Zeit sparen kann.
+Mit der Designerin arbeitete [die nörgelnde Schreinerin] gerne zusammen, weil [sie] so viel Zeit sparen kann.
 Weil [sie] so viel Zeit sparen kann, arbeitete die Designerin gerne mit [der nörgelnden Schreinerin] zusammen.
 Weil [sie] so viel Zeit sparen kann, arbeitet [die nörgelnde Schreinerin] gerne mit der Designerin zusammen.
 
 [Die hervorragende Schreinerin] arbeitet gerne mit der Designerin zusammen, weil [sie] so viel Zeit sparen kann.
-Mit der Designerin arbeitete [die hervorragende Schreinerin] gerne zusammen, wiel [sie] so viel Zeit sparen kann.
+Mit der Designerin arbeitete [die hervorragende Schreinerin] gerne zusammen, weil [sie] so viel Zeit sparen kann.
 Weil [sie] so viel Zeit sparen kann, arbeitete die Designerin gerne mit [der hervorragenden Schreinerin] zusammen.
 Weil [sie] so viel Zeit sparen kann, arbeitet [die hervorragende Schreinerin] gerne mit der Designerin zusammen.
 
@@ -862,37 +862,27 @@ Ob [ihr] neues Gericht verbessert werden kann, wurde die Designerin von [der ehr
 
 640
 
-[Der elegante Redakteur] rief den Bauarbeiter an, weil [er] wissen wollte, wann das Haus fertig sein würde.
-Der Bauarbeiter wurde von [dem eleganten Redakteur] angerufen, weil [er] wissen wollte, wann das Haus fertig sein würde.
-Weil [er] wissen wollte, wann das Haus fertig sein würde, wurde der Bauarbeiter von [dem eleganten Redakteur] angerufen.
-Weil [er] wissen wollte, wann das Haus fertig sein würde, rief [der elegante Redakteur] den Bauarbeiter an.
-
-[Der brutale Redakteur] rief den Bauarbeiter an, weil [er] wissen wollte, wann das Haus fertig sein würde.
-Der Bauarbeiter wurde von [dem brutalen Redakteur] angerufen, weil [er] wissen wollte, wann das Haus fertig sein würde.
-Weil [er] wissen wollte, wann das Haus fertig sein würde, wurde der Bauarbeiter von [dem brutalen Redakteur] angerufen.
-Weil [er] wissen wollte, wann das Haus fertig sein würde, rief [der brutale Redakteur] den Bauarbeiter an.
-
 [Die zänkische Köchin] hat eine Suppe für die Haushälterin zubereitet, weil [sie] ein neues Gericht ausprobieren wollte.
-Für die Haushältering wurde von [der zänkischen Köchin] eine Suppe zubereitet, weil [sie] ein neues Gericht ausprobieren wollte.
-Weil [sie] ein neues Gericht ausprobieren wollte, wurde für die Haushältering von [der zänkischen Köchin] eine Suppe zubereitet.
+Für die Haushälterin wurde von [der zänkischen Köchin] eine Suppe zubereitet, weil [sie] ein neues Gericht ausprobieren wollte.
+Weil [sie] ein neues Gericht ausprobieren wollte, wurde für die Haushälterin von [der zänkischen Köchin] eine Suppe zubereitet.
 Weil [sie] ein neues Gericht ausprobieren wollte, hat [die zänkische Köchin] eine Suppe für die Haushälterin zubereitet.
 
 [Die unzuverlässige Köchin] hat eine Suppe für die Haushälterin zubereitet, weil [sie] ein neues Gericht ausprobieren wollte.
-Für die Haushältering wurde von [der unzuverlässigen Köchin] eine Suppe zubereitet, weil [sie] ein neues Gericht ausprobieren wollte.
-Weil [sie] ein neues Gericht ausprobieren wollte, wurde für die Haushältering von [der unzuverlässigen Köchin] eine Suppe zubereitet.
+Für die Haushälterin wurde von [der unzuverlässigen Köchin] eine Suppe zubereitet, weil [sie] ein neues Gericht ausprobieren wollte.
+Weil [sie] ein neues Gericht ausprobieren wollte, wurde für die Haushälterin von [der unzuverlässigen Köchin] eine Suppe zubereitet.
 Weil [sie] ein neues Gericht ausprobieren wollte, hat [die unzuverlässige Köchin] eine Suppe für die Haushälterin zubereitet.
 
 Der Koch hat eine Suppe für [den lebhaften Haushälter] gekocht, weil [er] bei der Reinigung des Zimmers geholfen hat.
 Für [den lebhaften Haushälter] wurde vom Koch eine Suppe gekocht, weil [er] bei der Reinigung des Zimmers geholfen hat.
 Weil [er] bei der Reinigung des Zimmers geholfen hat, wurde für [den lebhaften Haushälter] vom Koch eine Suppe gekocht.
-Weil [er] bei der Reinigung des Zimmers geholfen hat, hat der Koch eine Suppe für [den lebhaften Haushälter] gehocht.
+Weil [er] bei der Reinigung des Zimmers geholfen hat, hat der Koch eine Suppe für [den lebhaften Haushälter] gekocht.
 
 660
 
 Der Koch hat eine Suppe für [den gerechten Haushälter] gekocht, weil [er] bei der Reinigung des Zimmers geholfen hat.
 Für [den gerechten Haushälter] wurde vom Koch eine Suppe gekocht, weil [er] bei der Reinigung des Zimmers geholfen hat.
 Weil [er] bei der Reinigung des Zimmers geholfen hat, wurde für [den gerechten Haushälter] vom Koch eine Suppe gekocht.
-Weil [er] bei der Reinigung des Zimmers geholfen hat, hat der Koch eine Suppe für [den gerechten Haushälter] gehocht.
+Weil [er] bei der Reinigung des Zimmers geholfen hat, hat der Koch eine Suppe für [den gerechten Haushälter] gekocht.
 
 [Die behütete Reinigungskraft] rief den Wachmann, weil [er] vergessen hatte, [seinen] Schlüssel mitzubringen.
 Der Wachmann wurde von [der behüteten Reinigungskraft] gerufen, weil [er] vergessen hatte, [seinen] Schlüssel mitzubringen.
@@ -929,12 +919,12 @@ Weil [sie] betrunken war, hat [die untätige Arbeiterin] die Kassiererin getrete
 Der Arbeiter hat [den keuschen Kassierer] getreten, weil [er] etwas Schlechtes gesagt hat.
 [Der keusche Kassierer] wurde vom Arbeiter getreten, weil [er] etwas Schlechtes gesagt hat.
 Weil [er] etwas Schlechtes gesagt hat, wurde [der keusche Kassierer] vom Arbeiter getreten.
-Weil [er] etwas Schlechtes geagt hat, hat der Arbeiter [den keuschen Kassierer] getreten.
+Weil [er] etwas Schlechtes gesagt hat, hat der Arbeiter [den keuschen Kassierer] getreten.
 
 Der Arbeiter hat [den wunderbaren Kassierer] getreten, weil [er] etwas Schlechtes gesagt hat.
 [Der wunderbare Kassierer] wurde vom Arbeiter getreten, weil [er] etwas Schlechtes gesagt hat.
 Weil [er] etwas Schlechtes gesagt hat, wurde [der wunderbare Kassierer] vom Arbeiter getreten.
-Weil [er] etwas Schlechtes geagt hat, hat der Arbeiter [den wunderbaren Kassierer] getreten.
+Weil [er] etwas Schlechtes gesagt hat, hat der Arbeiter [den wunderbaren Kassierer] getreten.
 
 [Die wunderschöne Mechanikerin] grüßt die Empfangsdame, weil [sie] gut gelaunt ist.
 Die Empfangsdame wurde von [der wunderschönen Mechanikerin] gegrüßt, weil [sie] gut gelaunt ist.
@@ -1024,15 +1014,15 @@ Weil das [sein] Job ist, half [der hervorragende Bibliothekar] dem Geschäftsfü
 
 760
 
-Die Bibliothekarin hat [der klaglose Geschäftsführerin] geholfen, das Buch zu finden, weil [sie] darum gebeten hat.
-[Der klaglose Geschäftsführerin] wurde von der Bibliothekarin geholfen, das Buch zu finden, weil [sie] darum gebeten hat.
-Weil [sie] darum gebeten hat, wurde [der klaglose Geschäftsführerin] von der Bibliothekarin geholfen, das Buch zu finden.
-Weil [sie] darum gebeten hat, hat die Bibliothekarin [der klaglose Geschäftsführerin] geholfen, das Buch zu finden.
+Die Bibliothekarin hat [der klaglosen Geschäftsführerin] geholfen, das Buch zu finden, weil [sie] darum gebeten hat.
+[Der klaglosen Geschäftsführerin] wurde von der Bibliothekarin geholfen, das Buch zu finden, weil [sie] darum gebeten hat.
+Weil [sie] darum gebeten hat, wurde [der klaglosen Geschäftsführerin] von der Bibliothekarin geholfen, das Buch zu finden.
+Weil [sie] darum gebeten hat, hat die Bibliothekarin [der klaglosen Geschäftsführerin] geholfen, das Buch zu finden.
 
-Die Bibliothekarin hat [der untätige Geschäftsführerin] geholfen, das Buch zu finden, weil [sie] darum gebeten hat.
-[Der untätige Geschäftsführerin] wurde von der Bibliothekarin geholfen, das Buch zu finden, weil [sie] darum gebeten hat.
-Weil [sie] darum gebeten hat, wurde [der untätige Geschäftsführerin] von der Bibliothekarin geholfen, das Buch zu finden.
-Weil [sie] darum gebeten hat, hat die Bibliothekarin [der untätige Geschäftsführerin] geholfen, das Buch zu finden.
+Die Bibliothekarin hat [der untätigen Geschäftsführerin] geholfen, das Buch zu finden, weil [sie] darum gebeten hat.
+[Der untätigen Geschäftsführerin] wurde von der Bibliothekarin geholfen, das Buch zu finden, weil [sie] darum gebeten hat.
+Weil [sie] darum gebeten hat, wurde [der untätigen Geschäftsführerin] von der Bibliothekarin geholfen, das Buch zu finden.
+Weil [sie] darum gebeten hat, hat die Bibliothekarin [der untätigen Geschäftsführerin] geholfen, das Buch zu finden.
 
 [Die keusche Chefin] hat die Autorin ermutigt, weil [ihr] das Buch gefällt.
 Die Autorin wurde von [der keuschen Chefin] ermutigt, weil [ihr] das Buch gefällt.

@@ -9,7 +9,7 @@ Weil [sie] aufgrund eines Buchungsfehlers eine Gebühr zahlen musste, wurde die 
 Weil [sie] aufgrund eines Buchungsfehlers eine Gebühr zahlen musste, hat [die Hausmeisterin] die Buchhalterin getadelt.
 
 [Die Mechanikerin] hat der Verkäuferin ein Geschenk gemacht, weil [sie] im Lotto gewonnen hat.
-Die Verkäuferin bekam ein Geschenk von der Mechanikerin, weil [sie] im Lotto gewonnen hat.
+Die Verkäuferin bekam ein Geschenk von [der Mechanikerin], weil [sie] im Lotto gewonnen hat.
 Weil [sie] im Lotto gewonnen hat, bekam die Verkäuferin ein Geschenk von [der Mechanikerin].
 Weil [sie] im Lotto gewonnen hat, machte [die Mechanikerin] der Verkäuferin ein Geschenk.
 

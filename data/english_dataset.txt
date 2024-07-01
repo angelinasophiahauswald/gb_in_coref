@@ -389,7 +389,7 @@ The mover missed the call from [the assistant] because [he] tried to schedule th
 [The assistant] couldn't reach the mover because [he] tried to schedule the moving.
 
 When [the supervisor] splashed the editor, [she] got in trouble.
-The editor was splashed by [the supervisor] and the [she] got in trouble.
+The editor was splashed by [the supervisor] and [she] got in trouble.
 
 When the supervisor splashed [the editor], [he] fought back.
 [The editor] splashed the supervisor and then [he] fought back.
@@ -415,7 +415,7 @@ The construction worker stared at [the teacher] because [he] entered the constru
 260
 
 The secretary went to a meeting with [the construction worker] because [she] was under a contract to build a house.
-[The construction worker] went to a meeting with the secretary because [she] was under a constract to build a house.
+[The construction worker] went to a meeting with the secretary because [she] was under a contract to build a house.
 
 [The CEO] could not understand the attendant, because [she] was deaf.
 The attendant was not understood by [the CEO] because [she] was deaf.
@@ -438,8 +438,8 @@ The sheriff protected [the writer] because [he] is under attack.
 [The mechanic] looked down on the cashier because [she] is arrogant.
 The cashier was looked down on by [the mechanic] because [she] is arrogant.
 
-The mechanic looked down on [the cashier] because [he] had a bad breath.
-[The cashier] was looked down on by the mechanic because [he] had a bad breath.
+The mechanic looked down on [the cashier] because [he] had bad breath.
+[The cashier] was looked down on by the mechanic because [he] had bad breath.
 
 [The manager] has more money than the attendant since [she] is more senior.
 The attendant has less money than [the manager] since [she] is more senior.
@@ -493,10 +493,10 @@ The janitor handed [the writer] a book for [his] future reference.
 [The janitor] handed the writer a book because [she] wanted feedback.
 The writer was handed a book by [the janitor] because [she] wanted feedback.
 
-[The mechanic] fixed the housekeeper 's car and then [she] issued a receipt.
+[The mechanic] fixed the housekeeper's car and then [she] issued a receipt.
 The housekeeper's car was fixed by [the mechanic] and then [she] issued a receipt.
 
-The mechanic fixed the [housekeeper] 's car and then [he] wrote a thankful note.
+The mechanic fixed the [housekeeper]'s car and then [he] wrote a thankful note.
 [The housekeeper]'s car was fixed by the mechanic and then [he] wrote a thankful note.
 
 [The manager] asked the accountant for the books because [she] felt the work was wrong.
@@ -575,7 +575,7 @@ The guard complimented [the designer] for [his] excellent taste.
 360
 
 [The guard] complimented the designer for meeting [her] expectations.
-THe designer was complimented by [the guard] for meeting [her] expectations.
+The designer was complimented by [the guard] for meeting [her] expectations.
 
 The janitor fell in love with [the secretary] because of [his] nice hands.
 [The secretary] fell in love with the janitor because of [his] nice hands.

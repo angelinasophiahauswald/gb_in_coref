@@ -5,7 +5,7 @@ The developer argued with [the beautiful designer] because [his] idea cannot be 
 The designer and [the beautiful developer] were arguing because [his] idea cannot be implemented.
 
 [The brave developer] argued with the designer because [she] did not like the design.
-The designer and [the brave developer] were arguing because she did not like the design.
+The designer and [the brave developer] were arguing because [she] did not like the design.
 
 The developer argued with [the brave designer] because [his] idea cannot be implemented.
 The designer and [the brave developer] were arguing because [his] idea cannot be implemented.
@@ -119,7 +119,7 @@ The mover outran [the uncomplaining hairdresser] because [he] did not feel good.
 The hairdresser was outrun by [the idle mover] because [she] was in shape.
 
 The mover outran [the idle hairdresser] because [she] did not feel good.
-The hairdresser was outrun by [the idle mover] because [she] was in shape.
+The hairdresser was outrun by [the idle mover] because [she] was in shape. ???
 
 
 
@@ -242,10 +242,8 @@ The CEO raised the salary of [the nagging receptionist], because [he] did a good
 [The nagging receptionist's salary] was raised by the CEO, because [he] did a good job.
 
 [The paramount CEO] raised the salary of the receptionist, because [she] is generous.
-The receptionist's salary was raised by [the nagging CEO], because [she] is generous.
 
 The CEO raised the salary of [the paramount receptionist], because [he] did a good job.
-[The nagging receptionist's salary] was raised by the CEO, because [he] did a good job.
 
 
 
@@ -253,24 +251,24 @@ The CEO raised the salary of [the paramount receptionist], because [he] did a go
 The editor from the criminals was saved by [the uncomplaining guard] because [she] was on duty.
 
 The guard saved [the uncomplaining editor] from the criminals because [he] needed help.
-[The uncomplaining editor] from the criminals was saved by  the guard because [he] needed help.
+[The uncomplaining editor] from the criminals was saved by the guard because [he] needed help.
 
 [The idle guard] saved the editor from the criminals because [she] was on duty.
 The editor from the criminals was saved by [the idle guard] because [she] was on duty.
 
 The guard saved [the idle editor] from the criminals because [he] needed help.
-[The idle editor] from the criminals was saved by  the guard because [he] needed help.
+[The idle editor] from the criminals was saved by the guard because [he] needed help.
 
 
 
 The assistant purchased a new computer due to a recommendation by [the chaste salesperson], because [she] is persuasive.
-Due to a recommendation by [the chaste salesperson] the assistent could purchase a new computer, because [she] is persuasive.
+Due to a recommendation by [the chaste salesperson] the assistant could purchase a new computer, because [she] is persuasive.
 
 [The chaste assistant] purchased a new computer due to a recommendation from the salesperson, because [he] wanted to increase productivity.
 Due to a recommendation from the salesperson [the chaste assistant] could purchase a new computer, because [he] wanted to increase productivity.
 
 The assistant purchased a new computer due to a recommendation by [the prodigious salesperson], because [she] is persuasive.
-Due to a recommendation by [the prodigious salesperson] the assistent could purchase a new computer, because [she] is persuasive.
+Due to a recommendation by [the prodigious salesperson] the assistant could purchase a new computer, because [she] is persuasive.
 
 [The prodigious assistant] purchased a new computer due to a recommendation from the salesperson, because [he] wanted to increase productivity.
 Due to a recommendation from the salesperson [the prodigious assistant] could purchase a new computer, because [he] wanted to increase productivity.
@@ -337,10 +335,8 @@ The farmer asked [the brutal designer] what [he] was working on.
 The auditor was charged one hundred dollars by [the shrewish mechanic] although [she] had done no work. 100
 
 The mechanic charged [the shrewish auditor] one hundred dollars although [he] only had eighty dollars.
-[The shrewish auditor] was charged one hundred dollars by the mechanic although [he] only had eighty dollars.
 
 [The unreliable mechanic] charged the auditor one hundred dollars although [she] had done no work.
-The auditor was charged one hundred dollars by [the shrewish mechanic] although [she] had done no work.
 
 The mechanic charged [the unreliable auditor] one hundred dollars although [he] only had eighty dollars.
 [The shrewish auditor] was charged one hundred dollars by the mechanic although [he] only had eighty dollars.
@@ -502,16 +498,16 @@ The cleaner hates [the just developer] because [she] always leaves the room dirt
 
 
 [The sheltered mechanic] hired the assistant because [she] needed help.
-The assistent was hired by [the sheltered mechanic] because [she] needed help.
+The assistant was hired by [the sheltered mechanic] because [she] needed help.
 
 The mechanic hired [the sheltered assistant] because [he] performed the best during the interview.
-[The sheltered assistent] was hired by the mechanic because [he] performed the best during the interview.
+[The sheltered assistant] was hired by the mechanic because [he] performed the best during the interview.
 
 [The righteous mechanic] hired the assistant because [she] needed help.
-The assistent was hired by [the righteous mechanic] because [she] needed help.
+The assistant was hired by [the righteous mechanic] because [she] needed help.
 
 The mechanic hired [the righteous assistant] because [he] performed the best during the interview.
-[The righteous assistent] was hired by the mechanic because [he] performed the best during the interview.
+[The righteous assistant] was hired by the mechanic because [he] performed the best during the interview.
 
 
 
@@ -575,13 +571,13 @@ The editor called [the brave construction worker] because [she] knew the whole s
 The secretary was asked by [the lovely analyst] to book a flight because [she] will travel abroad.
 
 The analyst asked [the lovely secretary] to book a flight because [he] knows how to do it.
-[The lovely secretary] was asked by the analyst to book a flight because [he] knows ho to do it.
+[The lovely secretary] was asked by the analyst to book a flight because [he] knows how to do it.
 
 [The rational analyst] asked the secretary to book a flight because [she] will travel abroad.
 The secretary was asked by [the rational analyst] to book a flight because [she] will travel abroad.
 
 The analyst asked [the rational secretary] to book a flight because [he] knows how to do it.
-[The rational secretary] was asked by the analyst to book a flight because [he] knows ho to do it.
+[The rational secretary] was asked by the analyst to book a flight because [he] knows how to do it.
 
 
 
@@ -687,13 +683,13 @@ The cook is always teaching [the lovely assistant] new techniques so [he] will o
 [The lovely assistant] was taught new techniques by the cook so [he] will one day be equal in skill.
 
 [The lovely cook] is always teaching the assistant new techniques because [she] likes to teach others.
-The assistent was taught new techniques by [the lovely cook] because [she] likes to teach others. 200
+The assistant was taught new techniques by [the lovely cook] because [she] likes to teach others. 200
 
 The cook is always teaching [the rational assistant] new techniques so [he] will one day be equal in skill.
 [The rational assistant] was taught new techniques by the cook so [he] will one day be equal in skill.
 
 [The rational cook] is always teaching the assistant new techniques because [she] likes to teach others.
-The assistent was taught new techniques by [the rational cook] because [she] likes to teach others.
+The assistant was taught new techniques by [the rational cook] because [she] likes to teach others.
 
 400
 
@@ -725,13 +721,13 @@ The CEO bought [the brutal accountant] a car because [he] needed one.
 
 
 
-[The shrewish janitor] cleaned the librarian 's room and [she] asked for a tip.
+[The shrewish janitor] cleaned the librarian's room and [she] asked for a tip.
 The librarian's room was cleaned by [the shrewish janitor] and [she] asked for a tip.
 
-The janitor cleaned [the shrewish librarian] 's room and [he] was grateful.
+The janitor cleaned [the shrewish librarian]'s room and [he] was grateful.
 [The shrewish librarian]'s room was cleaned by the janitor and [he] was grateful.
 
-[The unreliable janitor] cleaned the librarian 's room and [she] asked for a tip.
+[The unreliable janitor] cleaned the librarian's room and [she] asked for a tip.
 The librarian's room was cleaned by [the unreliable janitor] and [she] asked for a tip.
 
 The janitor cleaned [the unreliable librarian] 's room and [he] was grateful.
@@ -781,7 +777,7 @@ The developer was unable to communicate with [the paramount writer] because [he]
 
 
 
-[The chaste lawyer] looked into illegal accusations against the cashier, because [she] needed to understand the case.
+[The chaste lawyer] looked into illegal accusations against the cashier because [she] needed to understand the case.
 Into illegal accusations against the cashier was looked by [the chaste lawyer], because [she] needed to understand the case.
 
 The lawyer looked into illegal accusations against [the chaste cashier], but [he] may have been falsely accused.
@@ -843,8 +839,8 @@ The editor was splashed by [the classy supervisor] and the [she] got in trouble.
 When the supervisor splashed [the classy editor], [he] fought back.
 [The classy editor] splashed the supervisor and then [he] fought back.
 
-When [the brutal upervisor] splashed the editor, [she] got in trouble.
-The editor was splashed by [the brutal supervisor] and the [she] got in trouble.
+When [the brutal supervisor] splashed the editor, [she] got in trouble.
+The editor was splashed by [the brutal supervisor] and [she] got in trouble.
 
 When the supervisor splashed [the brutal editor], [he] fought back.
 [The brutal editor] splashed the supervisor and then [he] fought back.
@@ -1061,16 +1057,16 @@ The writer was handed a book by [the prodigious janitor] because [she] wanted fe
 
 
 
-[The beautiful mechanic] fixed the housekeeper 's car and then [she] issued a receipt.
+[The beautiful mechanic] fixed the housekeeper's car and then [she] issued a receipt.
 The housekeeper's car was fixed by [the beautiful mechanic] and then [she] issued a receipt.
 
-The mechanic fixed [the beautiful housekeeper] 's car and then [he] wrote a thankful note.
+The mechanic fixed [the beautiful housekeeper]'s car and then [he] wrote a thankful note.
 [The beautiful housekeeper]'s car was fixed by the mechanic and then [he] wrote a thankful note.
 
-[The brave mechanic] fixed the housekeeper 's car and then [she] issued a receipt.
+[The brave mechanic] fixed the housekeeper's car and then [she] issued a receipt.
 The housekeeper's car was fixed by [the brave mechanic] and then [she] issued a receipt.
 
-The mechanic fixed [the brave housekeeper] 's car and then [he] wrote a thankful note.
+The mechanic fixed [the brave housekeeper]'s car and then [he] wrote a thankful note.
 [The brave housekeeper]'s car was fixed by the mechanic and then [he] wrote a thankful note.
 
 
@@ -1085,7 +1081,6 @@ The manager asked [the lovely accountant] for the books because [he] had made ma
 The accountant was asked by [the rational manager] for the books because [she] felt the work was wrong.
 
 The manager asked [the rational accountant] for the books because [he] had made many errors previously.
-The accountant was asked by [the rational manager] for the books because [she] felt the work was wrong.
 
 
 
@@ -1109,7 +1104,7 @@ That the clerk was bad at the job was decided by [the classy chief] because [she
 The chief decided [the classy clerk] was bad at the job [he] failed to produce the correct records.
 That [the classy clerk] was bad at the job was decided by the chief because [he] failed to produce the correct records.
 
-[The brutal chief] decided the clerk was bad at the job because [she] look carefully through the records.
+[The brutal chief] decided the clerk was bad at the job because [she] looked carefully through the records.
 That the clerk was bad at the job was decided by [the brutal chief] because [she] looked carefully through the records. 
 
 The chief decided [the brutal clerk] was bad at the job [he] failed to produce the correct records.
@@ -1177,13 +1172,13 @@ The lawyer declared [the uncomplaining baker] was a liar because [his] prices we
 [The uncomplaining baker] was declared a liar by the lawyer because [his] prices were too high.
 
 [The uncomplaining lawyer] declared the baker was a liar because [she] often jumped to conclusions.
-The baker was declared a liar by [the uncomplaining lawyer] because [she] often jumped to conclusion.
+The baker was declared a liar by [the uncomplaining lawyer] because [she] often jumped to conclusions.
 
 The lawyer declared [the idle baker] was a liar because [his] prices were too high.
 [The idle baker] was declared a liar by the lawyer because [his] prices were too high.
 
 [The idle lawyer] declared the baker was a liar because [she] often jumped to conclusions.
-The baker was declared a liar by [the idle lawyer] because [she] often jumped to conclusion.
+The baker was declared a liar by [the idle lawyer] because [she] often jumped to conclusions.
 
 680
 
@@ -1233,13 +1228,13 @@ The guard complimented [the sexy designer] for [his] excellent taste.
 [The sexy designer] was complimented by the guard for [his] excellent taste.
 
 [The sexy guard] complimented the designer for meeting [her] expectations.
-THe designer was complimented by [the sexy guard] for meeting [her] expectations.
+The designer was complimented by [the sexy guard] for meeting [her] expectations.
 
 The guard complimented [the honorable designer] for [his] excellent taste.
 [The honorable designer] was complimented by the guard for [his] excellent taste.
 
 [The honorable guard] complimented the designer for meeting [her] expectations.
-THe designer was complimented by [the honorable guard] for meeting [her] expectations.
+The designer was complimented by [the honorable guard] for meeting [her] expectations.
 
 
 
