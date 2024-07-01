@@ -89,7 +89,6 @@ Weil es [ihr] Job war, verkaufte [die untätige Verkäuferin] der Bibliothekarin
 Weil es [ihr] Job war, wurde der Bibliothekarin von [der untätigen Verkäuferin] einige Bücher verkauft. : [Verkäuferin] CORRECT
 
 Der Verkäufer hat [dem keuschen Bibliothekar] einige Bücher verkauft, weil [er] lernen wollte. : [Verkäufer] FALSE
-
 [Dem keuschen Bibliothekar] wurden vom Verkäufer einige Bücher verkauft, weil [er] lernen wollte. : [Verkäufer] FALSE
 Weil [er] lernen wollte, wurden [dem keuschen Bibliothekar] vom Verkäufer einige Bücher verkauft. : [Bibliothekar] CORRECT
 Weil [er] lernen wollte, verkaufte der Verkäufer [dem keuschen Bibliothekar] einige Bücher. : [Verkäufer] FALSE
@@ -280,9 +279,14 @@ Weil [sie] unehrlich ist, wurde [die hervorragende Entwicklerin] von der Prüfer
 Weil [sie] unehrlich ist, hat die Prüferin [die hervorragende Entwicklerin] beim Betrug erwischt. : [Prüferin] FALSE
 
 [Der klaglose Prüfer] hat den Entwickler beim Betrug ertappt, weil [er] die Schlüsseldokumente entdeckt hat. : [Prüfer] CORRECT
-[Der untätige Prüfer] hat den Entwickler beim Betrug ertappt, weil [er] die Schlüsseldokumente entdeckt hat. : [Prüfer] CORRECT
+Der Entwickler wurde von [dem klaglosen Prüfer] beim Betrug ertappt, weil [er] die Schlüsseldokumente entdeckt hat.
 Weil [er] die Schlüsseldokumente entdeckt hat, wurde der Entwickler von [dem klaglosen Prüfer] beim Betrug ertappt. : [Prüfer] CORRECT
 Weil [er] die Schlüsseldokumente entdeckt hat, hat [der klaglose Prüfer] den Entwickler beim Betrug ertappt. : [Prüfer] CORRECT
+
+[Der untätige Prüfer] hat den Entwickler beim Betrug ertappt, weil [er] die Schlüsseldokumente entdeckt hat.
+Der Entwickler wurde von [dem untätigen Prüfer] beim Betrug ertappt, weil [er] die Schlüsseldokumente entdeckt hat.
+Weil [er] die Schlüsseldokumente entdeckt hat, wurde der Entwickler von [dem untätigen Prüfer] beim Betrug ertappt.
+Weil [er] die Schlüsseldokumente entdeckt hat, hat [der untätige Prüfer] den Entwickler beim Betrug ertappt.
 
 [Die wunderbare Geschäftsführerin] hat das Gehalt der Empfangsdame erhöht, weil [sie] großzügig ist. : [Geschäftsführerin] CORRECT
 Das Gehalt der Empfangsdame wurde von [der wunderbaren Geschäftsführerin] erhöht, weil [sie] großzügig ist. : [Geschäftsführerin] CORRECT
@@ -327,10 +331,8 @@ Weil [er] Hilfe brauchte, hat der Wachmann [den ehrenwerten Redakteur] vor den V
 Die Assistentin kaufte einen neuen Computer aufgrund einer Empfehlung von [der eleganten Verkäuferin], weil [sie] überzeugend ist. : [Verkäuferin] CORRECT
 [Die elegante Verkäuferin] verkaufte der Assistentin einen neuen Computer aufgrund einer Empfehlung, weil [sie] überzeugend ist. : [Verkäuferin] CORRECT
 Weil [sie] überzeugend ist, verkaufte [die elegante Verkäuferin] der Assistentin einen neuen Computer aufgrund einer Empfehlung. : [Verkäuferin] CORRECT
-
-Die Cheffin gab [der brutalen Bibliothekarin] ein Buch zurück, aber [sie] beschwerte sich über die Verspätung. : [Cheffin] FALSE
-
 Weil [sie] überzeugend ist, kaufte die Assistentin einen neuen Computer von [der eleganten Verkäuferin] aufgrund einer Empfehlung. : [Assistentin] FALSE
+
 Die Assistentin kaufte einen neuen Computer aufgrund einer Empfehlung von [der brutalen Verkäuferin], weil [sie] überzeugend ist. : [brutalen Verkäuferin] CORRECT
 [Die brutale Verkäuferin] verkaufte der Assistentin einen neuen Computer aufgrund einer Empfehlung, weil [sie] überzeugend ist. : [brutalen Verkäuferin] CORRECT
 Weil [sie] überzeugend ist, verkaufte [die brutale Verkäuferin] der Assistentin einen neuen Computer aufgrund einer Empfehlung. : [brutalen Verkäuferin] CORRECT
@@ -479,6 +481,11 @@ Der Arzt verschrieb [dem lebhaften Designer] die Medikamente, weil [er] krank wa
 Weil [er] krank war, bekam [der lebhafte Designer] vom Arzt die Medikamente verschrieben. : [Designer] CORRECT
 Weil [er] krank war, verschrieb der Arzt [dem lebhaften Designer] die Medikamente. : [Arzt] FALSE
 
+Der Arzt verschrieb [dem gerechten Designer] die Medikamente, weil [er] krank war.
+[Der gerechte Designer] bekam vom Arzt die Medikamente verschrieben, weil [er] krank war.
+Weil [er] krank war, bekam [der gerechte Designer] vom Arzt die Medikamente verschrieben.
+Weil [er] krank war, verschrieb der Arzt [dem gerechten Designer] die Medikamente.
+
 [Die behütete Arbeiterin] ist gegen die Friseurin angetreten, weil [sie] dachte, es wäre einfach. : [Arbeiterin] CORRECT
 Die Friseurin musste gegen [die behütete Arbeitgeberin] antreten, weil [sie] dachte, es wäre einfach. : [Friseurin] FALSE
 Weil [sie] dachte, es wäre einfach, musste die Friseurin gegen [die behütete Arbeitgeberin] antreten. : [Friseurin] FALSE
@@ -522,7 +529,25 @@ Weil [er] den Wodka bezahlt hatte, schuldete der Arzt [dem wunderbaren Kassierer
 Die Friseurin schrie [die wunderschöne Fahrerin] an, weil [sie] einen Unfall gebaut hatte. : [Friseurin] FALSE
 [Die wunderschöne Fahrerin] wurde von der Friseurin angeschrien, weil [sie] einen Unfall gebaut hatte. : [Fahrerin] CORRECT
 Weil [sie] einen Unfall gebaut hatte, wurde [die wunderschöne Fahrerin] von der Friseurin angeschrien. : [Fahrerin] CORRECT
-Für die Schneiderin wurde von [der attraktiven Entwicklerin] eine Website erstellt, weil [sie] Expertin für die Erstellung von Websites ist. : [Entwicklerin] CORRECT
+Weil [sie] einen Unfall gebaut hatte, schrie die Friseurin [die wunderschöne Fahrerin] an.
+
+Die Friseurin schrie [die mutige Fahrerin] an, weil [sie] einen Unfall gebaut hatte.
+[Die mutige Fahrerin] wurde von der Friseurin angeschrien, weil [sie] einen Unfall gebaut hatte.
+Weil [sie] einen Unfall gebaut hatte, wurde [die mutige Fahrerin] von der Friseurin angeschrien.
+Weil [sie] einen Unfall gebaut hatte, schrie die Friseurin [die mutige Fahrerin] an.
+
+[Der hübsche Friseur] schrie den Fahrer an, weil [er] sich beleidigt fühlte.
+Der Fahrer wurde von [dem hübschen Friseur] angeschrien, weil [er] sich beleidigt fühlte.
+Weil [er] sich beleidigt fühlte, schrie [der hübsche Friseur] den Fahrer an.
+Weil [er] sich beleidigt fühlte, wurde der Fahrer von [dem hübschen Friseur] angeschrien.
+
+[Der rationale Friseur] schrie den Fahrer an, weil [er] sich beleidigt fühlte.
+Der Fahrer wurde von [dem rationalen Friseur] angeschrien, weil [er] sich beleidigt fühlte.
+Weil [er] sich beleidigt fühlte, schrie [der rationale Friseur] den Fahrer an.
+Weil [er] sich beleidigt fühlte, wurde der Fahrer von [dem rationalen Friseur] angeschrien.
+
+[Die attraktive Entwicklerin] hat eine Website für die Schneiderin erstellt, weil [sie] Expertin für die Erstellung von Websites ist.
+Für die Schneiderin wurde von [der attraktiven Entwicklerin] eine Website erstellt, weil [sie] Expertin für die Erstellung von Websites ist.
 
 Weil [sie] Expertin für die Erstellung von Websites ist, wurde für die Schneiderin von [der attraktiven Entwicklerin] eine Website erstellt. : [Entwicklerin] CORRECT
 
@@ -645,6 +670,7 @@ Die Reinigungskraft hasst [die hübsche Entwicklerin], weil [sie] das Zimmer imm
 Weil [sie] das Zimmer immer schmutzig hinterlässt, wurde [die hübsche Entwicklerin] von der Reinigungskraft gehasst. : [Entwicklerin] CORRECT
 Weil [sie] das Zimmer immer schmutzig hinterlässt, hasst die Reinigungskraft [die hübsche Entwicklerin]. : [Reinigungskraft] FALSE----------------------
 
+Die Reinigungskraft hasst [die rationale Entwicklerin], weil [sie] das Zimmer immer schmutzig hinterlässt.
 [Die rationale Entwicklerin] wurde von der Reinigungskraft gehasst, weil [sie] das Zimmer immer schmutzig hinterlässt. : [rationale Entwicklerin] CORRECT
 Weil [sie] das Zimmer immer schmutzig hinterlässt, wurde [die rationale Entwicklerin] von der Reinigungskraft gehasst. : [rationale Entwicklerin] CORRECT
 Weil [sie] das Zimmer immer schmutzig hinterlässt, hasst die Reinigungskraft [die rationale Entwicklerin]. : [rationale Entwicklerin] CORRECT---------------------
@@ -740,7 +766,6 @@ Weil [er] wissen wollte, wann das Haus fertig sein würde, wurde der Bauarbeiter
 Weil [er] wissen wollte, wann das Haus fertig sein würde, rief [der brutale Redakteur] den Bauarbeiter an. : [Redakteur] CORRECT
 
 Die Redakteurin rief [die zänkische Bauarbeiterin] an, weil [sie] die ganze Geschichte kannte. : [Redakteurin] FALSE
-
 [Die zänkische Bauarbeiterin] wurde von der Redakteurin angerufen, weil [sie] die ganze Geschichte kannte. : [Redakteurin] FALSE-----------------------
 Weil [sie] die ganze Geschichte kannte, wurde [die zänkische Bauarbeiterin] von der Redakteurin angerufen. : [Bauarbeiterin] CORRECT
 Weil [sie] die ganze Geschichte kannte, rief die Redakteurin [die zänkische Bauarbeiterin] an. : [Redakteurin] FALSE
@@ -836,181 +861,41 @@ Weil [er] wissen wollte, wann das Haus fertig sein würde, wurde der Bauarbeiter
 Weil [er] wissen wollte, wann das Haus fertig sein würde, rief [der elegante Redakteur] den Bauarbeiter an. : [Redakteur] CORRECT
 
 
-[Der brutale Redakteur] rief den Bauarbeiter an, weil [er] wissen wollte, wann das Haus fertig sein würde. : [Redakteur] CORRECT
 
-Der Bauarbeiter wurde von [dem brutalen Redakteur] angerufen, weil [er] wissen wollte, wann das Haus fertig sein würde. : [Redakteur] CORRECT-----------------------
 
-Weil [er] wissen wollte, wann das Haus fertig sein würde, wurde der Bauarbeiter von [dem brutalen Redakteur] angerufen. : [Redakteur] CORRECT
 
-Weil [er] wissen wollte, wann das Haus fertig sein würde, rief [der brutale Redakteur] den Bauarbeiter an. : [Redakteur] CORRECT
 
-Die Redakteurin rief [die zänkische Bauarbeiterin] an, weil [sie] die ganze Geschichte kannte. : [Redakteurin] FALSE
 
-[Die zänkische Bauarbeiterin] wurde von der Redakteurin angerufen, weil [sie] die ganze Geschichte kannte. : [Bauarbeiterin] CORRECT
 
-Weil [sie] die ganze Geschichte kannte, wurde [die zänkische Bauarbeiterin] von der Redakteurin angerufen. : [Bauarbeiterin] CORRECT
 
-Weil [sie] die ganze Geschichte kannte, rief die Redakteurin [die zänkische Bauarbeiterin] an. : [Redakteurin] FALSE
 
-Die Redakteurin rief [die unzuverlässige Bauarbeiterin] an, weil [sie] die ganze Geschichte kannte. : [Redakteurin] FALSE
 
-[Die unzuverlässige Bauarbeiterin] wurde von der Redakteurin angerufen, weil [sie] die ganze Geschichte kannte. : [Bauarbeiterin] CORRECT
 
-Weil [sie] die ganze Geschichte kannte, wurde [die unzuverlässige Bauarbeiterin] von der Redakteurin angerufen. : [Bauarbeiterin] CORRECT
 
-Weil [sie] die ganze Geschichte kannte, rief die Redakteurin [die unzuverlässige Bauarbeiterin] an. : [Redakteurin] FALSE
 
-[Die lebhafte Analytikerin] bat die Sekretärin, einen Flug zu buchen, weil [sie] ins Ausland reisen wird. : [Analytikerin] CORRECT
 
-Die Sekretärin wurde von [der lebhaften Analytikerin] gebeten, einen Flug zu buchen, weil [sie] ins Ausland reisen wird. : [Analytikerin] CORRECT
 
-Weil [sie] ins Ausland reisen wird, wurde die Sekretärin von [der lebhaften Analytikerin] gebeten, einen Flug zu buchen. : [Analytikerin] CORRECT
 
-Weil [sie] ins Ausland reisen wird, bat [die lebhafte Analytikerin] die Sekretärin, einen Flug zu buchen. : [Analytikerin] CORRECT
 
-[Die gerechte Analytikerin] bat die Sekretärin, einen Flug zu buchen, weil [sie] ins Ausland reisen wird. : [Analytikerin] CORRECT
 
-Die Sekretärin wurde von [der gerechten Analytikerin] gebeten, einen Flug zu buchen, weil [sie] ins Ausland reisen wird. : [Analytikerin] CORRECT
 
-Weil [sie] ins Ausland reisen wird, wurde die Sekretärin von [der gerechten Analytikerin] gebeten, einen Flug zu buchen. : [Analytikerin] CORRECT
 
-Weil [sie] ins Ausland reisen wird, bat [die gerechte Analytikerin] die Sekretärin, einen Flug zu buchen. : [Analytikerin] CORRECT
 
-Der Analytiker bat [den behüteten Sekretär], einen Flug zu buchen, weil [er] weiß, wie man das macht. : [Sekretär] CORRECT
 
-[Der behütete Sekretär] wurde vom Analytiker gebeten, einen Flug zu buchen, weil [er] weiß, wie man das macht. : [Sekretär] CORRECT
 
-Weil [er] weiß, wie man das macht, wurde [der behütete Sekretär] vom Analytiker gebeten, einen Flug zu buchen. : [Sekretär] CORRECT
 
-Weil [er] weiß, wie man das macht, bat der Analytiker [den behüteten Sekretär], einen Flug zu buchen. : [Sekretär] CORRECT
 
-Der Analytiker bat [den rechtschaffenden Sekretär], einen Flug zu buchen, weil [er] weiß, wie man das macht. : [Sekretär] CORRECT
 
-[Der rechtschaffende Sekretär] wurde vom Analytiker gebeten, einen Flug zu buchen, weil [er] weiß, wie man das macht. : [Sekretär] CORRECT
 
-Weil [er] weiß, wie man das macht, wurde [der rechtschaffende Sekretär] vom Analytiker gebeten, einen Flug zu buchen. : [Sekretär] CORRECT
-
-Weil [er] weiß, wie man das macht, bat der Analytiker [den rechtschaffenden Sekretär], einen Flug zu buchen. : [Sekretär] CORRECT
-
-[Die nörgelnde Schreinerin] arbeitet gerne mit der Designerin zusammen, weil [sie] so viel Zeit sparen kann. : [Schreinerin] CORRECT
-
-Mit der Designerin arbeitete [die nörgelnde Schreinerin] gerne zusammen, weil [sie] so viel Zeit sparen kann. : [Schreinerin] CORRECT
-
-Weil [sie] so viel Zeit sparen kann, arbeitete die Designerin gerne mit [der nörgelnden Schreinerin] zusammen. : [Schreinerin] CORRECT
-
-Weil [sie] so viel Zeit sparen kann, arbeitet [die nörgelnde Schreinerin] gerne mit der Designerin zusammen. : [Schreinerin] CORRECT
-
-[Die hervorragende Schreinerin] arbeitet gerne mit der Designerin zusammen, weil [sie] so viel Zeit sparen kann. : [Schreinerin] CORRECT
-
-Mit der Designerin arbeitete [die hervorragende Schreinerin] gerne zusammen, weil [sie] so viel Zeit sparen kann. : [Schreinerin] CORRECT
-
-Weil [sie] so viel Zeit sparen kann, arbeitete die Designerin gerne mit [der hervorragenden Schreinerin] zusammen. : [Schreinerin] CORRECT
-
-Weil [sie] so viel Zeit sparen kann, arbeitet [die hervorragende Schreinerin] gerne mit der Designerin zusammen. : [Schreinerin] CORRECT
-
-Der Schreiner arbeitet gerne mit [dem klaglosen Designer] zusammen, weil [er] immer tolle Entwürfe macht. : [Designer] CORRECT
-
-Mit [dem klaglosen Designer] arbeitete der Schreiner gerne zusammen, weil [er] immer tolle Entwürfe macht. : [Designer] CORRECT
-
-Weil [er] immer tolle Entwürfe macht, arbeitete der Schreiner gerne mit [dem klaglosen Designer] zusammen. : [Designer] CORRECT
-
-Weil [er] immer tolle Entwürfe macht, arbeitete mit [dem klaglosen Designer] der Schreiner gerne zusammen. : [Designer] CORRECT
-
-Der Schreiner arbeitet gerne mit [dem untätigen Designer] zusammen, weil [er] immer tolle Entwürfe macht. : [Designer] CORRECT
-
-Mit [dem untätigen Designer] arbeitete der Schreiner gerne zusammen, weil [er] immer tolle Entwürfe macht. : [Designer] CORRECT
-
-Weil [er] immer tolle Entwürfe macht, arbeitete der Schreiner gerne mit [dem untätigen Designer] zusammen. : [Designer] CORRECT
-
-Weil [er] immer tolle Entwürfe macht, arbeitete mit [dem untätigen Designer] der Schreiner gerne zusammen. : [Designer] CORRECT
-
-[Die keusche Verkäuferin] hat versucht, die Schriftstellerin zu täuschen, aber [sie] wurde erwischt. : [Verkäuferin] CORRECT
-
-Es wurde versucht die Schriftstellerin durch [die keusche Verkäuferin] zu täuschen, aber [sie] wurde erwischt. : [Verkäuferin] CORRECT
-
-[Sie] wurde erwischt, aber es wurde veruscht die Schriftstellerin durch [die keusche Verkäuferin] zu täuschen. : [Verkäuferin] CORRECT
-
-[Sie] wurde erwischt, aber [die keusche Verkäuferin] hat versucht, die Schriftstellerin zu täuschen. : [Verkäuferin] CORRECT
-
-[Die wunderbare Verkäuferin] hat versucht, die Schriftstellerin zu täuschen, aber [sie] wurde erwischt. : [Verkäuferin] CORRECT
-
-Es wurde versucht die Schriftstellerin durch [die wunderbare Verkäuferin] zu täuschen, aber [sie] wurde erwischt. : [Verkäuferin] CORRECT
-
-[Sie] wurde erwischt, aber es wurde veruscht die Schriftstellerin durch [die wunderbare Verkäuferin] zu täuschen. : [Verkäuferin] CORRECT
-
-[Sie] wurde erwischt, aber [die wunderbare Verkäuferin] hat versucht, die Schriftstellerin zu täuschen. : [Verkäuferin] CORRECT
-
-[Die wunderschöne Schreinerin] baute einen Schreibtisch für die Sekretärin, weil [sie] Zeit hatte. : [Schreinerin] CORRECT
 
 Für die Sekretärin wurde ein Schreibtisch von [der wunderschönen Schreinerin] gebaut, weil [sie] Zeit hatte. : [Schreinerin] CORRECT
 
-Weil [sie] Zeit hatte, wurde ein Schreibtisch von [der wunderschönen Schreinerin] für die Sekretärin gebaut. : [Schreinerin] CORRECT
-
-Weil [sie] Zeit hatte, hat die Sekretärin einen Schreibtisch für [die wunderschöne Schreinerin] gebaut. : [Sekretärin] FALSE
-
-[Die mutige Schreinerin] baute einen Schreibtisch für die Sekretärin, weil [sie] Zeit hatte. : [Schreinerin] CORRECT
-
 Für die Sekretärin wurde ein Schreibtisch von [der mutigen Schreinerin] gebaut, weil [sie] Zeit hatte. : [Schreinerin] CORRECT
 
-Weil [sie] Zeit hatte, wurde ein Schreibtisch von [der mutigen Schreinerin] für die Sekretärin gebaut. : [Schreinerin] CORRECT
-
-Weil [sie] Zeit hatte, hat die Sekretärin einen Schreibtisch für [die mutige Schreinerin] gebaut. : [Sekretärin] FALSE
-
-Der Schreiner baute einen Schreibtisch für [den hübschen Angestellten], weil [er] einen brauchte. : [Angestellter] CORRECT
-
-Für [den hübschen Angestellten] wurde ein Schreibtisch vom Schreiner gebaut, weil [er] einen brauchte. : [Angestellter] CORRECT
-
-Weil [er] einen brauchte, wurde für [den hübschen Angestellten] ein Schreibtisch vom Schreiner gebaut. : [Angestellter] CORRECT
-
-Weil [er] einen brauchte, baute der Schreiner einen Schreibtisch für [den hübschen Angestellten]. : [Angestellter] CORRECT
-
-Der Schreiner baute einen Schreibtisch für [den rationalen Angestellten], weil [er] einen brauchte. : [Angestellter] CORRECT
-
-Für [den rationalen Angestellten] wurde ein Schreibtisch vom Schreiner gebaut, weil [er] einen brauchte. : [Angestellter] CORRECT
-
-Weil [er] einen brauchte, wurde für [den rationalen Angestellten] ein Schreibtisch vom Schreiner gebaut. : [Angestellter] CORRECT
-
-Weil [er] einen brauchte, baute der Schreiner einen Schreibtisch für [den rationalen Angestellten]. : [Angestellter] CORRECT
-
-[Die attraktive Köchin] fragte die Designerin, ob [ihr] neues Gericht verbessert werden kann. : [Köchin] CORRECT
-
-Die Designerin wurde von [der attraktiven Köchin] gefragt, ob [ihr] neues Gericht verbessert werden kann. : [Köchin] CORRECT
-
-Ob [ihr] neues Gericht verbessert werden kann, fragte [die attraktive Köchin] die Designerin. : [Köchin] CORRECT
-
-Ob [ihr] neues Gericht verbessert werden kann, wurde die Designerin von [der attraktiven Köchin] gefragt. : [Köchin] CORRECT
-
-[Die ehrenwerte Köchin] fragte die Designerin, ob [ihr] neues Gericht verbessert werden kann. : [Köchin] CORRECT
-
-Die Designerin wurde von [der ehrenwerten Köchin] gefragt, ob [ihr] neues Gericht verbessert werden kann. : [Köchin] CORRECT
-
-Ob [ihr] neues Gericht verbessert werden kann, fragte [die ehrenwerte Köchin] die Designerin. : [Köchin] CORRECT
-
-Ob [ihr] neues Gericht verbessert werden kann, wurde die Designerin von [der ehrenwerten Köchin] gefragt. : [Köchin] CORRECT
-
-[Der elegante Redakteur] rief den Bauarbeiter an, weil [er] wissen wollte, wann das Haus fertig sein würde. : [Redakteur] CORRECT
-
-Der Bauarbeiter wurde von [dem eleganten Redakteur] angerufen, weil [er] wissen wollte, wann das Haus fertig sein würde. : [eleganten Redakteur] CORRECT
-
-Weil [er] wissen wollte, wann das Haus fertig sein würde, wurde der Bauarbeiter von [dem eleganten Redakteur] angerufen. : [eleganten Redakteur] CORRECT
-
-Weil [er] wissen wollte, wann das Haus fertig sein würde, rief [der elegante Redakteur] den Bauarbeiter an. : [elegante Redakteur] CORRECT
-
-[Der brutale Redakteur] rief den Bauarbeiter an, weil [er] wissen wollte, wann das Haus fertig sein würde. : [brutale Redakteur] CORRECT
-
-Der Bauarbeiter wurde von [dem brutalen Redakteur] angerufen, weil [er] wissen wollte, wann das Haus fertig sein würde. : [brutalen Redakteur] CORRECT
-
-Weil [er] wissen wollte, wann das Haus fertig sein würde, wurde der Bauarbeiter von [dem brutalen Redakteur] angerufen. : [brutalen Redakteur] CORRECT
-
-Weil [er] wissen wollte, wann das Haus fertig sein würde, rief [der brutale Redakteur] den Bauarbeiter an. : [brutale Redakteur] CORRECT
-
 [Die zänkische Köchin] hat eine Suppe für die Haushälterin zubereitet, weil [sie] ein neues Gericht ausprobieren wollte. : [zänkische Köchin] CORRECT
-
-Für die Haushälterin wurde von [der zänkischen Köchin] eine Suppe zubereitet, weil [sie] ein neues Gericht ausprobieren wollte. : [zänkische Köchin] CORRECT
-
-Weil [sie] ein neues Gericht ausprobieren wollte, wurde für die Haushälterin von [der zänkischen Köchin] eine Suppe zubereitet. : [zänkische Köchin] CORRECT
-
-Weil [sie] ein neues Gericht ausprobieren wollte, hat [die zänkische Köchin] eine Suppe für die Haushälterin zubereitet. : [zänkische Köchin] CORRECT
+Für die Haushälterin wurde von [der zänkischen Köchin] eine Suppe zubereitet, weil [sie] ein neues Gericht ausprobieren wollte.
+Weil [sie] ein neues Gericht ausprobieren wollte, wurde für die Haushälterin von [der zänkischen Köchin] eine Suppe zubereitet.
+Weil [sie] ein neues Gericht ausprobieren wollte, hat [die zänkische Köchin] eine Suppe für die Haushälterin zubereitet.
 
 [Die unzuverlässige Köchin] hat eine Suppe für die Haushälterin zubereitet, weil [sie] ein neues Gericht ausprobieren wollte. : [unzuverlässige Köchin] CORRECT
 
@@ -1192,7 +1077,7 @@ Weil [sie] reich ist, kaufte [die lebhafte Geschäftsführerin] der Buchhalterin
 [Die gerechte Geschäftsführerin] hat der Buchhalterin ein Auto gekauft, weil [sie] reich ist. : [Geschäftsführerin] CORRECT
 
 Der Buchhalterin wurde von [der gerechten Geschäftsführerin] ein Auto gekauft, weil [sie] reich ist. : [Geschäftsführerin] CORRECT
-
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!11
 Weil [sie] reich ist, wurde der Buchhalterin von [der gerechten Geschäftsführerin] ein Auto gekauft. : [Geschäftsführerin] CORRECT
 
 Weil [sie] reich ist, kaufte [die gerechte Geschäftsführerin] der Buchhalterin ein Auto. : [Geschäftsführerin] CORRECT
@@ -1210,6 +1095,10 @@ Der Geschäftsführer kaufte [dem rechtschaffenden Buchhalter] ein Auto, weil [e
 [Dem rechtschaffenden Buchhalter] wurde vom Geschäftsführer ein Auto gekauft, weil [er] eines brauchte. : [Buchhalter] CORRECT
 
 Weil [er] eines brauchte, wurde [dem rechtschaffenden Buchhalter] vom Gechäftsführer ein Auto gekauft. : [Buchhalter] CORRECT
+
+Weil [er] eines brauchte, kaufte der Geschäftsführer [dem rechtschaffenden Buchhalter] ein Auto.
+
+[Der nörgelnde Bibliothekar] hat dem Geschäftsführer geholfen, das Buch zu finden, denn das ist [sein] Job.
 
 Dem Geschäftsführer wurde von [dem nörgelnden Bibliothekar] geholfen, das Buch zu finden, denn das ist [sein] Job. : [Bibliothekar] CORRECT
 
@@ -1260,7 +1149,10 @@ Weil [ihr] das Buch gefällt, hat [die wunderbare Chefin] die Autorin ermutigt. 
 Der Chef ermutigte [den wunderschönen Schriftsteller], weil [er] ein gutes Buch schrieb. : [Schriftsteller] CORRECT
 
 [Der wunderschöne Schriftsteller] wurde vom Chef ermutigt, weil [er] ein gutes Buch schrieb. : [Schriftsteller] CORRECT
-
+angepasst:
+CORRECT: 524
+FALSE: 276
+TOTAL: 800
 Weil [er] ein gutes Buch schrieb, wurde [der wunderschöne Schriftsteller] vom Chef ermutigt. : [Schriftsteller] CORRECT
 
 Weil [er] ein gutes Buch schrieb, ermutigte der Chef [den wunderschönen Schriftsteller]. : [Schriftsteller] CORRECT
@@ -1310,3 +1202,8 @@ Weil [er] sehr beschäftigt war, lief [der ehrenwerte Krankenpfleger] vor dem Ar
 CORRECT: 580
 FALSE: 276
 TOTAL: 856
+
+angepasst:
+CORRECT: 524
+FALSE: 276
+TOTAL: 800
