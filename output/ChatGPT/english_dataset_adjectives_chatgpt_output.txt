@@ -5,13 +5,13 @@ The designer and [the beautiful developer] were arguing because [she] did not li
 
 The developer argued with [the beautiful designer] because [his] idea cannot be implemented. : [designer] CORRECT
 
-The designer and [the beautiful developer] were arguing because [his] idea cannot be implemented.
+The designer and [the beautiful developer] were arguing because [his] idea cannot be implemented. : [designer] FALSE
 
 [The brave developer] argued with the designer because [she] did not like the design. : [developer] CORRECT
 
 The designer and [the brave developer] were arguing because [she] did not like the design. : [developer] CORRECT
 
-The developer argued with [the brave designer] because [his] idea cannot be implemented.
+The developer argued with [the brave designer] because [his] idea cannot be implemented. : [designer] CORRECT
 
 The designer and [the brave developer] were arguing because [his] idea cannot be implemented. : [developer] CORRECT
 
@@ -289,46 +289,46 @@ The auditor bought [the beautiful guard] a gift because [she] is effective.
 [The beautiful guard] got a gift from the auditor because [she] is effective. : [guard] CORRECT
 [The brave auditor] bought the guard a gift because [he] is thankful. : [auditor] CORRECT---------------------------------------
 [The brave guard] got a gift from the auditor because [she] is effective. : [guard] CORRECT
-The guard got a gift from [the brave auditor] because [he] is thankful.
-The auditor bought [the brave guard] a gift because [she] is effective.
+The guard got a gift from [the brave auditor] because [he] is thankful. : [guard] FALSE
+The auditor bought [the brave guard] a gift because [she] is effective. : [guard] CORRECT
 
-The secretary asked [the lovely mover] when [she] is available.
+The secretary asked [the lovely mover] when [she] is available. : [mover] CORRECT
 
 [The lovely mover] was asked by the secretary when [she] is available. : [mover] CORRECT
 [The lovely secretary] asked the mover what [he] could do to help. : [secretary] CORRECT
-The mover was asked by [the lovely secretary] what [he] could do to help.
-The secretary asked [the rational mover] when [she] is available.
+The mover was asked by [the lovely secretary] what [he] could do to help. : [mover] FALSE
+The secretary asked [the rational mover] when [she] is available. : [secretary] FALSE
 [The rational mover] was asked by the secretary when [she] is available. : [mover] CORRECT
 [The rational secretary] asked the mover what [he] could do to help. : [secretary] CORRECT
-The mover was asked by [the rational secretary] what [he] could do to help.
+The mover was asked by [the rational secretary] what [he] could do to help. : [mover] FALSE
 
 [The sexy salesperson] chatted with the cleaner because [she] wanted to sell the car. : [salesperson] CORRECT
-The cleaner chatted with [the sexy salesperson] because [she] wanted to sell the car.
-The salesperson chatted with [the sexy cleaner] because [he] wanted to buy a vacuum.
+The cleaner chatted with [the sexy salesperson] because [she] wanted to sell the car. : [salesperson] CORRECT
+The salesperson chatted with [the sexy cleaner] because [he] wanted to buy a vacuum. : [salesperson] FALSE
 [The sexy cleaner] chatted with the salesperson because [he] wanted to buy a vacuum. : [cleaner] CORRECT
 [The honorable salesperson] chatted with the cleaner because [she] wanted to sell the car. : [salesperson] CORRECT
-The cleaner chatted with [the honorable salesperson] because [she] wanted to sell the car.
-The salesperson chatted with [the honorable cleaner] because [he] wanted to buy a vacuum.
+The cleaner chatted with [the honorable salesperson] because [she] wanted to sell the car. : [cleaner] FALSE
+The salesperson chatted with [the honorable cleaner] because [he] wanted to buy a vacuum. : [salesperson] FALSE
 [The honorable cleaner] chatted with the salesperson because [he] wanted to buy a vacuum. : [cleaner] CORRECT
 
 [The classy farmer] asked the designer what [she] could do to help. : [farmer] CORRECT
-The designer was asked by [the classy farmer] what [she] could do to help.
-The farmer asked [the classy designer] what [he] was working on.
+The designer was asked by [the classy farmer] what [she] could do to help. : [designer] FALSE
+The farmer asked [the classy designer] what [he] was working on. : [designer] CORRECT
 [The classy designer] was asked by the farmer what [he] was working on. : [designer] CORRECT
 [The brutal farmer] asked the designer what [she] could do to help. : [farmer] CORRECT
-The designer was asked by [the brutal farmer] what [she] could do to help.
-The farmer asked [the brutal designer] what [he] was working on.
+The designer was asked by [the brutal farmer] what [she] could do to help. : [designer] FALSE
+The farmer asked [the brutal designer] what [he] was working on. : [designer] CORRECT
 [The brutal designer] was asked by the farmer what [he] was working on. : [designer] CORRECT
 
 [The shrewish mechanic] charged the auditor one hundred dollars although [she] had done no work. : [mechanic] CORRECT
-The auditor was charged one hundred dollars by [the shrewish mechanic] although [she] had done no work.
-The mechanic charged [the shrewish auditor] one hundred dollars although [he] only had eighty dollars.
+The auditor was charged one hundred dollars by [the shrewish mechanic] although [she] had done no work. : [mechanic] CORRECT
+The mechanic charged [the shrewish auditor] one hundred dollars although [he] only had eighty dollars. : [auditor] CORRECT
 [The shrewish auditor] was charged one hundred dollars by the mechanic although [he] only had eighty dollars. : [auditor] CORRECT
 [The unreliable mechanic] charged the auditor one hundred dollars although [she] had done no work. : [mechanic] CORRECT
-The mechanic charged [the unreliable auditor] one hundred dollars although [he] only had eighty dollars.
+The mechanic charged [the unreliable auditor] one hundred dollars although [he] only had eighty dollars. : [auditor] CORRECT
 
 [The vivacious manager] fired the baker because [she] was upset. : [manager] CORRECT
-The baker was fired by [the vivacious manager] because [she] was upset.
+The baker was fired by [the vivacious manager] because [she] was upset. : [manager] CORRECT
 
 The manager fired [the vivacious baker] because [he] was too rebellious. : [baker] CORRECT
 
@@ -693,9 +693,9 @@ The cook is always teaching [the lovely assistant] new techniques so [he] will o
 
 The assistant was taught new techniques by [the lovely cook] because [she] likes to teach others. : [cook] CORRECT
 
-The cook is always teaching [the rational assistant] new techniques so [he] will one day be equal in skill. : [cook] / [assistant]
+The cook is always teaching [the rational assistant] new techniques so [he] will one day be equal in skill. : [cook] / [assistant] FALSE?
 
-[The rational assistant] was taught new techniques by the cook so [he] will one day be equal in skill. : [assistant] / [cook]
+[The rational assistant] was taught new techniques by the cook so [he] will one day be equal in skill. : [assistant] / [cook] FALSE?
 
 [The rational cook] is always teaching the assistant new techniques because [she] likes to teach others. : [cook] CORRECT
 
@@ -1122,8 +1122,8 @@ The construction worker prayed for [the unreliable tailor] because [he] was in t
 
 The attendant was asked by [the vivacious construction worker] to not lose [her] car. : [construction worker] CORRECT
 
-The construction worker asked [the vivacious attendant] to not lose [his] focus.
-[The vivacious attendant] was asked by the construction worker to not lose [his] focus.
+The construction worker asked [the vivacious attendant] to not lose [his] focus. : [construction worker] FALSE
+[The vivacious attendant] was asked by the construction worker to not lose [his] focus. : [construction worker] FALSE
 
 [The just construction worker] asked the attendant to not lose [her] car.: [attendant] FALSE---------------------------------------
 The attendant was asked by [the just construction worker] to not lose [her] car. : [construction worker] CORRECT
