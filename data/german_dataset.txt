@@ -536,4 +536,4 @@ Vor dem Arbeiter lief [der Krankenpfleger] davon, weil [er] sehr beschäftigt wa
 Weil [er] sehr beschäftigt war, lief vor dem Arbeiter [der Krankenpfleger] davon.
 Weil [er] sehr beschäftigt war, lief [der Krankenpfleger] vor dem Arbeiter davon.
 
-400 (204 female, 196 male)
+399 (204 female, 196 male)

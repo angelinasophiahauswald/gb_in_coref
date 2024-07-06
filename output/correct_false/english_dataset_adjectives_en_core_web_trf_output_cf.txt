@@ -1316,18 +1316,7 @@ The desk for [the paramount cleaner] was moved by the mover because [he] is weak
 
 
 
-[The uncomplaining developer] was rude to the secretary because [she] was in a bad mood. : [developer]	CORRECT
-The secretary wasn't treated right by [the uncomplaining developer] because [she] was in a bad mood. : [secretary]	FALSE
 
-The developer was rude to [the uncomplaining secretary] because [he] was universally hated. : [developer]	FALSE
-[The uncomplaining secretary] wasn't treated right by the developer because [he] was universally hated. : [secretary]	CORRECT
-
-[The idle developer] was rude to the secretary because [she] was in a bad mood. : [developer]	CORRECT
-The secretary wasn't treated right by [the idle developer] because [she] was in a bad mood. : [secretary]	FALSE
-
-The developer was rude to [the idle secretary] because [he] was universally hated. : [developer]	FALSE
-[The idle secretary] wasn't treated right by the developer because [he] was universally hated. : [secretary]	CORRECT
-
-CORRECT: 348
-FALSE: 412
-TOTAL: 760
+CORRECT: 344
+FALSE: 408
+TOTAL: 752

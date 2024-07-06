@@ -1308,16 +1308,6 @@ The desk for [the paramount cleaner] was moved by the mover because [he] is weak
 
 
 
-[The uncomplaining developer] was rude to the secretary because [she] was in a bad mood.
-The secretary wasn't treated right by [the uncomplaining developer] because [she] was in a bad mood.
 
-The developer was rude to [the uncomplaining secretary] because [he] was universally hated.
-[The uncomplaining secretary] wasn't treated right by the developer because [he] was universally hated.
 
-[The idle developer] was rude to the secretary because [she] was in a bad mood.
-The secretary wasn't treated right by [the idle developer] because [she] was in a bad mood.
-
-The developer was rude to [the idle secretary] because [he] was universally hated.
-[The idle secretary] wasn't treated right by the developer because [he] was universally hated.
-
-760 (380 female, 380 male)
+752 (380 female, 380 male)

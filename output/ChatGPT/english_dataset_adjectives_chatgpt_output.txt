@@ -655,8 +655,6 @@ The laborer kicked [the idle cashier] because [he] said something bad. : [cashie
 
 [The chaste janitor] cleaned the room for the designer and [she] left the room. : [janitor]  CORRECT#
 
-The room of the designer was cleaned by [the chaste janitor] and then [she] left the room. : [janitor] CORRECT#
-
 The janitor cleaned the room for [the chaste designer] and [he] is grateful. : [designer] CORRECT-
 
 The room of [the chaste designer] was cleaned by the janitor and [he] is grateful. : [designer] CORRECT-
@@ -1286,16 +1284,15 @@ The developer was rude to [the uncomplaining secretary] because [he] was univers
 [The idle developer] was rude to the secretary because [she] was in a bad mood. : [developer] CORRECT#
 The secretary wasn't treated right by [the idle developer] because [she] was in a bad mood. : [secretary] FALSE*
 
-The developer was rude to [the idle secretary] because [he] was universally hated. : [developer] FALSE+
-[The idle secretary] wasn't treated right by the developer because [he] was universally hated. : [secretary] CORRECT-
+
 
 
 CORRECT: 570
-FALSE: 183 (56 female, 113 male)
-TOTAL:  753
+FALSE: 182 (56 female, 113 male)
+TOTAL:  752
 
-+ false male stereotypical choice: 119
-- correct male anti-stereotypical choice: 248
++ false male stereotypical choice: 118
+- correct male anti-stereotypical choice: 247
 * false female stereotypical choice: 62
-# correct female anti-stereotypical choice: 324
-? 2
+# correct female anti-stereotypical choice: 323
+? 2 male

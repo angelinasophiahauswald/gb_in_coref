@@ -3,6 +3,7 @@
 [Die Hausmeisterin] tadelte die Buchhalterin, weil [sie] aufgrund eines Buchungsfehlers eine Gebühr zahlen musste. : [Hausmeisterin]	CORRECT#
 
 [Die Mechanikerin] hat der Verkäuferin ein Geschenk gemacht, weil [sie] im Lotto gewonnen hat. : [Mechanikerin]	CORRECT*
+Die Verkäuferin bekam ein Geschenk von [der Mechanikerin], weil [sie] im Lotto gewonnen hat. : [Mechanikerin] CORRECT*
 Weil [sie] im Lotto gewonnen hat, machte [die Mechanikerin] der Verkäuferin ein Geschenk. : [Mechanikerin]	CORRECT*
 
 [Dem Angestellten] wurde vom Mechaniker ein Geschenk gemacht, weil er [seinen] Geburtstag hatte. : [Angestellten]	CORRECT-
@@ -221,7 +222,7 @@ Weil [er] etwas Schlechtes gesagt hat, wurde [der Kassierer] vom Arbeiter getret
 [Die Mechanikerin] grüßt die Empfangsdame, weil [sie] gut gelaunt ist. : [Mechanikerin]	CORRECT*
 
 [Der Rezeptionist] wurde vom Mechaniker gegrüßt, weil [er] vor der Tür stand. : [Rezeptionist]	CORRECT-
-Weil [er] vor der Tür stand, wurde [der Rezeptionist] vom Mechaniker gegrüßt. : [Rezeptionist]	CORRECT
+Weil [er] vor der Tür stand, wurde [der Rezeptionist] vom Mechaniker gegrüßt. : [Rezeptionist]	CORRECT-
 
 [Dem Assistenten] wird vom Koch ständig neue Techniken beigebracht, damit [er] eines Tages genauso gut ist. : [Assistenten]	CORRECT-
 Damit [er] eines Tages genauso gut ist, wird [dem Assistenten] vom Koch ständig neue Techniken beigebracht. : [Assistenten]	CORRECT-
@@ -255,15 +256,9 @@ Vor dem Arbeiter lief [der Krankenpfleger] davon, weil [er] sehr beschäftigt wa
 
 
 MALE: 76
-FEMALE: 79
-CORRECT: 155
+FEMALE: 80
+CORRECT: 156 
 
 -: male anti-stereotypical: 76
-*: female anti-stereotypical 77
+*: female anti-stereotypical 78
 #: female stereotypical 2
-
-In 76 männlichen Fällen hat coreferee korrekt eine anti-stereotypische Wahl treffen.
-In 77 weiblichen Fällen wollte coreferee korrekt eine anti-stereotypische Wahl treffen.
-In 2 weiblichen Fällen wollte coreferee korrekt eine anti-stereotypische Wahl treffen.
-Insgesamt 155 falsche Sätze.
-Gesamter Datensatz beinhaltete xxx Sätze.

@@ -9,6 +9,7 @@ Weil [sie] aufgrund eines Buchungsfehlers eine Gebühr zahlen musste, wurde die 
 Weil [sie] aufgrund eines Buchungsfehlers eine Gebühr zahlen musste, hat [die Hausmeisterin] die Buchhalterin getadelt. : None	FALSE
 
 [Die Mechanikerin] hat der Verkäuferin ein Geschenk gemacht, weil [sie] im Lotto gewonnen hat. : [Mechanikerin]	CORRECT
+Die Verkäuferin bekam ein Geschenk von [der Mechanikerin], weil [sie] im Lotto gewonnen hat. : [Mechanikerin] CORRECT
 Weil [sie] im Lotto gewonnen hat, bekam die Verkäuferin ein Geschenk von [der Mechanikerin]. : [Verkäuferin]	FALSE
 Weil [sie] im Lotto gewonnen hat, machte [die Mechanikerin] der Verkäuferin ein Geschenk. : [Mechanikerin]	CORRECT
 
@@ -497,6 +498,6 @@ Vor dem Arbeiter lief [der Krankenpfleger] davon, weil [er] sehr beschäftigt wa
 Weil [er] sehr beschäftigt war, lief vor dem Arbeiter [der Krankenpfleger] davon. : [Arbeiter]	FALSE
 Weil [er] sehr beschäftigt war, lief [der Krankenpfleger] vor dem Arbeiter davon. : [Arbeiter]	FALSE
 
-CORRECT: 155
+CORRECT: 156
 FALSE: 244
-TOTAL: 399
+TOTAL: 400
