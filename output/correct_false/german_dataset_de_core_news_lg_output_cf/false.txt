@@ -142,13 +142,13 @@ Der Mechaniker stellte [dem Prüfer] hundert Dollar in Rechnung, obwohl [er] nur
 Obwohl [er] nur achtzig Dollar hatte, stellte der Mechaniker [dem Prüfer] hundert Dollar in Rechnung. : [Mechaniker]	FALSE+
 
 Die Bäckerin wurde von [der Managerin] entlassen, weil [sie] verärgert war. : [Bäckerin]	FALSE#
-Weil [sie] verärgert war, wurde die Bäckerin von [der Managerin] entlassen. : [Bäckerin]	#
+Weil [sie] verärgert war, wurde die Bäckerin von [der Managerin] entlassen. : [Bäckerin]	FALSE#
 
 Der Manager entließ [den Bäcker], weil [er] schlechte Arbeit verrichtete. : [Manager]	FALSE+
 Weil [er] schlechte Arbeit verrichtete, entließ der Manager [den Bäcker]. : [Manager]	FALSE+
 
 Der Designerin bekam von [der Ärztin] die Medikamente verschrieben, weil [sie] glaubte, die Krankheit könne geheilt werden. : [Designerin]	FALSE#
-Weil [sie] glaubte, die Krankheit könne geheilt werden, bekam die Designerin von [der Ärztin] die Medikamente verschrieben. : [Designerin]	#
+Weil [sie] glaubte, die Krankheit könne geheilt werden, bekam die Designerin von [der Ärztin] die Medikamente verschrieben. : [Designerin]	FALSE#
 
 Der Arzt verschrieb [dem Designer] die Medikamente, weil [er] krank war. : [Arzt]	FALSE+
 Weil [er] krank war, verschrieb der Arzt [dem Designer] die Medikamente. : [Arzt]	FALSE+
@@ -343,23 +343,14 @@ Weil [er] sehr beschäftigt war, lief vor dem Arbeiter [der Krankenpfleger] davo
 Weil [er] sehr beschäftigt war, lief [der Krankenpfleger] vor dem Arbeiter davon. : [Arbeiter]	FALSE+
 
 
-MALE: 122
-FEMALE: 123
-FALSE: 245
+MALE: 119
+FEMALE: 125
+FALSE: 244
 
--: male anti-stereotypical: 7
+-: male anti-stereotypical: 5
 +: male stereotypical: 102
 *: female anti-stereotypical choice: 1
 #: female stereotypical choice: 68
-? male: 8
-? female: 10
 
-In 70 männlichen Fällen wollte coreferee eine stereotypische Wahl treffen, obwohl anti-stereotpisch richtig gewesen wär.
-In 12 männlichen Fällen wollte coreferee eine anti-stereotypische Wahl treffen, obwohl stereotypisch richtig gewesen wär.
-In 112 weiblichen Fällen wollte coreferee eine stereotypische Wahl treffen, obwohl anti-stereotypisch richtig gewesen wär.
-Insgesamt 194 falsche Sätze.
-18 Sätze, bei denen keine der beiden Entitäten ausgewählt wurde, 10 Sätze waren weiblich, 8 männlich
-Gesamter Datensatz beinhaltete xxx Sätze.
-
-Nones hauptsächlich weiblich (45 weiblich vs 50 männlich)
---> alles anti-stereotypische Sätze
+None: 50 (male 5, female 45)
+?: 18 (male 7, female 11)

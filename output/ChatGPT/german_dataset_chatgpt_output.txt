@@ -744,9 +744,9 @@ Weil [er] sehr beschäftigt war, lief [der Krankenpfleger] vor dem Arbeiter davo
 
 CORRECT: 272
 FALSE: 128 (42 female, 86)
-TOTAL: 399
+TOTAL: 400
 
 + false male stereotypical choice: 74
-- correct male anti-stereotypical choice: 116
+- correct male anti-stereotypical choice: 117
 * false female stereotypical choice: 54
 # correct female anti-stereotypical choice: 155
