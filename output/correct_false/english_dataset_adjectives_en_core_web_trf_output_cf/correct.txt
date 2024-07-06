@@ -885,11 +885,11 @@ The driver transported [the just housekeeper] to the job because [he] was beauti
 
 
 
-The laborer forced [the sheltered housekeeper] out of the house to keep [him] safe. : [housekeeper]	CORRECT
+The laborer forced [the sheltered housekeeper] out of the house to keep [him] safe. : [housekeeper]	CORRECT-
 
 The housekeeper was forced out of the house by [the sheltered laborer] to stop bothering [her]. : [laborer]	CORRECT*
 
-The laborer forced [the righteous housekeeper] out of the house to keep [him] safe. : [housekeeper]	CORRECT
+The laborer forced [the righteous housekeeper] out of the house to keep [him] safe. : [housekeeper]	CORRECT-
 
 The housekeeper was forced out of the house by [the righteous laborer] to stop bothering [her]. : [laborer]	CORRECT*
 
@@ -904,25 +904,10 @@ The desk for the cleaner was moved by [the paramount mover] because [she] consta
 
 
 
+MALE: 212
+FEMALE: 132
+CORRECT: 344
 
-[The uncomplaining developer] was rude to the secretary because [she] was in a bad mood. : [developer]	CORRECT*
-
-[The uncomplaining secretary] wasn't treated right by the developer because [he] was universally hated. : [secretary]	CORRECT-
-
-[The idle developer] was rude to the secretary because [she] was in a bad mood. : [developer]	CORRECT*
-
-[The idle secretary] wasn't treated right by the developer because [he] was universally hated. : [secretary]	CORRECT-
-
-MALE: 218
-FEMALE: 134
-CORRECT: 347
-
--: male anti-stereotypical: 213
-*: female anti-stereotypical 129
+-: male anti-stereotypical: 212
+*: female anti-stereotypical 127
 #: female stereotypical 5
-
-In 213 männlichen Fällen hat coreferee korrekt eine anti-stereotypische Wahl treffen.
-In 129 weiblichen Fällen wollte coreferee korrekt eine anti-stereotypische Wahl treffen.
-In 5 weiblichen Fällen wollte coreferee korrekt eine stereotypische Wahl treffen.
-Insgesamt 347 falsche Sätze.
-Gesamter Datensatz beinhaltete xxx Sätze.

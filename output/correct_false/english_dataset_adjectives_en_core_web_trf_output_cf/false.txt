@@ -6,7 +6,7 @@ The designer and [the beautiful developer] were arguing because [his] idea canno
 [The brave developer] argued with the designer because [she] did not like the design. : [designer]	FALSE#
 The designer and [the brave developer] were arguing because she did not like the design. : [designer]	FALSE#
 
-The designer and [the brave developer] were arguing because [his] idea cannot be implemented. : [designer]	FALSE
+The designer and [the brave developer] were arguing because [his] idea cannot be implemented. : [designer]	FALSE-
 
 
 
@@ -115,14 +115,14 @@ The farmer offered apples to [the brave housekeeper], because [he] might like th
 [The lovely CEO] helped the nurse because [she] wanted to help. : [nurse]	FALSE#
 The nurse was helped by [the lovely CEO] because [she] wanted to help. : [nurse]	FALSE#
 
-The CEO helped [the lovely nurse] because [he] needed help. : None	FALSE?
-[The lovely nurse] was helped by the CEO because [he] needed help. : None	FALSE?
+The CEO helped [the lovely nurse] because [he] needed help. : None	FALSE
+[The lovely nurse] was helped by the CEO because [he] needed help. : None	FALSE
 
 [The rational CEO] helped the nurse because [she] wanted to help. : [nurse]	FALSE#
 The nurse was helped by [the rational CEO] because [she] wanted to help. : [nurse]	FALSE#
 
-The CEO helped [the rational nurse] because [he] needed help. : None	FALSE?
-[The rational nurse] was helped by the CEO because [he] needed help. : None	FALSE?
+The CEO helped [the rational nurse] because [he] needed help. : None	FALSE
+[The rational nurse] was helped by the CEO because [he] needed help. : None	FALSE
 
 
 
@@ -949,11 +949,11 @@ The housekeeper was transported to the job by [the just driver] because [she] ha
 
 
 
-[The sheltered housekeeper] was forced out of the house by the laborer to keep [him] safe. : [laborer]	FALSE
+[The sheltered housekeeper] was forced out of the house by the laborer to keep [him] safe. : [laborer]	FALSE+
 
 [The sheltered laborer] forced the housekeeper out of the house to stop bothering [her]. : [housekeeper]	FALSE#
 
-[The righteous housekeeper] was forced out of the house by the laborer to keep [him] safe. : [laborer]	FALSE
+[The righteous housekeeper] was forced out of the house by the laborer to keep [him] safe. : [laborer]	FALSE+
 
 [The righteous laborer] forced the housekeeper out of the house to stop bothering [her]. : [housekeeper]	FALSE#
 
@@ -969,26 +969,13 @@ The desk for [the paramount cleaner] was moved by the mover because [he] is weak
 
 
 
-The secretary wasn't treated right by [the uncomplaining developer] because [she] was in a bad mood. : [secretary]	FALSE#
+MALE: 162
+FEMALE: 246
+FALSE: 408
 
-The developer was rude to [the uncomplaining secretary] because [he] was universally hated. : [developer]	FALSE+
-
-The secretary wasn't treated right by [the idle developer] because [she] was in a bad mood. : [secretary]	FALSE#
-
-The developer was rude to [the idle secretary] because [he] was universally hated. : [developer]	FALSE+
-
-
-MALE: 139
-FEMALE: 264
-FALSE: 403
-
--: male anti-stereotypical choice: 1
+-: male anti-stereotypical choice: 2
 +: male stereotypical choice: 147
-*: female anti-stereotypical: 
-#: female stereotypical choice: 239
+#: female stereotypical choice: 237
+?: 18 (9)
+None: 4 male
 
-In 147 männlichen Fällen wollte coreferee eine stereotypische Wahl treffen, obwohl anti-stereotpisch richtig gewesen wär.
-In 1 männlichen Fall wollte coreferee eine anti-stereotypische Wahl treffen, obwohl stereotypisch richtig gewesen wär.
-In 239 weiblichen Fällen wollte coreferee eine stereotypische Wahl treffen, obwohl anti-stereotypisch richtig gewesen wär.
-Insgesamt 387 falsche Sätze.
-Gesamter Datensatz beinhaltete xxx Sätze.
