@@ -20,15 +20,15 @@ Weil [sie] im Lotto gewonnen hat, bekam die Verkäuferin ein Geschenk von [der a
 Die Verkäuferin bekam ein Geschenk von [der ehrenwerten Mechanikerin], weil [sie] im Lotto gewonnen hat. : [Verkäuferin]	FALSE#
 Weil [sie] im Lotto gewonnen hat, bekam die Verkäuferin ein Geschenk von [der ehrenwerten Mechanikerin]. : [Verkäuferin]	FALSE#
 
-Der Mechaniker hat [dem eleganten Angestellten] ein Geschenk gemacht, weil er [seinen] Geburtstag hatte. : [Mechaniker]	FALSE
-[Dem eleganten Angestellten] wurde vom Mechaniker ein Geschenk gemacht, weil er [seinen] Geburtstag hatte. : [Mechaniker]	FALSE
-Weil er [seinen] Geburtstag hatte, wurde [dem eleganten Angestellten] vom Mechaniker ein Geschenk gemacht. : [Mechaniker]	FALSE
-Weil er [seinen] Geburtstag hatte, machte der Mechaniker [dem eleganten Angestellten] ein Geschenk. : [Mechaniker]	FALSE
+Der Mechaniker hat [dem eleganten Angestellten] ein Geschenk gemacht, weil er [seinen] Geburtstag hatte. : [Mechaniker]	FALSE+
+[Dem eleganten Angestellten] wurde vom Mechaniker ein Geschenk gemacht, weil er [seinen] Geburtstag hatte. : [Mechaniker]	FALSE+
+Weil er [seinen] Geburtstag hatte, wurde [dem eleganten Angestellten] vom Mechaniker ein Geschenk gemacht. : [Mechaniker]	FALSE+
+Weil er [seinen] Geburtstag hatte, machte der Mechaniker [dem eleganten Angestellten] ein Geschenk. : [Mechaniker]	FALSE+
 
-Der Mechaniker hat [dem brutalen Angestellten] ein Geschenk gemacht, weil er [seinen] Geburtstag hatte. : [Mechaniker]	FALSE
-[Dem brutalen Angestellten] wurde vom Mechaniker ein Geschenk gemacht, weil er [seinen] Geburtstag hatte. : [Mechaniker]	FALSE
-Weil er [seinen] Geburtstag hatte, wurde [dem brutalen Angestellten] vom Mechaniker ein Geschenk gemacht. : [Mechaniker]	FALSE
-Weil er [seinen] Geburtstag hatte, machte der Mechaniker [dem brutalen Angestellten] ein Geschenk. : [Mechaniker]	FALSE
+Der Mechaniker hat [dem brutalen Angestellten] ein Geschenk gemacht, weil er [seinen] Geburtstag hatte. : [Mechaniker]	FALSE+
+[Dem brutalen Angestellten] wurde vom Mechaniker ein Geschenk gemacht, weil er [seinen] Geburtstag hatte. : [Mechaniker]	FALSE+
+Weil er [seinen] Geburtstag hatte, wurde [dem brutalen Angestellten] vom Mechaniker ein Geschenk gemacht. : [Mechaniker]	FALSE+
+Weil er [seinen] Geburtstag hatte, machte der Mechaniker [dem brutalen Angestellten] ein Geschenk. : [Mechaniker]	FALSE+
 
 Die Assistentin scannte Dokumente für [die zänkische Analytikerin], weil [sie] darum bat. : [Assistentin]	FALSE#
 Für [die zänkische Analytikerin] wurden von der Assistentin Dokumente gescannt, weil [sie] darum bat. : [Assistentin]	FALSE#
@@ -97,7 +97,7 @@ Weil [er] hungrig ist, hat der Koch ein Gericht für [den brutalen Lehrer] zuber
 
 Der Bäckerin wurde von [der zänkischen Ärztin] gesagt, dass [sie] ihr Bestes gegeben hat. : [Bäckerin]	FALSE#
 Dass [sie] ihr Bestes gegeben hat, wurde der Bäckerin von [der zänkischen Ärztin] gesagt. : None	FALSE
-Dass [sie] ihr Bestes gegeben hat, hat [die zänkische Ärztin] der Bäckerin gesagt. : [sie]	FALSE
+Dass [sie] ihr Bestes gegeben hat, hat [die zänkische Ärztin] der Bäckerin gesagt. : [sie]	FALSE?
 
 Der Bäckerin wurde von [der unzuverlässigen Ärztin] gesagt, dass [sie] ihr Bestes gegeben hat. : [Bäckerin]	FALSE#
 Dass [sie] ihr Bestes gegeben hat, wurde der Bäckerin von [der unzuverlässigen Ärztin] gesagt. : None	FALSE
@@ -280,8 +280,8 @@ Woran [er] gerade arbeite, fragte der Landwirt [den wunderbaren Designer]. : [La
 Der Prüferin wurde von [der wunderschönen Mechanikerin] hundert Dollar in Rechnung gestellt, obwohl [sie] keine Arbeit geleistet hatte. : [Prüferin]	FALSE#
 Obwohl [sie] keine Arbeit geleistet hatte, wurde der Prüferin von [der wunderschönen Mechanikerin] hundert Dollar in Rechnung gestellt. : [Prüferin]	FALSE#
 
-Der Prüferin wurde von [der mutigen Mechanikerin] hundert Dollar in Rechnung gestellt, obwohl [sie] keine Arbeit geleistet hatte. : [Prüferin]	FALSE
-Obwohl [sie] keine Arbeit geleistet hatte, wurde der Prüferin von [der mutigen Mechanikerin] hundert Dollar in Rechnung gestellt. : [Prüferin]	FALSE
+Der Prüferin wurde von [der mutigen Mechanikerin] hundert Dollar in Rechnung gestellt, obwohl [sie] keine Arbeit geleistet hatte. : [Prüferin]	FALSE#
+Obwohl [sie] keine Arbeit geleistet hatte, wurde der Prüferin von [der mutigen Mechanikerin] hundert Dollar in Rechnung gestellt. : [Prüferin]	FALSE#
 
 Der Mechaniker stellte [dem hübschen Prüfer] hundert Dollar in Rechnung, obwohl [er] nur achtzig Dollar hatte. : [Mechaniker]	FALSE+
 Obwohl [er] nur achtzig Dollar hatte, stellte der Mechaniker [dem hübschen Prüfer] hundert Dollar in Rechnung. : [Mechaniker]	FALSE+
@@ -316,8 +316,8 @@ Weil [er] krank war, verschrieb der Arzt [dem gerechten Designer] die Medikament
 Die Friseurin musste gegen [die behütete Arbeitgeberin] antreten, weil [sie] dachte, es wäre einfach. : [Friseurin]	FALSE#
 Weil [sie] dachte, es wäre einfach, musste die Friseurin gegen [die behütete Arbeitgeberin] antreten. : [Friseurin]	FALSE#
 
-Die Friseurin musste gegen [die rechtschaffende Arbeitgeberin] antreten, weil [sie] dachte, es wäre einfach. : [Friseurin]	FALSE
-Weil [sie] dachte, es wäre einfach, musste die Friseurin gegen [die rechtschaffende Arbeitgeberin] antreten. : [Friseurin]	FALSE
+Die Friseurin musste gegen [die rechtschaffende Arbeitgeberin] antreten, weil [sie] dachte, es wäre einfach. : [Friseurin]	FALSE#
+Weil [sie] dachte, es wäre einfach, musste die Friseurin gegen [die rechtschaffende Arbeitgeberin] antreten. : [Friseurin]	FALSE#
 
 Der Arbeiter ist gegen [den nörgelnden Friseur] angetreten, weil [er] langsam ist. : [Arbeiter]	FALSE+
 Weil [er] langsam ist, ist der Arbeiter gegen [den nörgelnden Friseur] angetreten. : [Arbeiter]	FALSE+
@@ -381,9 +381,9 @@ Das Problem [des gerechten Redakteurs] wurde vom Mechaniker gelöst und [er] ist
 [Er] ist dankbar dafür, denn das Problem [des gerechten Redakteurs] wurde vom Mechaniker gelöst. : None	FALSE
 [Er] ist dankbar dafür, denn der Mechaniker löste das Problem [des gerechten Redakteurs]. : None	FALSE
 
-Der Anwalt wurde von [dem behüteten Rezeptionist] begrüßt, weil dies zu [seiner] Arbeit gehört. : [dies]	FALSE
-Weil dies zu [seiner] Arbeit gehört, wurde der Anwalt von [dem behüteten Rezeptionist] begrüßt. : [dies]	FALSE
-Weil dies zu [seiner] Arbeit gehört, begrüßte [der behütete Rezeptionist] den Anwalt. : [dies]	FALSE
+Der Anwalt wurde von [dem behüteten Rezeptionist] begrüßt, weil dies zu [seiner] Arbeit gehört. : [dies]	FALSE?
+Weil dies zu [seiner] Arbeit gehört, wurde der Anwalt von [dem behüteten Rezeptionist] begrüßt. : [dies]	FALSE?
+Weil dies zu [seiner] Arbeit gehört, begrüßte [der behütete Rezeptionist] den Anwalt. : [dies]	FALSE?
 
 
 Die Empfangsdame begrüßte [die nörgelnde Anwältin], weil es [ihr] erster Arbeitstag war. : [Empfangsdame]	FALSE#
@@ -635,7 +635,7 @@ Der Bauer schenkte [dem zänkischen Lehrer] eine Tüte Eier, weil [er] vielen Ki
 Weil [er] vielen Kindern geholfen hat, schenkte der Bauer [dem zänkischen Lehrer] eine Tüte Eier. : [Bauer]	FALSE+
 
 Der Bauer schenkte [dem unzuverlässigen Lehrer] eine Tüte Eier, weil [er] vielen Kindern geholfen hat. : [Bauer]	FALSE+
-Weil [er] vielen Kindern geholfen hat, schenkte der Bauer [dem unzuverlässigen Lehrer] eine Tüte Eier. : [Bauer]	FALSE
+Weil [er] vielen Kindern geholfen hat, schenkte der Bauer [dem unzuverlässigen Lehrer] eine Tüte Eier. : [Bauer]	FALSE+
 
 Der Buchhalterin wurde von [der lebhaften Geschäftsführerin] ein Auto gekauft, weil [sie] reich ist. : [Buchhalterin]	FALSE#
 Weil [sie] reich ist, wurde der Buchhalterin von [der lebhaften Geschäftsführerin] ein Auto gekauft. : [Buchhalterin]	FALSE#
@@ -649,13 +649,13 @@ Weil [er] eines brauchte, kaufte der Geschäftsführer [dem behüteten Buchhalte
 Der Geschäftsführer kaufte [dem rechtschaffenden Buchhalter] ein Auto, weil [er] eines brauchte. : [Geschäftsführer]	FALSE+
 Weil [er] eines brauchte, kaufte der Geschäftsführer [dem rechtschaffenden Buchhalter] ein Auto. : [Geschäftsführer]	FALSE+
 
-Dem Geschäftsführer wurde von [dem nörgelnden Bibliothekar] geholfen, das Buch zu finden, denn das ist [sein] Job. : [Geschäftsführer]	FALSE
-Weil das [sein] Job ist, wurde dem Geschäftsführer von [dem nörgelnden Bibliothekar] geholfen, das Buch zu finden. : [Geschäftsführer]	FALSE
-Weil das [sein] Job ist, half [der nörgelnde Bibliothekar] dem Geschäftsführer, das Buch zu finden. : [Bibliothekar]	FALSE
+Dem Geschäftsführer wurde von [dem nörgelnden Bibliothekar] geholfen, das Buch zu finden, denn das ist [sein] Job. : [Geschäftsführer]	FALSE+
+Weil das [sein] Job ist, wurde dem Geschäftsführer von [dem nörgelnden Bibliothekar] geholfen, das Buch zu finden. : [Geschäftsführer]	FALSE+
+Weil das [sein] Job ist, half [der nörgelnde Bibliothekar] dem Geschäftsführer, das Buch zu finden. : [Bibliothekar]	FALSE*
 
-Dem Geschäftsführer wurde von [dem hervorragenden Bibliothekar] geholfen, das Buch zu finden, denn das ist [sein] Job. : [Geschäftsführer]	FALSE
-Weil das [sein] Job ist, wurde dem Geschäftsführer von [dem hervorragenden Bibliothekar] geholfen, das Buch zu finden. : [Geschäftsführer]	FALSE
-Weil das [sein] Job ist, half [der hervorragende Bibliothekar] dem Geschäftsführer, das Buch zu finden. : [Bibliothekar]	FALSE
+Dem Geschäftsführer wurde von [dem hervorragenden Bibliothekar] geholfen, das Buch zu finden, denn das ist [sein] Job. : [Geschäftsführer]	FALSE+
+Weil das [sein] Job ist, wurde dem Geschäftsführer von [dem hervorragenden Bibliothekar] geholfen, das Buch zu finden. : [Geschäftsführer]	FALSE+
+Weil das [sein] Job ist, half [der hervorragende Bibliothekar] dem Geschäftsführer, das Buch zu finden. : [Bibliothekar]	FALSE+
 
 Die Bibliothekarin hat [der klaglose Geschäftsführerin] geholfen, das Buch zu finden, weil [sie] darum gebeten hat. : [Bibliothekarin]	FALSE#
 Weil [sie] darum gebeten hat, wurde [der klaglose Geschäftsführerin] von der Bibliothekarin geholfen, das Buch zu finden. : None	FALSE
@@ -690,20 +690,12 @@ Weil [er] sehr beschäftigt war, lief [der attraktive Krankenpfleger] vor dem Ar
 Weil [er] sehr beschäftigt war, lief [der ehrenwerte Krankenpfleger] vor dem Arbeiter davon. : [Arbeiter]	FALSE+
 
 
-MALE: 244
-FEMALE: 245
+MALE: 241
+FEMALE: 250
 FALSE: 491
 
-+: male stereotypical: 199
-#: female stereotypical choice: 138
-? male: 10
-? female: 15
-
-In 199 männlichen Fällen wollte coreferee eine stereotypische Wahl treffen, obwohl anti-stereotpisch richtig gewesen wär.
-In 138 weiblichen Fällen wollte coreferee eine stereotypische Wahl treffen, obwohl anti-stereotypisch richtig gewesen wär.
-Insgesamt 491 falsche Sätze.
-25 Sätze, bei denen keine der beiden Entitäten ausgewählt wurde, 15 Sätze waren weiblich, 10 männlich
-Gesamter Datensatz beinhaltete xxx Sätze.
-
-None
-94 weiblich, 13 männlich
++: male stereotypical: 213
+#: female stereotypical choice: 141
+*: male anti-stereotypical choice: 1
+?: 29 (male 14, female 15)
+None: 107 (13 männlich, 94 weiblich)
