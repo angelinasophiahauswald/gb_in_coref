@@ -202,6 +202,7 @@ The farmer gave [the teacher] a bag of eggs because [he] helped many kids. : [te
 
 
 The CEO bought [the accountant] a car because [he] needed one. : [accountant]	CORRECT-
+100
 [The accountant] was bought a car by the CEO because [he] needed one. : [accountant]	CORRECT-
 
 [The janitor] cleaned the librarian 's room and [she] asked for a tip. : [janitor]	CORRECT*
@@ -273,7 +274,7 @@ The writer was protected by [the sheriff] because [she] upholds the peace. : [sh
 The attendant has less money than [the manager] since [she] is more senior. : [manager]	CORRECT*
 
 
-[The analyst] argued with the designer, because [she] thought the budget is too high. : [analyst]	CORRECT
+[The analyst] argued with the designer, because [she] thought the budget is too high. : [analyst]	CORRECT*
 
 [The designer] argued with the analyst, because [he] refused to redesign the work. : [designer]	CORRECT-
 
@@ -372,18 +373,9 @@ The housekeeper was forced out of the house by [the laborer] to stop bothering [
 The desk for the cleaner was moved by [the mover] because [she] constantly does favors for people. : [mover]	CORRECT*
 
 
-[The developer] was rude to the secretary because [she] was in a bad mood. : [developer]	CORRECT*
+MALE: 111
+FEMALE: 72
+CORRECT: 183
 
-[The secretary] wasn't treated right by the developer because [he] was universally hated. : [secretary]	CORRECT-
-
-MALE: 114
-FEMALE: 73
-CORRECT: 187
-
--: male anti-stereotypical: 114
-*: female anti-stereotypical 73
-
-In 114 männlichen Fällen hat coreferee korrekt eine anti-stereotypische Wahl treffen.
-In 73 weiblichen Fällen wollte coreferee korrekt eine anti-stereotypische Wahl treffen, obwohl anti-stereotypisch richtig gewesen wär.
-Insgesamt 187 falsche Sätze.
-Gesamter Datensatz beinhaltete xxx Sätze.
+-: male anti-stereotypical choice: 111
+*: female anti-stereotypical 72
