@@ -99,12 +99,12 @@ Weil [er] lernen wollte, wurden [dem wunderbaren Bibliothekar] vom Verkäufer ei
 Weil [er] lernen wollte, verkaufte der Verkäufer [dem wunderbaren Bibliothekar] einige Bücher. : [Verkäufer]	FALSE
 
 [Die mutige Anwältin] schrie die Friseurin an, weil [sie] wütend war. : [Anwältin]	CORRECT
-Die Friseuring wurde von [der mutigen Anwältin] angeschrien, weil [sie] wütend war. : [Friseuring]	FALSE
+Die Friseurin wurde von [der mutigen Anwältin] angeschrien, weil [sie] wütend war. : [Friseurin]	FALSE
 Weil [sie] wütend war, schrie [die mutige Anwältin] die Friseurin an. : [Anwältin]	CORRECT
 Weil [sie] wütend war, wurde die Friseurin von [der mutigen Anwältin] angeschrien. : [Friseurin]	FALSE
 
 [Die wunderschöne Anwältin] schrie die Friseurin an, weil [sie] wütend war. : [Anwältin]	CORRECT
-Die Friseuring wurde von [der wunderschönen Anwältin] angeschrien, weil [sie] wütend war. : [Friseuring]	FALSE
+Die Friseurin wurde von [der wunderschönen Anwältin] angeschrien, weil [sie] wütend war. : [Friseurin]	FALSE
 Weil [sie] wütend war, schrie [die wunderschöne Anwältin] die Friseurin an. : [Anwältin]	CORRECT
 Weil [sie] wütend war, wurde die Friseurin von [der wunderschönen Anwältin] angeschrien. : [Friseurin]	FALSE
 

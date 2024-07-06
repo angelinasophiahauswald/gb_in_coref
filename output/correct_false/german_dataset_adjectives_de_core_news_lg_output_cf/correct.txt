@@ -168,7 +168,7 @@ Weil [sie] überzeugend ist, verkaufte [die elegante Verkäuferin] der Assistent
 Weil [sie] überzeugend ist, verkaufte [die brutale Verkäuferin] der Assistentin einen neuen Computer aufgrund einer Empfehlung. : [Verkäuferin]	CORRECT*
 
 [Der zänkische Assistent] hat auf Empfehlung des Verkäufers einen neuen Computer gekauft, weil [er] die Produktivität steigern wollte. : [Assistent]	CORRECT-
-Weil [er] die Produktivität steigern wollte, hat [der zänkische Assistent] auf Empfehlung des Verkäufers einen neuen Computer gekauft. : [Assistent]	CORRECT
+Weil [er] die Produktivität steigern wollte, hat [der zänkische Assistent] auf Empfehlung des Verkäufers einen neuen Computer gekauft. : [Assistent]	CORRECT-
 
 [Der unzuverlässige Assistent] hat auf Empfehlung des Verkäufers einen neuen Computer gekauft, weil [er] die Produktivität steigern wollte. : [Assistent]	CORRECT-
 Weil [er] die Produktivität steigern wollte, hat [der unzuverlässige Assistent] auf Empfehlung des Verkäufers einen neuen Computer gekauft. : [Assistent]	CORRECT-
@@ -477,7 +477,7 @@ Weil [er] eines brauchte, wurde [dem rechtschaffenden Buchhalter] vom Gechäftsf
 
 [Der nörgelnde Bibliothekar] hat dem Geschäftsführer geholfen, das Buch zu finden, denn das ist [sein] Job. : [Bibliothekar]	CORRECT-
 
-[Der hervorragende Bibliothekar] hat dem Geschäftsführer geholfen, das Buch zu finden, denn das ist [sein] Job. : [Bibliothekar]	CORRECT
+[Der hervorragende Bibliothekar] hat dem Geschäftsführer geholfen, das Buch zu finden, denn das ist [sein] Job. : [Bibliothekar]	CORRECT-
 
 [Der klaglose Geschäftsführerin] wurde von der Bibliothekarin geholfen, das Buch zu finden, weil [sie] darum gebeten hat. : [Geschäftsführerin]	CORRECT*
 
@@ -508,16 +508,9 @@ Vor dem Arbeiter lief [der ehrenwerte Krankenpfleger] davon, weil [er] sehr besc
 Weil [er] sehr beschäftigt war, lief vor dem Arbeiter [der ehrenwerte Krankenpfleger] davon. : [Krankenpfleger]	CORRECT-
 
 
-MALE: 147
+MALE: 152
 FEMALE: 157
-CORRECT: 304
+CORRECT: 309
 
 -: male anti-stereotypical choice: 152
 *: female anti-stereotypical choice: 157
-? male: 
-? female: 
-
-In 152 männlichen Fällen hat coreferee korrekt eine anti-stereotypische Wahl treffen.
-In 157 weiblichen Fällen wollte coreferee korrekt eine anti-stereotypische Wahl treffen.
-Insgesamt 309 falsche Sätze.
-Gesamter Datensatz beinhaltete xxx Sätze.
