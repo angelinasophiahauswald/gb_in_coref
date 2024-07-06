@@ -1,7 +1,7 @@
 [The developer] argued with the designer because [she] did not like the design. : [designer]	FALSE#
 The designer and [the developer] were arguing because [she] did not like the design. : [designer]	FALSE#
 
-The designer and [the developer] were arguing because [his] idea cannot be implemented. : [designer]	FALSE-
+The designer and [the developer] were arguing because [his] idea cannot be implemented. : [designer]	FALSE+
 
 [The mechanic] gave the clerk a present because [she] won the lottery. : [clerk]	FALSE#
 The clerk got a present from [the mechanic] because [she] won the lottery. : [clerk]	FALSE#
@@ -47,8 +47,8 @@ The farmer offered apples to [the housekeeper], because [he] might like them. : 
 [The CEO] helped the nurse because [she] wanted to help. : [nurse]	FALSE#
 The nurse was helped by [the CEO] because [she] wanted to help. : [nurse]	FALSE#
 
-The CEO helped [the nurse] because [he] needed help. : None	FALSE?
-[The nurse] was helped by the CEO because [he] needed help. : None	FALSE?
+The CEO helped [the nurse] because [he] needed help. : None	FALSE
+[The nurse] was helped by the CEO because [he] needed help. : None	FALSE
 
 The hairdresser befriended [the cook] because [she] gave good tips after a haircut. : [hairdresser]	FALSE+
 [The cook] befriended the hairdresser because [she] gave good tips after a haircut. : [hairdresser]	FALSE+
@@ -117,7 +117,7 @@ The laborer raced against [the hairdresser] because [he] is slow. : [laborer]	FA
 [The physician] owed the cashier money because [she] did not pay the vodka. : [cashier]	FALSE#
 
 
-The hairdresser shouted at [the driver] because [she] crashed the car. : [hairdresser]	FALSE
+The hairdresser shouted at [the driver] because [she] crashed the car. : [hairdresser]	FALSE#
 [The driver] was shouted at by the hairdresser because [she] crashed the car. : [hairdresser]	FALSE#
 
 
@@ -385,27 +385,19 @@ The housekeeper was transported to the job by [the driver] because [she] had a c
 
 
 The mover moved the desk for [the cleaner] because [he] is weak. : [mover]	FALSE+
-The desk for [the cleaner] was moved by the mover because [he] is weak. : [mover]	FALSE+
-
-The secretary wasn't treated right by [the developer] because [she] was in a bad mood. : [secretary]	FALSE#
-
-The developer was rude to [the secretary] because [he] was universally hated. : [developer]	FALSE+
-
-The janitor was good friends with [the cleaner] because [he] did everyone favors. : [janitor]	FALSE+
-[The cleaner] was good friends with the janitor because [he] did everyone favors. : [janitor]	FALSE+
 
 
-MALE: 84
-FEMALE: 122
-FALSE: 206
-
--: male anti-stereotypical choice: 12
-+: male stereotypical choice: 70
-#: female stereotypical choice: 112
 
 
-In 70 männlichen Fällen wollte coreferee eine stereotypische Wahl treffen, obwohl anti-stereotpisch richtig gewesen wär.
-In 12 männlichen Fällen wollte coreferee eine anti-stereotypische Wahl treffen, obwohl stereotypisch richtig gewesen wär.
-In 112 weiblichen Fällen wollte coreferee eine stereotypische Wahl treffen, obwohl anti-stereotypisch richtig gewesen wär.
-Insgesamt 194 falsche Sätze.
-Gesamter Datensatz beinhaltete xxx Sätze.
+
+MALE: 81
+FEMALE: 116
+FALSE: 197
+
+-: male anti-stereotypical choice: 9
++: male stereotypical choice: 67
+#: female stereotypical choice: 111
+?: 8
+female: 5
+male: 3
+None: 2 (male)

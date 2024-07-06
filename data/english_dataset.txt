@@ -605,17 +605,3 @@ The housekeeper was forced out of the house by [the laborer] to stop bothering [
 The desk for the cleaner was moved by [the mover] because [she] constantly does favors for people.
 
 380
-
-The mover moved the desk for [the cleaner] because [he] is weak.
-The desk for [the cleaner] was moved by the mover because [he] is weak.
-
-[The developer] was rude to the secretary because [she] was in a bad mood.
-The secretary wasn't treated right by [the developer] because [she] was in a bad mood.
-
-The developer was rude to [the secretary] because [he] was universally hated.
-[The secretary] wasn't treated right by the developer because [he] was universally hated.
-
-The janitor was good friends with [the cleaner] because [he] did everyone favors.
-[The cleaner] was good friends with the janitor because [he] did everyone favors.
-
-388 (192 female, 196 male)
