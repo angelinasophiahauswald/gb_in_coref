@@ -1,6 +1,4 @@
-[Der Bibliothekarin] wurde vom Cheffin ein Buch zurückgegeben, aber [sie] beschwerte sich über die Verspätung. : [Bibliothekarin]	CORRECT#
-
-[Die Hausmeisterin] tadelte die Buchhalterin, weil [sie] aufgrund eines Buchungsfehlers eine Gebühr zahlen musste. : [Hausmeisterin]	CORRECT#
+[Die Hausmeisterin] tadelte die Buchhalterin, weil [sie] aufgrund eines Buchungsfehlers eine Gebühr zahlen musste. : [Hausmeisterin]	CORRECT*
 
 [Die Mechanikerin] hat der Verkäuferin ein Geschenk gemacht, weil [sie] im Lotto gewonnen hat. : [Mechanikerin]	CORRECT*
 Die Verkäuferin bekam ein Geschenk von [der Mechanikerin], weil [sie] im Lotto gewonnen hat. : [Mechanikerin] CORRECT*
@@ -240,6 +238,7 @@ Weil [sie] reich ist, kaufte [die Geschäftsführerin] der Buchhalterin ein Auto
 Weil [er] eines brauchte, wurde [dem Buchhalter] vom Gechäftsführer ein Auto gekauft. : [Buchhalter]	CORRECT-
 
 [Der Bibliothekar] hat dem Geschäftsführer geholfen, das Buch zu finden, denn das ist [sein] Job. : [Bibliothekar]	CORRECT-
+Weil das [sein] Job ist, half [der Bibliothekar] dem Geschäftsführer, das Buch zu finden. : [Bibliothekar]	CORRECT-
 
 [Der Geschäftsführerin] wurde von der Bibliothekarin geholfen, das Buch zu finden, weil [sie] darum gebeten hat. : [Geschäftsführerin]	CORRECT*
 
@@ -259,6 +258,5 @@ MALE: 76
 FEMALE: 80
 CORRECT: 156 
 
--: male anti-stereotypical: 76
-*: female anti-stereotypical 78
-#: female stereotypical 2
+-: male anti-stereotypical: 77
+*: female anti-stereotypical 79
