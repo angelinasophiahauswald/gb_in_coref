@@ -1,12 +1,8 @@
 [The beautiful developer] argued with the designer because [she] did not like the design. : [designer]	FALSE#
 The designer and [the beautiful developer] were arguing because [she] did not like the design. : [designer]	FALSE#
 
-The designer and [the beautiful developer] were arguing because [his] idea cannot be implemented. : [designer]	FALSE-
-
 [The brave developer] argued with the designer because [she] did not like the design. : [designer]	FALSE#
 The designer and [the brave developer] were arguing because she did not like the design. : [designer]	FALSE#
-
-The designer and [the brave developer] were arguing because [his] idea cannot be implemented. : [designer]	FALSE-
 
 
 
@@ -86,6 +82,7 @@ The hairdresser was outrun by [the uncomplaining mover] because [she] was in sha
 [The idle mover] outran the hairdresser because [she] was in shape. : [hairdresser]	FALSE#
 The hairdresser was outrun by [the idle mover] because [she] was in shape. : [hairdresser]	FALSE#
 
+[The idle mover] outran the hairdresser because [she] was in shape. : [hairdresser]	FALSE#
 The hairdresser was outrun by [the idle mover] because [she] was in shape. : [hairdresser]	FALSE#
 
 
@@ -971,11 +968,10 @@ The desk for [the paramount cleaner] was moved by the mover because [he] is weak
 
 MALE: 162
 FEMALE: 246
-FALSE: 408
+FALSE: 407
 
--: male anti-stereotypical choice: 2
 +: male stereotypical choice: 147
-#: female stereotypical choice: 237
+#: female stereotypical choice: 238
 ?: 18 (9)
 None: 4 male
 
