@@ -1,7 +1,3 @@
-Die Cheffin gab [der Bibliothekarin] ein Buch zurück, aber [sie] beschwerte sich über die Verspätung. : [Cheffin]	FALSE*
-Über die Verspätung beschwerte [sie] sich, als [der Bibliothekarin] vom Cheffin ein Buch zurückgegeben wurde. : [sie]	FALSE?
-Über die Verspätung beschwerte [sie] sich, als der Chef [der Bibliothekarin] ein Buch zurückgab. : [sie]	FALSE?
-
 Die Buchhalterin wurde von [der Hausmeisterin] getadelt, weil [sie] aufgrund eines Buchungsfehlers eine Gebühr zahlen musste. : [Buchhalterin]	FALSE#
 Weil [sie] aufgrund eines Buchungsfehlers eine Gebühr zahlen musste, wurde die Buchhaltering von [der Hausmeisterin] getadelt. : None	FALSE
 Weil [sie] aufgrund eines Buchungsfehlers eine Gebühr zahlen musste, hat [die Hausmeisterin] die Buchhalterin getadelt. : None	FALSE
@@ -29,8 +25,8 @@ Weil [er] hilfreich war, gab der Chef [dem Haushälter] ein Trinkgeld. : [Chef]	
 Der Bibliothekarin wurden von [der Verkäuferin] einige Bücher verkauft, weil es [ihr] Job war. : [Bücher]	FALSE?
 Weil es [ihr] Job war, wurde der Bibliothekarin von [der Verkäuferin] einige Bücher verkauft. : [Bibliothekarin]	FALSE#
 
-Der Verkäufer hat [dem Bibliothekar] einige Bücher verkauft, weil [er] lernen wollte. : [Verkäufer]	FALSE-
-Weil [er] lernen wollte, verkaufte der Verkäufer [dem Bibliothekar] einige Bücher. : [Verkäufer]	FALSE-
+Der Verkäufer hat [dem Bibliothekar] einige Bücher verkauft, weil [er] lernen wollte. : [Verkäufer]	FALSE+
+Weil [er] lernen wollte, verkaufte der Verkäufer [dem Bibliothekar] einige Bücher. : [Verkäufer]	FALSE+
 
 Die Friseuring wurde von [der Anwältin] angeschrien, weil [sie] wütend war. : [Friseuring]	FALSE#
 Weil [sie] wütend war, wurde die Friseurin von [der Anwältin] angeschrien. : [Friseurin]	FALSE#
@@ -115,8 +111,8 @@ Weil [er] Hilfe brauchte, hat der Wachmann [den Redakteur] vor den Verbrechern g
 Die Assistentin kaufte einen neuen Computer aufgrund einer Empfehlung von [der Verkäuferin], weil [sie] überzeugend ist. : [Assistentin]	FALSE#
 Weil [sie] überzeugend ist, kaufte die Assistentin einen neuen Computer von [der Verkäuferin] aufgrund einer Empfehlung. : [Assistentin]	FALSE#
 
-Der Verkäufer verkaufte aufgrund einer Empfehlung [dem Assistenten] einen neuen Computer, weil [er] die Produktivität steigern wollte. : [Verkäufer]	FALSE-
-Weil [er] die Produktivität steigern wollte, verkaufte der Verkäufer aufgrund einer Empfehlung [dem Assistenten] einen neuen Computer. : [Verkäufer]	FALSE-
+Der Verkäufer verkaufte aufgrund einer Empfehlung [dem Assistenten] einen neuen Computer, weil [er] die Produktivität steigern wollte. : [Verkäufer]	FALSE+
+Weil [er] die Produktivität steigern wollte, verkaufte der Verkäufer aufgrund einer Empfehlung [dem Assistenten] einen neuen Computer. : [Verkäufer]	FALSE+
 
 Dem Wachmann wurde von [dem Prüfer] ein Geschenk gekauft, weil [er] dankbar ist. : [Wachmann]	FALSE+
 Weil [er] dankbar ist, wurde dem Wachmann von [dem Prüfer] ein Geschenk gekauft. : [Wachmann]	FALSE+
@@ -323,7 +319,6 @@ Weil [er] eines brauchte, kaufte der Geschäftsführer [dem Buchhalter] ein Auto
 
 Dem Geschäftsführer wurde von [dem Bibliothekar] geholfen, das Buch zu finden, denn das ist [sein] Job. : [Geschäftsführer]	FALSE+
 Weil das [sein] Job ist, wurde dem Geschäftsführer von [dem Bibliothekar] geholfen, das Buch zu finden. : [Geschäftsführer]	FALSE+
-Weil das [sein] Job ist, half [der Bibliothekar] dem Geschäftsführer, das Buch zu finden. : [Bibliothekar]	FALSE-
 
 Die Bibliothekarin hat [der Geschäftsführerin] geholfen, das Buch zu finden, weil [sie] darum gebeten hat. : [Bibliothekarin]	FALSE#
 Weil [sie] darum gebeten hat, wurde [der Geschäftsführerin] von der Bibliothekarin geholfen, das Buch zu finden. : None	FALSE
@@ -345,12 +340,10 @@ Weil [er] sehr beschäftigt war, lief [der Krankenpfleger] vor dem Arbeiter davo
 
 MALE: 119
 FEMALE: 125
-FALSE: 244
+FALSE: 240
 
--: male anti-stereotypical: 5
-+: male stereotypical: 102
-*: female anti-stereotypical choice: 1
++: male stereotypical: 106
 #: female stereotypical choice: 68
 
 None: 50 (male 5, female 45)
-?: 18 (male 7, female 11)
+?: 16 (male 8, female 8)

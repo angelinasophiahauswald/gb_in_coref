@@ -2,13 +2,13 @@
 The designer and [the beautiful developer] were arguing because [she] did not like the design.
 
 The developer argued with [the beautiful designer] because [his] idea cannot be implemented.
-The designer and [the beautiful developer] were arguing because [his] idea cannot be implemented.
+[The beautiful designer] and the developer were arguing because [his] idea cannot be implemented.
 
 [The brave developer] argued with the designer because [she] did not like the design.
 The designer and [the brave developer] were arguing because [she] did not like the design.
 
 The developer argued with [the brave designer] because [his] idea cannot be implemented.
-The designer and [the brave developer] were arguing because [his] idea cannot be implemented.
+[The brave designer] and the developer were arguing because [his] idea cannot be implemented.
 
 
 
@@ -118,8 +118,8 @@ The mover outran [the uncomplaining hairdresser] because [he] did not feel good.
 [The idle mover] outran the hairdresser because [she] was in shape.
 The hairdresser was outrun by [the idle mover] because [she] was in shape.
 
-The mover outran [the idle hairdresser] because [she] did not feel good.
-The hairdresser was outrun by [the idle mover] because [she] was in shape. ???
+[The idle mover] outran the hairdresser because [she] was in shape.
+The hairdresser was outrun by [the idle mover] because [she] was in shape.
 
 
 

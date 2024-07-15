@@ -651,11 +651,10 @@ Weil [er] eines brauchte, kaufte der Geschäftsführer [dem rechtschaffenden Buc
 
 Dem Geschäftsführer wurde von [dem nörgelnden Bibliothekar] geholfen, das Buch zu finden, denn das ist [sein] Job. : [Geschäftsführer]	FALSE+
 Weil das [sein] Job ist, wurde dem Geschäftsführer von [dem nörgelnden Bibliothekar] geholfen, das Buch zu finden. : [Geschäftsführer]	FALSE+
-Weil das [sein] Job ist, half [der nörgelnde Bibliothekar] dem Geschäftsführer, das Buch zu finden. : [Bibliothekar]	FALSE*
+
 
 Dem Geschäftsführer wurde von [dem hervorragenden Bibliothekar] geholfen, das Buch zu finden, denn das ist [sein] Job. : [Geschäftsführer]	FALSE+
 Weil das [sein] Job ist, wurde dem Geschäftsführer von [dem hervorragenden Bibliothekar] geholfen, das Buch zu finden. : [Geschäftsführer]	FALSE+
-Weil das [sein] Job ist, half [der hervorragende Bibliothekar] dem Geschäftsführer, das Buch zu finden. : [Bibliothekar]	FALSE+
 
 Die Bibliothekarin hat [der klaglose Geschäftsführerin] geholfen, das Buch zu finden, weil [sie] darum gebeten hat. : [Bibliothekarin]	FALSE#
 Weil [sie] darum gebeten hat, wurde [der klaglose Geschäftsführerin] von der Bibliothekarin geholfen, das Buch zu finden. : None	FALSE
@@ -692,10 +691,9 @@ Weil [er] sehr beschäftigt war, lief [der ehrenwerte Krankenpfleger] vor dem Ar
 
 MALE: 241
 FEMALE: 250
-FALSE: 491
+FALSE: 489
 
-+: male stereotypical: 213
++: male stereotypical: 212
 #: female stereotypical choice: 141
-*: male anti-stereotypical choice: 1
 ?: 29 (male 14, female 15)
 None: 107 (13 männlich, 94 weiblich)

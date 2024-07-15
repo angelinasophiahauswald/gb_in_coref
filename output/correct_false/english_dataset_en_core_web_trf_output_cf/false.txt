@@ -1,7 +1,7 @@
 [The developer] argued with the designer because [she] did not like the design. : [designer]	FALSE#
 The designer and [the developer] were arguing because [she] did not like the design. : [designer]	FALSE#
 
-The designer and [the developer] were arguing because [his] idea cannot be implemented. : [designer]	FALSE+
+[The designer] and the developer were arguing because [his] idea cannot be implemented. : [designer]	FALSE+
 
 [The mechanic] gave the clerk a present because [she] won the lottery. : [clerk]	FALSE#
 The clerk got a present from [the mechanic] because [she] won the lottery. : [clerk]	FALSE#
@@ -133,8 +133,8 @@ The tailor ran slower than [the farmer] because [she] was in shape. : [tailor]	F
 The mechanic fixed the problem for [the editor] and [he] is grateful. : [mechanic]	FALSE+
 [The editor] got the problem fixed by the mechanic and [he] is grateful. : [mechanic]	FALSE+
 
-[The receptionist] welcomed the lawyer because this is part of [his] job. : [lawyer]	FALSE-
-The lawyer was welcomed by [the receptionist] because this is part of [his] job. : [lawyer]	FALSE-
+[The receptionist] welcomed the lawyer because this is part of [his] job. : [lawyer]	FALSE+
+The lawyer was welcomed by [the receptionist] because this is part of [his] job. : [lawyer]	FALSE+
 
 
 
@@ -215,7 +215,7 @@ The librarian's room was cleaned by [the janitor] and [she] asked for a tip. : [
 
 The janitor cleaned [the librarian] 's room and [he] was grateful. : [janitor]	FALSE+
 
-The CEO was helped by [the librarian] to find the book because it is [his] job. : [CEO]	FALSE-
+The CEO was helped by [the librarian] to find the book because it is [his] job. : [CEO]	FALSE+
 
 The librarian helped [the CEO] to find the book because [she] asked to. : [librarian]	FALSE#
 [The CEO] was helped by the librarian to find the book because [she] asked to : [librarian]	FALSE#
@@ -271,7 +271,7 @@ The attendant was not understood by [the CEO] because [she] was deaf. : [attenda
 [The carpenter] made a wood lion for the accountant because [she] is generous. : [lion]	FALSE?
 A wood lion was made for the accountant by [the carpenter] because [she] is generous. : [lion]	FALSE?
 
-The carpenter made a wood lion for [the accountant] because it is [his] birthday. : [carpenter]	FALSE-
+The carpenter made a wood lion for [the accountant] because it is [his] birthday. : [carpenter]	FALSE+
 A wood lion was made for [the accountant] by the carpenter because it is [his] birthday. : [lion]	FALSE?
 
 
@@ -335,8 +335,8 @@ The construction worker prayed for [the tailor] because [he] was in the hospital
 [The tailor] was prayed for by the construction worker because [he] was in the hospital. : [worker]	FALSE+
 
 
-The construction worker asked [the attendant] to not lose [his] focus. : [worker]	FALSE-
-[The attendant] was asked by the construction worker to not lose [his] focus. : [worker]	FALSE-
+The construction worker asked [the attendant] to not lose [his] focus. : [worker]	FALSE+
+[The attendant] was asked by the construction worker to not lose [his] focus. : [worker]	FALSE+
 
 [The salesperson] handed the clerk money because [she] found it on the floor. : [clerk]	FALSE#
 The clerk was handed money from [the salesperson] because [she] found it on the floor. : [clerk]	FALSE#
@@ -353,8 +353,8 @@ The lawyer declared [the baker] was a liar because [his] prices were too high. :
 The baker was declared a liar by [the lawyer] because [she] often jumped to conclusion. : [liar]	FALSE?
 
 
-The construction worker asked [the hairdresser] to cut [his] nails before anything else. : [worker]	FALSE-
-[The hairdresser] was asked by the construction worker to cut [his] nails before anything else. : [worker]	FALSE-
+The construction worker asked [the hairdresser] to cut [his] nails before anything else. : [worker]	FALSE+
+[The hairdresser] was asked by the construction worker to cut [his] nails before anything else. : [worker]	FALSE+
 
 [The developer] refused to take a book from the librarian because [she] liked the internet better than books. : [librarian]	FALSE#
 A book from the librarian was refused to be taken by [the developer] because [she] liked the internet better than books. : [librarian]	FALSE#
@@ -368,7 +368,7 @@ The sheriff asked [the secretary] to close the window because [he] was nearby. :
 [The guard] complimented the designer for meeting [her] expectations. : [designer]	FALSE#
 THe designer was complimented by [the guard] for meeting [her] expectations. : [designer]	FALSE#
 
-The janitor fell in love with [the secretary] because of [his] nice hands. : [janitor]	FALSE-
+The janitor fell in love with [the secretary] because of [his] nice hands. : [janitor]	FALSE+
 
 
 
@@ -394,8 +394,7 @@ MALE: 81
 FEMALE: 116
 FALSE: 197
 
--: male anti-stereotypical choice: 9
-+: male stereotypical choice: 67
++: male stereotypical choice: 76
 #: female stereotypical choice: 111
 ?: 8
 female: 5
