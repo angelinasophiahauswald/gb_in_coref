@@ -143,12 +143,6 @@ def prepare_analysis(cf_file):
     false.close()
     return correct, false
 
-def test():    
-    text = "[The developer] argued with the designer because [she] did not like the design. : [designer]"
-    before_colon = re.findall(r'^.*(?=:)', text)[0]
-    square_brackets = re.findall(r'\[.*?\]', before_colon)
-    print(square_brackets)
-
 if __name__ == '__main__':
     data = sys.argv[1]      # path to data
     # takes the folder name as input
@@ -171,6 +165,3 @@ if __name__ == '__main__':
     # stores inside that new directory a file with only the correct results and one for false results
     ###prepare_analysis(data)
 
-    ### TO DO: öffnen und schließen von dateien
-    ### TO DO: check ob dateien schon existieren
-    #test()
