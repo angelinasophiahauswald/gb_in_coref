@@ -148,20 +148,20 @@ if __name__ == '__main__':
     # takes the folder name as input
     # creates the foler 'output' if it doesn't exist already
     # stores the coreference resolution in a txt-file (in each line the original sentence, then a colon and then the result of the coref system)
-    ###preprocess_data(data)
+    preprocess_data(data)
 
     # takes the xxx_output.txt file as input
     # creates the correct_false folder inside the output folder
     # checks if the coreference resolution result is the same as the expected entity
     # writes the original file with CORRECT or FALSE in a txt-file
-    correct_false(data)
+    #correct_false(data)
 
     # takes xxx_output_cf.txt as input
     # counts the amount of correct and false resolved sentences and writes the statistic at the end of the file
-    ###evaluate(data)
+    #evaluate(data)
 
     # takes [model]_output_cf.txt file as input
     # creates a new directory for that file with the same name as the file
     # stores inside that new directory a file with only the correct results and one for false results
-    ###prepare_analysis(data)
+    #prepare_analysis(data)
 
