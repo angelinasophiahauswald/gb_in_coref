@@ -25,3 +25,9 @@ This function takes xxx_output_cf.txt as input and counts the amount of correct 
 
 ### prepare_analysis
 This function takes [model]_output_cf.txt file as input and creates a new directory for that file with the same name as the file. It stores inside that new directory a file with only the correct results and one for false results (to better analyse the data later).
+
+## Explanation of Folders
+data: location of all the data files
+output/ChatGPT: location of all the results of ChatGPT for every dataset
+output/[...]_output.txt-files: output-file of Coreferee without checking if it is correct or not
+output/correct_false/: contains txt-files indicating if the resolution was correct/false and a folder for every data set containing one file of that dataset with only correctly resolved sentences, and a second file with every falsely resolved sentence
